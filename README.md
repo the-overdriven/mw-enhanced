@@ -27,4 +27,4 @@ Save it as .bat file, i.e. res_720_MW.bat. Create a shortcut, open its propertie
 `C:\Windows\System32\cmd.exe /C "<path to the script>\res_720_MW.bat"`
 
 ## On multiple screens setup, moving mouse in game moves cursor on second screen
-Install and run [FullscreenLock](https://github.com/blaberry/FullscreenLock) every time you run the game (the script above runs it automatically)
+Install and run [FullscreenLock](https://github.com/blaberry/FullscreenLock) every time you run the game (the script above runs it automatically). The .exe file can be downloaded from the [Releases](https://github.com/blaberry/FullscreenLock/releases/tag/1.1) page. [Mirror](https://github.com/the-overdriven/FullscreenLock/releases/tag/1.1).
