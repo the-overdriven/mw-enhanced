@@ -47,8 +47,6 @@ For this purpose I find being able to edit GMST variables during game runtime th
   <summary>My custom GMST variables</summary>
 
 ```
-fFatigueSwimWalkBase = 2.5
-fFatigueSwimWalkMult = 0
 fMaxWalkSpeed = 80
 fMinWalkSpeed = 20
 fMinWalkSpeedCreature = 5
@@ -58,9 +56,6 @@ fSwimWalkBase = 0.5
 
 fAthleticsRunBonus = 1
 fBaseRunMultiplier = 5
-fFatigueRunBase = 5
-fFatigueRunMult = 2
-fFatigueSwimRunBase = 7
 fJumpRunMultiplier = 1
 fSwimRunAthleticsMult = 0.1
 fSwimRunBase = 0.5
@@ -68,6 +63,30 @@ fWereWolfRunMult = 1.5
 ```
 </details>
 
+This removes the necessity of juggling around with .esp plugins whose only purpose is to modify these variables.
+
+## I use up all my fatigue for moving around, so I have none left for fighting
+
+Use the forementioned GMST Menu to halve the fatigue corresponding variables:
+
+```
+fFatigueRunBase = 5 to 2.5
+fFatigueRunMult = 2 to 1
+fFatigueSneakBase = 1.5 to 0.75
+fFatigueSneakMult = 1.5 to 0.75
+fFatigueSwimRunBase = 7 to 3.5
+fFatigueSwimWalkBase = 2.5 to 1.25
+```
+
+To offset movement fatigue being halved one can double fatigue costs of jumping, attacking and blocking:
+```
+fFatigueAttackBase = 2 to 4
+fFatigueBlockBase = 4 to 8
+fFatigueJumpBase = 2 to 4
+```
+
+These especially make sense to cost more fatigue when using hit-chance simplifying mods (such as Better Balanced Combat), which make the combat last shorter.
+
 ## All my hits are missing
-Dice-roll combat working as intended. But on a serious note, you can make the combat more dynamic by installing mods that make all swings have 100% chance to hit. I find [Better Balanced Combat](https://www.nexusmods.com/morrowind/mods/46596) to address this issue most tactfully, without breaking the balance too much, by taking side effects into consideration: i.e. fatigue is still important as the lower it is the higher is the chance to be knocked down, weapon skills also do not become meaningless but add a bonus to strength instead (which, rightfully, excludes the capacity bonus). Unfortunately, the mod also affects the regen rate, running speed and makes "You have failed casting the spell" popups disappear, which I'd personally prefer to leave as it is.
+Dice-roll combat working as intended. But on a serious note, you can make the combat more dynamic by installing mods that make all swings have 100% chance to hit. I find [Better Balanced Combat](https://www.nexusmods.com/morrowind/mods/46596) to address this issue most tactfully, without breaking the balance too much, by taking side effects into consideration: i.e. fatigue is still important as the lower it is the higher is the chance to be knocked down, weapon skills also do not become meaningless but add a bonus to strength instead (which, rightfully, excludes the encumbrance bonus). Unfortunately, the mod also affects the regen rate, running speed and makes "You have failed casting the spell" popups disappear, which I'd personally prefer to leave as it is.
 
