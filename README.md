@@ -29,6 +29,9 @@ Save it as .bat file, i.e. res_720_MW.bat. Create a shortcut, open its propertie
 ## On multiple screens setup, moving mouse in game moves cursor on the second screen
 Install [FullscreenLock](https://github.com/blaberry/FullscreenLock) and run it every time you run the game (the script above runs it automatically). The .exe file can be downloaded from the [Releases](https://github.com/blaberry/FullscreenLock/releases/tag/1.1) page. [Mirror](https://github.com/the-overdriven/FullscreenLock/releases/tag/1.1).
 
+## Game hangs when closing it
+Install [Expeditious Exit](https://www.nexusmods.com/morrowind/mods/45634)
+
 ## Everything in game is too small. Fonts, UI, etc.
 Open MGE XE settings and adjust the Menu UI scaling to your liking. Depending on game's resolution I find 1.20 - 1.50 values most optimal.
 
@@ -113,9 +116,11 @@ Install [Tribunal Delayed](https://www.nexusmods.com/morrowind/mods/33973/)
 Install [Encumberance increaser](https://www.nexusmods.com/morrowind/mods/28213)
 
 ## I want to have a stash for items but can't put much in containers
-Install [ContainerWeightMaxed](https://www.nexusmods.com/morrowind/mods/45698)
+Install [ContainerWeightMaxed](https://www.nexusmods.com/morrowind/mods/45698)  
 Even if using QuickLoot, [inom - Inventory mouse wheel](https://www.nexusmods.com/morrowind/mods/46847) might still be helpful here for moving items from/to container quicker.
 
 ## Very few dialogues are voiced
 Install AI-generated [Kezyma's Voices of Vvardenfell](https://www.nexusmods.com/morrowind/mods/52279)
 
+## Dialogues with NPCs are too repeatable
+Install [UI Expansion](https://www.nexusmods.com/morrowind/mods/46071) and [Dialogues Decluttered](https://www.nexusmods.com/morrowind/mods/48301)
