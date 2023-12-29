@@ -1,5 +1,5 @@
 # Morrowind issues and how to fix them
-While some of the fixes might work on OpenMW these docs focus exclusively on Morrowind.exe and modern Windows systems.
+Morrowind is a great game, but can be made ever greater (and less clunky) thanks to 20 years of modding wonders. While some of the fixes might work on OpenMW these docs focus exclusively on Morrowind.exe and modern Windows systems.
 
 ## Alt+Tab doesn't work or is clunky
 1. Install [MGE XE](https://www.nexusmods.com/morrowind/mods/41102)
@@ -63,7 +63,7 @@ fWereWolfRunMult = 1.5
 ```
 </details>
 
-GMST Menu removes the necessity of juggling around with .esp plugins whose only purpose is to modify these variables.
+GMST Menu also removes the necessity of juggling around with .esp plugins whose only purpose is to modify these variables.
 
 ## I use up all my fatigue for moving around, so I have none left for fighting
 
@@ -99,3 +99,18 @@ Install [OperatorJack's Deleveler](https://www.nexusmods.com/morrowind/mods/4789
 ## Looting is clunky, too much clicking
 Install [QuickLoot](https://www.nexusmods.com/morrowind/mods/46283)
 
+## Outside of cities, everything that moves wants to kill me
+Install [Non-Homicidal Ecosystem](https://www.nexusmods.com/morrowind/mods/42327)  
+Could be even better if these attacks were based on player's level or health (weak monsters should be afraid to attack strong player)
+
+## I'm lost in Vivec, every canton looks the same
+Install [Colorful Vivec](https://www.nexusmods.com/morrowind/mods/53806)
+
+## I'm pestered by dark assassins from Tribunal content early game
+Install [Tribunal Delayed](https://www.nexusmods.com/morrowind/mods/33973/)
+
+## I'm encumbered all the time
+Install [Encumberance increaser StrX20](...)
+
+## I want to have a stash for items but can't put much in containers
+Install [ContainerWeightMaxed](...)
