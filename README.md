@@ -26,5 +26,37 @@ taskkill /IM FullscreenLock.exe /F
 Save it as .bat file, i.e. res_720_MW.bat. Create a shortcut, open its properties and in the Target field enter:
 `C:\Windows\System32\cmd.exe /C "<path to the script>\res_720_MW.bat"`
 
-## On multiple screens setup, moving mouse in game moves cursor on second screen
-Install and run [FullscreenLock](https://github.com/blaberry/FullscreenLock) every time you run the game (the script above runs it automatically). The .exe file can be downloaded from the [Releases](https://github.com/blaberry/FullscreenLock/releases/tag/1.1) page. [Mirror](https://github.com/the-overdriven/FullscreenLock/releases/tag/1.1).
+## On multiple screens setup, moving mouse in game moves cursor on the second screen
+Install [FullscreenLock](https://github.com/blaberry/FullscreenLock) and run it every time you run the game (the script above runs it automatically). The .exe file can be downloaded from the [Releases](https://github.com/blaberry/FullscreenLock/releases/tag/1.1) page. [Mirror](https://github.com/the-overdriven/FullscreenLock/releases/tag/1.1).
+
+## I move like in slow motion, I want to run faster
+For this purpose I find being able to edit GMST variables during game runtime the best solution, because you can adjust it to your liking every time instantly.
+1. Install [GMST Menu](https://www.nexusmods.com/morrowind/mods/46428)
+2. Run the game
+3. Open Mod Configuration
+4. Search for "GMST Menu", click it
+5. You should see this screen:  
+![image](https://github.com/the-overdriven/morrowind-issues-and-fixes/assets/100090726/2b28765a-13a1-4575-9caa-e090b31f2041)
+6. Go to Floats tab
+7. Search for "walk" or "run"
+8. I like to have everyone walk slowly, but run quickly, so I find these values most optimal:
+```
+fFatigueSwimWalkBase = 2.5
+fFatigueSwimWalkMult = 0
+fMaxWalkSpeed = 80
+fMinWalkSpeed = 20
+fMinWalkSpeedCreature = 5
+fStromWalkMult = 0.25
+fSwimWalkAthleticsMult = 0.02
+fSwimWalkBase = 0.5
+
+fAthleticsRunBonus = 1
+fBaseRunMultiplier = 5
+fFatigueRunBase = 5
+fFatigueRunMult = 2
+fFatigueSwimRunBase = 7
+fJumpRunMultiplier = 1
+fSwimRunAthleticsMult = 0.1
+fSwimRunBase = 0.5
+fWereWolfRunMult = 1.5
+```
