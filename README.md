@@ -42,6 +42,7 @@ For this purpose I find being able to edit GMST variables during game runtime th
 8. I like to have everyone walk slowly, but run quickly, so I find these values most optimal:
 <details>
   <summary>My custom GMST variables</summary>
+
 ```
 fFatigueSwimWalkBase = 2.5
 fFatigueSwimWalkMult = 0
