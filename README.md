@@ -1,5 +1,5 @@
 # Morrowind issues and how to fix them
-While some of the fixes might work on OpenMW these docs focus exclusively on Morrowind.exe and Windows ystem.
+While some of the fixes might work on OpenMW these docs focus exclusively on Morrowind.exe and modern Windows systems.
 
 ## Alt+Tab doesn't work or is clunky
 1. Install [MGE XE](https://www.nexusmods.com/morrowind/mods/41102)
@@ -40,6 +40,8 @@ For this purpose I find being able to edit GMST variables during game runtime th
 6. Go to Floats tab
 7. Search for "walk" or "run"
 8. I like to have everyone walk slowly, but run quickly, so I find these values most optimal:
+<details>
+  <summary>My custom GMST variables</summary>
 ```
 fFatigueSwimWalkBase = 2.5
 fFatigueSwimWalkMult = 0
@@ -60,3 +62,4 @@ fSwimRunAthleticsMult = 0.1
 fSwimRunBase = 0.5
 fWereWolfRunMult = 1.5
 ```
+</details>
