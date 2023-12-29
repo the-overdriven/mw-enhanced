@@ -29,6 +29,9 @@ Save it as .bat file, i.e. res_720_MW.bat. Create a shortcut, open its propertie
 ## On multiple screens setup, moving mouse in game moves cursor on the second screen
 Install [FullscreenLock](https://github.com/blaberry/FullscreenLock) and run it every time you run the game (the script above runs it automatically). The .exe file can be downloaded from the [Releases](https://github.com/blaberry/FullscreenLock/releases/tag/1.1) page. [Mirror](https://github.com/the-overdriven/FullscreenLock/releases/tag/1.1).
 
+## Everything in game is too small. Fonts, UI, etc.
+Open MGE XE settings and adjust the Menu UI scaling to your liking. Depending on game's resolution I find 1.20 - 1.50 values most optimal.
+
 ## I move like in slow motion, I want to run faster
 For this purpose I find being able to edit GMST variables during game runtime the best solution, because you can adjust it to your liking every time instantly.
 1. Install [GMST Menu](https://www.nexusmods.com/morrowind/mods/46428)
@@ -64,3 +67,7 @@ fSwimRunBase = 0.5
 fWereWolfRunMult = 1.5
 ```
 </details>
+
+## All my hits are missing
+Dice-roll combat working as intended. But on a serious note, you can make the combat more dynamic by installing mods that make all swings have 100% chance to hit. I find [Better Balanced Combat](https://www.nexusmods.com/morrowind/mods/46596) to address this issue most tactfully, without breaking the balance too much, by taking side effects into consideration.
+
