@@ -63,7 +63,7 @@ fWereWolfRunMult = 1.5
 ```
 </details>
 
-This removes the necessity of juggling around with .esp plugins whose only purpose is to modify these variables.
+GMST Menu removes the necessity of juggling around with .esp plugins whose only purpose is to modify these variables.
 
 ## I use up all my fatigue for moving around, so I have none left for fighting
 
@@ -89,4 +89,13 @@ These especially make sense to cost more fatigue when using hit-chance simplifyi
 
 ## All my hits are missing
 Dice-roll combat working as intended. But on a serious note, you can make the combat more dynamic by installing mods that make all swings have 100% chance to hit. I find [Better Balanced Combat](https://www.nexusmods.com/morrowind/mods/46596) to address this issue most tactfully, without breaking the balance too much, by taking side effects into consideration: i.e. fatigue is still important as the lower it is the higher is the chance to be knocked down, weapon skills also do not become meaningless but add a bonus to strength instead (which, rightfully, excludes the encumbrance bonus). Unfortunately, the mod also affects the regen rate, running speed and makes "You have failed casting the spell" popups disappear, which I'd personally prefer to leave as it is.
+
+## Killed enemies respawn like in some kind of MMO
+Install [No Respawns](https://www.nexusmods.com/morrowind/mods/53853)
+
+## Difficulty (some enemies) scale with level, I want more challenges early game
+Install [OperatorJack's Deleveler](https://www.nexusmods.com/morrowind/mods/47897)
+
+## Looting is clunky, too much clicking
+Install [QuickLoot](https://www.nexusmods.com/morrowind/mods/46283)
 
