@@ -110,7 +110,12 @@ Install [Colorful Vivec](https://www.nexusmods.com/morrowind/mods/53806)
 Install [Tribunal Delayed](https://www.nexusmods.com/morrowind/mods/33973/)
 
 ## I'm encumbered all the time
-Install [Encumberance increaser StrX20](...)
+Install [Encumberance increaser](https://www.nexusmods.com/morrowind/mods/28213)
 
 ## I want to have a stash for items but can't put much in containers
-Install [ContainerWeightMaxed](...)
+Install [ContainerWeightMaxed](https://www.nexusmods.com/morrowind/mods/45698)
+Even if using QuickLoot, [inom - Inventory mouse wheel](https://www.nexusmods.com/morrowind/mods/46847) might still be helpful here for moving items from/to container quicker.
+
+## Very few dialogues are voiced
+Install AI-generated [Kezyma's Voices of Vvardenfell](https://www.nexusmods.com/morrowind/mods/52279)
+
