@@ -1,5 +1,5 @@
 # Morrowind issues and how to fix them
-Morrowind is a great game, but can be made even greater (and less clunky) by utilizing the 20 years of wonderous modding heritage. While some of the fixes might work on OpenMW these docs focus exclusively on Morrowind.exe and modern Windows systems.
+Morrowind is a great game, but can be made even greater (and less clunky) by utilizing the 20+ years of wonderous modding heritage. While some of the fixes might work on OpenMW these docs focus exclusively on Morrowind.exe and modern Windows systems.
 
 ## Alt+Tab doesn't work or is clunky
 1. Install [MGE XE](https://www.nexusmods.com/morrowind/mods/41102)
