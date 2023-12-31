@@ -160,6 +160,9 @@ After installing [Hot Quests](https://www.nexusmods.com/morrowind/mods/48976) th
 Yes. With [Smart Journal](https://www.nexusmods.com/morrowind/mods/47492):  
 ![image](https://github.com/the-overdriven/morrowind-issues-and-fixes/assets/100090726/3a18f6a4-1676-4e76-9bcd-c908e3b167be)
 
+## Can I write in my journal?
+Yes, with [Journal Search and Edit](https://www.nexusmods.com/morrowind/mods/46756)
+
 ## Different potions in inventory are not easy to tell apart
 Install [Colored Potions](https://www.nexusmods.com/morrowind/mods/48999)
 
