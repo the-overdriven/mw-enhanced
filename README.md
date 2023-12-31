@@ -157,5 +157,8 @@ Yes. With [Smart Journal](https://www.nexusmods.com/morrowind/mods/47492):
 ## Different potions in inventory are not easy to tell apart
 Install [Colored Potions](https://www.nexusmods.com/morrowind/mods/48999)
 
+## All merchants are broke
+Install [More Barter Gold](https://www.nexusmods.com/morrowind/mods/40053) and [Merchant Gold Resets Instantly](https://www.nexusmods.com/morrowind/mods/43764)
+
 ## Is there a way to stop friendly-fire?
 Yes, install [No More Friendly Fire](https://www.nexusmods.com/morrowind/mods/48801)
