@@ -135,3 +135,14 @@ Other, AI-generated voices:
 
 ## Dialogues with NPCs are too repeatable
 Install [UI Expansion](https://www.nexusmods.com/morrowind/mods/46071) and [Dialogues Decluttered](https://www.nexusmods.com/morrowind/mods/48301)
+
+## City guards and faction members are not helping me when I'm being attacked
+Install [More Attentive Guards](https://www.nexusmods.com/morrowind/mods/48622)
+Caution, has a bug: "Every time I attack in self defense, I get reported and attacked"
+
+## There is no hotkey for Quests
+After installing [Hot Quests](https://www.nexusmods.com/morrowind/mods/48976) the hotkey is "U"
+
+## Can I make Quests popup more usable?
+Yes. With [Smart Journal](https://www.nexusmods.com/morrowind/mods/47492)
+![image](https://github.com/the-overdriven/morrowind-issues-and-fixes/assets/100090726/3a18f6a4-1676-4e76-9bcd-c908e3b167be)
