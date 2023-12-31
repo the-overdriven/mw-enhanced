@@ -152,3 +152,8 @@ Install [Colored Potions](https://www.nexusmods.com/morrowind/mods/48999)
 
 ## Is there a way to stop friendly-fire?
 Yes, install [No More Friendly Fire](https://www.nexusmods.com/morrowind/mods/48801)
+
+## How to fix errors "One of the files that "(mod name).ESP" is dependent on has changed since the last save."
+Install [Wrye Mash](https://www.nexusmods.com/morrowind/mods/45439?tab=docs)  
+Follow [this guide](https://danaeplays.thenet.sk/wrye-mash/).  
+TL;DR: for me selecting the problematic esp in the Mods tab and right-clicking on its masters on right side to update them fixes it.
