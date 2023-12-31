@@ -35,6 +35,14 @@ Install [Expeditious Exit](https://www.nexusmods.com/morrowind/mods/45634)
 ## Everything in game is too small. Fonts, UI, etc.
 Open MGE XE settings and adjust the Menu UI scaling to your liking. Depending on game's resolution I find 1.20 - 1.50 values most optimal.
 
+## How to fix errors "One of the files that "(mod name).ESP" is dependent on has changed since the last save."
+Install [Wrye Mash](https://www.nexusmods.com/morrowind/mods/45439?tab=docs)  
+Follow [this guide](https://danaeplays.thenet.sk/wrye-mash/).  
+TL;DR: for me selecting the problematic esp in the Mods tab and right-clicking on its masters on right side to update them fixes it.
+
+## I would like to know what is my current modlist
+Install [Mod List](https://www.nexusmods.com/morrowind/mods/50214), find the mod in the Mod Config list and click on it. Copy+paste to any text editor.
+
 ## I move like in slow motion, I want to run faster
 For this purpose I find being able to edit GMST variables during game runtime the best solution, because you can adjust it to your liking every time instantly.
 1. Install [GMST Menu](https://www.nexusmods.com/morrowind/mods/46428)
@@ -152,8 +160,3 @@ Install [Colored Potions](https://www.nexusmods.com/morrowind/mods/48999)
 
 ## Is there a way to stop friendly-fire?
 Yes, install [No More Friendly Fire](https://www.nexusmods.com/morrowind/mods/48801)
-
-## How to fix errors "One of the files that "(mod name).ESP" is dependent on has changed since the last save."
-Install [Wrye Mash](https://www.nexusmods.com/morrowind/mods/45439?tab=docs)  
-Follow [this guide](https://danaeplays.thenet.sk/wrye-mash/).  
-TL;DR: for me selecting the problematic esp in the Mods tab and right-clicking on its masters on right side to update them fixes it.
