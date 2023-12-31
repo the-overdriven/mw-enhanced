@@ -120,8 +120,8 @@ Install [ContainerWeightMaxed](https://www.nexusmods.com/morrowind/mods/45698)
 Even if using QuickLoot, [inom - Inventory mouse wheel](https://www.nexusmods.com/morrowind/mods/46847) might still be helpful here for moving items from/to container quicker.
 
 ## I want to adjust the camera with a mouse scroll, just like in OpenMW
-Install [Zoom](https://www.nexusmods.com/morrowind/mods/53474)
-Compatibility patch for Zoom and QuickLoot: [patch](https://github.com/the-overdriven/morrowind-zoom-and-quickloot-compatibility)
+Install [Zoom](https://www.nexusmods.com/morrowind/mods/53474)  
+Compatibility patch for Zoom and QuickLoot: [patch](https://github.com/the-overdriven/morrowind-zoom-and-quickloot-compatibility)  
 It's even better than in OpenMW, because it allows zooming in also in first-person view.
 
 ## Very few dialogues are voiced
