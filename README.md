@@ -140,11 +140,11 @@ Other, AI-generated voices:
 [Davyth Fyr](https://www.nexusmods.com/morrowind/mods/52343)  
 [The Wisest Women](https://www.nexusmods.com/morrowind/mods/52353)  
 [Nordic Banter](https://www.nexusmods.com/morrowind/mods/53715)  
-[Friends Reunited](https://www.nexusmods.com/morrowind/mods/53601)
-[Quest Voice Greetings](https://www.nexusmods.com/morrowind/mods/52273)
-[Great Service](https://www.nexusmods.com/morrowind/mods/47767)
-[Idle Talk](https://www.nexusmods.com/morrowind/mods/46948)
-[Its a Deal](https://www.nexusmods.com/morrowind/mods/47968)
+[Friends Reunited](https://www.nexusmods.com/morrowind/mods/53601)  
+[Quest Voice Greetings](https://www.nexusmods.com/morrowind/mods/52273)  
+[Great Service](https://www.nexusmods.com/morrowind/mods/47767)  
+[Idle Talk](https://www.nexusmods.com/morrowind/mods/46948)  
+[Its a Deal](https://www.nexusmods.com/morrowind/mods/47968)  
 
 ## Dialogues with NPCs are too repeatable
 Install [UI Expansion](https://www.nexusmods.com/morrowind/mods/46071) and [Dialogues Decluttered](https://www.nexusmods.com/morrowind/mods/48301)
