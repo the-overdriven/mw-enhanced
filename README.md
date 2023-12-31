@@ -125,7 +125,13 @@ Compatibility patch for Zoom and QuickLoot: [patch](https://github.com/the-overd
 It's even better than in OpenMW, because it allows zooming in also in first-person view.
 
 ## Very few dialogues are voiced
-Install AI-generated [Kezyma's Voices of Vvardenfell](https://www.nexusmods.com/morrowind/mods/52279)
+Install AI-generated [Kezyma's Voices of Vvardenfell](https://www.nexusmods.com/morrowind/mods/52279)  
+Other, AI-generated voices:  
+[Ashlander Voices](https://www.nexusmods.com/morrowind/mods/53863)  
+[Vivec](https://www.nexusmods.com/morrowind/mods/52333)  
+[Yagrum Bagarn](https://www.nexusmods.com/morrowind/mods/52344)  
+[Davyth Fyr](https://www.nexusmods.com/morrowind/mods/52343)  
+[The Wisest Women](https://www.nexusmods.com/morrowind/mods/52353)  
 
 ## Dialogues with NPCs are too repeatable
 Install [UI Expansion](https://www.nexusmods.com/morrowind/mods/46071) and [Dialogues Decluttered](https://www.nexusmods.com/morrowind/mods/48301)
