@@ -146,3 +146,6 @@ After installing [Hot Quests](https://www.nexusmods.com/morrowind/mods/48976) th
 ## Can I make Quests screen more usable (i.e. bigger)?
 Yes. With [Smart Journal](https://www.nexusmods.com/morrowind/mods/47492):  
 ![image](https://github.com/the-overdriven/morrowind-issues-and-fixes/assets/100090726/3a18f6a4-1676-4e76-9bcd-c908e3b167be)
+
+## Different potions in inventory are not easy to tell apart
+Install [Colored Potions](https://www.nexusmods.com/morrowind/mods/48999)
