@@ -143,6 +143,6 @@ Caution, has a bug: "Every time I attack in self defense, I get reported and att
 ## There is no hotkey for Quests
 After installing [Hot Quests](https://www.nexusmods.com/morrowind/mods/48976) the hotkey is "U"
 
-## Can I make Quests popup more usable?
-Yes. With [Smart Journal](https://www.nexusmods.com/morrowind/mods/47492)
+## Can I make Quests screen more usable (i.e. bigger)?
+Yes. With [Smart Journal](https://www.nexusmods.com/morrowind/mods/47492):  
 ![image](https://github.com/the-overdriven/morrowind-issues-and-fixes/assets/100090726/3a18f6a4-1676-4e76-9bcd-c908e3b167be)
