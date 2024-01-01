@@ -139,6 +139,12 @@ Install [Morrowind Code Patch](https://www.nexusmods.com/morrowind/mods/19510), 
 ## How do I use Quick Keys in Morrowind?
 Press F1
 
+## Are there hotkeys to save and load?
+F5 to save, F9 to load
+
+## When quick-saving will it save on multiple slots?
+No. You'd have install [Sophisticated Save System](https://www.nexusmods.com/morrowind/mods/45608) for that. It adds autosave as well (including save every x minutes)
+
 ## Being able to chug multiple potions at the same time is too OP
 Install [Controlled Consumption](https://www.nexusmods.com/morrowind/mods/45624)
 
@@ -213,6 +219,8 @@ Install [More Barter Gold](https://www.nexusmods.com/morrowind/mods/40053) and [
 
 ## Is there a way to stop friendly-fire?
 Yes, install [No More Friendly Fire](https://www.nexusmods.com/morrowind/mods/48801)
+
+
 
 ## How to view meshes with textures?
 Install [NifSkope 2.0 Dev 7](https://github.com/niftools/nifskope/releases). Set path to Morrowind Data Files in Options: Options > Settings > Resources > Add Folder.  
