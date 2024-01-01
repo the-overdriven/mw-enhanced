@@ -213,3 +213,7 @@ Install [More Barter Gold](https://www.nexusmods.com/morrowind/mods/40053) and [
 
 ## Is there a way to stop friendly-fire?
 Yes, install [No More Friendly Fire](https://www.nexusmods.com/morrowind/mods/48801)
+
+## How to view meshes with textures?
+Install [NifSkope 2.0 Dev 7](https://github.com/niftools/nifskope/releases). Set path to Morrowind Data Files in Options: Options > Settings > Resources > Add Folder.  
+From my experience version Dev 9 doesn't load textures.
