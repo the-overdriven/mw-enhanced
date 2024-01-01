@@ -139,6 +139,9 @@ Install [Morrowind Code Patch](https://www.nexusmods.com/morrowind/mods/19510), 
 ## How do I use Quick Keys in Morrowind?
 Press F1
 
+## Being able to chug multiple potions at the same time is too OP
+Install [Controlled Consumption](https://www.nexusmods.com/morrowind/mods/45624)
+
 ## Killed enemies respawn like in some kind of MMO
 Install [No Respawns](https://www.nexusmods.com/morrowind/mods/53853)
 
