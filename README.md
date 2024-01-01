@@ -46,6 +46,8 @@ In MGE XE settings, disable Dynamic ripples and some water reflections. Decrease
 In MGE XE settings, go to In-Game tab and click on Macro Editor. You can add a hotkey here for toggling distant land and shaders (i.e. `-` and `*` on numberical keyboard). Then when you're in a taxing location just press these keys to disable distant land and shaders, it should restore up to 10 fps.  
 ![image](https://github.com/the-overdriven/morrowind-issues-and-fixes/assets/100090726/7c588307-33d5-4999-aea8-cc0fb3f53604)
 
+You can also try to run the shortcut to Morrowind with `/High` priority but from my experience it doesn't change much.
+
 ## How to fix errors "One of the files that "(mod name).ESP" is dependent on has changed since the last save."
 Install [Wrye Mash](https://www.nexusmods.com/morrowind/mods/45439?tab=docs). Follow [this guide](https://danaeplays.thenet.sk/wrye-mash/).  
 TL;DR: for me selecting the problematic esp in the Mods tab and right-clicking on its masters on right side to update them fixes it. Moving the esp in the modlist helps too.
