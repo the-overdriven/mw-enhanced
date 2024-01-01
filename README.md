@@ -1,5 +1,5 @@
 # Morrowind issues and how to fix them
-Morrowind is a great game, but can be made even greater (and less clunky) by customizing it with the 20+ years of its wonderous modding heritage. While some of these solutions might work on OpenMW these docs focus exclusively on Morrowind.exe and modern Windows systems.
+Morrowind is a great game, but can be made even greater (and less clunky) by customizing it with the 20+ years of its wonderous modding heritage. While some of these solutions might work on OpenMW these docs focus exclusively on Morrowind.exe and modern Windows systems. Most of this is perceived as obvious common knowledge, but human memory can be fleeting.
 
 ## How do I actually run a modded game?
 Forget about Morrowind Launcher. Use a mod organizer, such as [Wrye Mash](https://www.nexusmods.com/morrowind/mods/45439). It includes the most important shortcuts, allows to reorder .esp plugins load order and fix various issues.
@@ -108,7 +108,7 @@ Install [Time Shift](https://www.nexusmods.com/morrowind/mods/49646), in its mai
 ```
 -- mp.fatigue.current = mp.fatigue.current - dt * cf.sc
 ```
-Set the time scaling value to 45, it seems to be optimal for fights, as lower values might make animations too slow.
+Set the time scaling value to 45, it seems to be most optimal for combat, as lower values might make animations too slow.
 
 ## How to cast spells on key press, to not switch between weapon and magic all the time?
 Install [Morrowind Code Patch](https://www.nexusmods.com/morrowind/mods/19510), run it, check "Swift Casting" and apply  
