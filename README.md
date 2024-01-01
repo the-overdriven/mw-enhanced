@@ -39,8 +39,8 @@ Install [Expeditious Exit](https://www.nexusmods.com/morrowind/mods/45634)
 Open MGE XE settings and adjust the Menu UI scaling to your liking. Depending on game's resolution I find 1.20 - 1.50 values most optimal.
 
 ## How to fix errors "One of the files that "(mod name).ESP" is dependent on has changed since the last save."
-Install [Wrye Mash](https://www.nexusmods.com/morrowind/mods/45439?tab=docs) Follow [this guide](https://danaeplays.thenet.sk/wrye-mash/).  
-TL;DR: for me selecting the problematic esp in the Mods tab and right-clicking on its masters on right side to update them fixes it. Moving the esp in the modlist might help too.
+Install [Wrye Mash](https://www.nexusmods.com/morrowind/mods/45439?tab=docs). Follow [this guide](https://danaeplays.thenet.sk/wrye-mash/).  
+TL;DR: for me selecting the problematic esp in the Mods tab and right-clicking on its masters on right side to update them fixes it. Moving the esp in the modlist helps too.
 
 ## I would like to know what is my current modlist
 Install [Mod List](https://www.nexusmods.com/morrowind/mods/50214), find the mod in the Mod Config list and click on it. Copy+paste to any text editor.
@@ -146,7 +146,7 @@ Even if using QuickLoot, [inom - Inventory mouse wheel](https://www.nexusmods.co
 ## I want to adjust the camera with a mouse scroll, just like in OpenMW
 Install [Zoom](https://www.nexusmods.com/morrowind/mods/53474)  
 Compatibility patch for Zoom and QuickLoot: [patch](https://github.com/the-overdriven/morrowind-zoom-and-quickloot-compatibility)  
-It's even better than in OpenMW, because it allows zooming in also in first-person view.
+It's even better than in OpenMW, because it allows zooming in also in first-person view. For even better camera experience install [Steadicam](https://www.nexusmods.com/morrowind/mods/52225). But personally I don't find the default values too playable and recommend only a slight first-person steadicam, to disable it in third-person set third-person values to lowest possible.
 
 ## Very few dialogues are voiced
 Install AI-generated [Kezyma's Voices of Vvardenfell](https://www.nexusmods.com/morrowind/mods/52279)  
