@@ -63,6 +63,10 @@ TL;DR: for me selecting the problematic esp in the Mods tab and right-clicking o
 ## I would like to know what is my current modlist
 Install [Mod List](https://www.nexusmods.com/morrowind/mods/50214), find the mod in the Mod Config list and click on it. Copy+paste to any text editor.
 
+## How to hide HUD?
+It's `tm` command in console, but it's a bit clunky to deactivate.
+Better solution might be to use [HUD Hider](https://www.nexusmods.com/morrowind/mods/46642) which adds a toggable hotkey.
+
 ## I move like in slow motion, I want to run faster
 For this purpose I find being able to edit GMST variables during game runtime the best solution, because you can adjust it to your liking every time instantly.
 1. Install [GMST Menu](https://www.nexusmods.com/morrowind/mods/46428)
