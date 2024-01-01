@@ -1,6 +1,9 @@
 # Morrowind issues and how to fix them
 Morrowind is a great game, but can be made even greater (and less clunky) by customizing it with the 20+ years of its wonderous modding heritage. While some of these solutions might work on OpenMW these docs focus exclusively on Morrowind.exe and modern Windows systems.
 
+## How do I actually run a modded game?
+Forget about Morrowind Launcher. Use a mod organizer, such as [Wrye Mash](https://www.nexusmods.com/morrowind/mods/45439). It includes the most important shortcuts, allows to reorder .esp plugins load order and fix various issues.
+
 ## Alt+Tab doesn't work or is clunky
 1. Install [MGE XE](https://www.nexusmods.com/morrowind/mods/41102)
 2. Open MGE XE settings (MGEXEgui.exe in main game folder)
