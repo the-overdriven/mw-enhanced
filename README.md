@@ -111,6 +111,9 @@ Set the time scaling value to 45, it seems to be optimal for fights, as lower va
 Install [Morrowind Code Patch](https://www.nexusmods.com/morrowind/mods/19510), run it, check "Swift Casting" and apply  
 ![image](https://github.com/the-overdriven/morrowind-issues-and-fixes/assets/100090726/5fc22441-abae-4a39-be5d-c6616f665cd8)
 
+## How do I use Quick Keys in Morrowind?
+Press F1
+
 ## Killed enemies respawn like in some kind of MMO
 Install [No Respawns](https://www.nexusmods.com/morrowind/mods/53853)
 
