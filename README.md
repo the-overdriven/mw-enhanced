@@ -109,7 +109,7 @@ Set the time scaling value to 45, it seems to be optimal for fights, as lower va
 
 ## How to cast spells on key press, to not switch between weapon and magic all the time?
 Install [Morrowind Code Patch](https://www.nexusmods.com/morrowind/mods/19510), run it, check "Swift Casting" and apply  
-![image](https://github.com/the-overdriven/morrowind-issues-and-fixes/assets/100090726/4b5f4ebc-b43a-4a9f-9e6e-61d8fd6b2530)
+![image](https://github.com/the-overdriven/morrowind-issues-and-fixes/assets/100090726/5fc22441-abae-4a39-be5d-c6616f665cd8)
 
 ## Killed enemies respawn like in some kind of MMO
 Install [No Respawns](https://www.nexusmods.com/morrowind/mods/53853)
