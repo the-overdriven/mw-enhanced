@@ -48,6 +48,12 @@ In MGE XE settings, go to In-Game tab and click on Macro Editor. You can add a h
 
 You can also try to run the shortcut to Morrowind with `/High` priority but from my experience it doesn't change much.
 
+## How to fix frequent "Initializing data" screens when changing exterior cells? (OpenMW only)
+Recreate navigation mesh cache. It's under Data Files tab.
+
+## How to fix incorrect map?
+Wrye Mash has the utility to reset save state map.
+
 ## How to fix errors "One of the files that "(mod name).ESP" is dependent on has changed since the last save."
 Install [Wrye Mash](https://www.nexusmods.com/morrowind/mods/45439?tab=docs). Follow [this guide](https://danaeplays.thenet.sk/wrye-mash/).  
 TL;DR: for me selecting the problematic esp in the Mods tab and right-clicking on its masters on right side to update them fixes it. Moving the esp in the modlist helps too.
