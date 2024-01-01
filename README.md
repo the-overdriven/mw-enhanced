@@ -146,7 +146,7 @@ Even if using QuickLoot, [inom - Inventory mouse wheel](https://www.nexusmods.co
 ## I want to adjust the camera with a mouse scroll, just like in OpenMW
 Install [Zoom](https://www.nexusmods.com/morrowind/mods/53474)  
 Compatibility patch for Zoom and QuickLoot: [patch](https://github.com/the-overdriven/morrowind-zoom-and-quickloot-compatibility)  
-It's even better than in OpenMW, because it allows zooming in also in first-person view. For even better camera experience install [Steadicam](https://www.nexusmods.com/morrowind/mods/52225). But personally I don't find the default values too playable and recommend only a slight first-person steadicam, to disable it in third-person set third-person values to lowest possible.
+It's even better than in OpenMW, because it allows zooming in also in first-person view. For even better camera experience install [Steadicam](https://www.nexusmods.com/morrowind/mods/52225). But personally I don't find the default settings too playable and recommend only a slight first-person steadicam, to disable it in third-person set third-person values to lowest possible.
 
 ## Very few dialogues are voiced
 Install AI-generated [Kezyma's Voices of Vvardenfell](https://www.nexusmods.com/morrowind/mods/52279)  
