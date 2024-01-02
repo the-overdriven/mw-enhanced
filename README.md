@@ -67,6 +67,10 @@ Install [Mod List](https://www.nexusmods.com/morrowind/mods/50214), find the mod
 Install [Gamma](https://www.nexusmods.com/morrowind/mods/53829). Don't forget to add 📄 Gamma.fx to MGE XE shaders and activate it.  
 Then in Mod Config menu find Gamma and decrease Gamma or increase Luminance. You can increase color saturation as well.
 
+## It's still too dark at night
+If we adjust the luminance to be sufficiently bright in dark caves then it might turn out that we overdid it and now it's too bright outside.  
+Can't make it perfect, can we? Actually we can if we take the current cell and daytime into account. This [fork of Gamma](https://github.com/the-overdriven/morrowind-bright-nights-and-caves/blob/main/main.lua) will decrease luminance in exterior during the day and increase luminance in interiors, or when it is night.
+
 ## How to hide HUD?
 It's `tm` command in console, but it's a bit clunky to deactivate.
 Better solution might be to use [HUD Hider](https://www.nexusmods.com/morrowind/mods/46642) which adds a toggable hotkey.
