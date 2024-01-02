@@ -63,6 +63,10 @@ TL;DR: for me selecting the problematic esp in the Mods tab and right-clicking o
 ## I would like to know what is my current modlist
 Install [Mod List](https://www.nexusmods.com/morrowind/mods/50214), find the mod in the Mod Config list and click on it. Copy+paste to any text editor.
 
+## The game is too dark
+Install [Gamma](https://www.nexusmods.com/morrowind/mods/53829). Don't forget to add 📄 Gamma.fx to MGE XE shaders and activate it.  
+Then in Mod Config menu find Gamma and decrease Gamma or increase Luminance. You can increase color saturation as well.
+
 ## How to hide HUD?
 It's `tm` command in console, but it's a bit clunky to deactivate.
 Better solution might be to use [HUD Hider](https://www.nexusmods.com/morrowind/mods/46642) which adds a toggable hotkey.
@@ -219,6 +223,10 @@ Install [More Barter Gold](https://www.nexusmods.com/morrowind/mods/40053) and [
 
 ## Is there a way to stop friendly-fire?
 Yes, install [No More Friendly Fire](https://www.nexusmods.com/morrowind/mods/48801)
+
+## How to change screenshot path when using ReShade?
+When in game, press Home and look for the path in Settings
+
 
 
 
