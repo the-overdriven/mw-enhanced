@@ -69,7 +69,7 @@ Then in Mod Config menu find Gamma and decrease Gamma or increase Luminance. You
 
 ## It's still too dark at night
 If we adjust the luminance to be sufficiently bright in dark caves then it might turn out that we overdid it and now it's too bright outside.  
-Can't make it perfect, can we? Actually we can if we take the current cell and daytime into account. This [fork of Gamma](https://github.com/the-overdriven/morrowind-bright-nights-and-caves/blob/main/main.lua) will decrease luminance in exterior during the day and increase luminance in interiors, or when it is night.
+Can't make it perfect, can we? Actually we can if we take the current cell and daytime into account. This [fork of Gamma](https://github.com/the-overdriven/morrowind-bright-nights-and-caves/blob/main/main.lua) will decrease luminance in exteriors during the day and increase luminance in interiors, or when it is night time.
 
 ## How to hide HUD?
 It's `tm` command in console, but it's a bit clunky to deactivate.
@@ -228,11 +228,12 @@ Install [More Barter Gold](https://www.nexusmods.com/morrowind/mods/40053) and [
 ## Is there a way to stop friendly-fire?
 Yes, install [No More Friendly Fire](https://www.nexusmods.com/morrowind/mods/48801)
 
+## How to tell if I read a give book? Also: books are increasing skills to full round numbers, which incentives postponing the bonus
+If reading a book bumps a skill to next round integer value then it would pay off better to read them when our skills are high enough and expensive to train. And also ideally when have just advanced recently. A more fair solution would be to make books increase xp of skill, rather than bump the skill to the next round value. Then it wouldn't matter when we receive the bonus.  
+Luckily [Book Worm](https://www.nexusmods.com/morrowind/mods/46851) should fix that.
+
 ## How to change screenshot path when using ReShade?
 When in game, press Home and look for the path in Settings
-
-
-
 
 ## How to view meshes with textures?
 Install [NifSkope 2.0 Dev 7](https://github.com/niftools/nifskope/releases). Set path to Morrowind Data Files in Options: Options > Settings > Resources > Add Folder.  
