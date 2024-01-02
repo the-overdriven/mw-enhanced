@@ -228,9 +228,9 @@ Install [More Barter Gold](https://www.nexusmods.com/morrowind/mods/40053) and [
 ## Is there a way to stop friendly-fire?
 Yes, install [No More Friendly Fire](https://www.nexusmods.com/morrowind/mods/48801)
 
-## How to tell if I read a give book? Also: books are increasing skills to full round numbers, which incentives postponing the bonus
+## How to tell if I've already read a given book? Also: books are increasing full skill points, which incentives postponing the bonus. And not sure which book actually gives the bonus.
 If reading a book bumps a skill to next round integer value then it would pay off better to read them when our skills are high enough and expensive to train. And also ideally when have just advanced recently. A more fair solution would be to make books increase xp of skill, rather than bump the skill to the next round value. Then it wouldn't matter when we receive the bonus.  
-Luckily [Book Worm](https://www.nexusmods.com/morrowind/mods/46851) should fix that.
+Luckily [Reading is Good](https://www.nexusmods.com/morrowind/mods/51705) and [Book Worm](https://www.nexusmods.com/morrowind/mods/46851) should fix that.
 
 ## How to change screenshot path when using ReShade?
 When in game, press Home and look for the path in Settings
