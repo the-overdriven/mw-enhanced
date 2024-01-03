@@ -227,6 +227,18 @@ Install [Colored Potions](https://www.nexusmods.com/morrowind/mods/48999)
 ## All merchants are broke
 Install [More Barter Gold](https://www.nexusmods.com/morrowind/mods/40053) and [Merchant Gold Resets Instantly](https://www.nexusmods.com/morrowind/mods/43764)
 
+## How can I see HP values of enemies?
+With [Seph's Enemy Bars](https://www.nexusmods.com/morrowind/mods/50577). There is one problem with this mod, though. It hides the default yellow bar and the new one is not displayed when attacking enemies from distance. In order to at least restore the vanilla yellow bar in bottom left corner edit this mod's main.lua file and remove or comment out following lines:
+```
+-- if npcHealthBar then
+		-- 	-- Just yeet that yellow bar somewhere so it never shows its ugly face again.
+		-- 	npcHealthBar.absolutePosAlignX = 10.0
+		-- 	npcHealthBar.absolutePosAlignY = 10.0
+		-- 	npcHealthBar.visible = false
+		-- 	npcHealthBar.disabled = true
+		-- end
+```
+
 ## Is there a way to stop friendly-fire?
 Yes, install [No More Friendly Fire](https://www.nexusmods.com/morrowind/mods/48801)
 
