@@ -71,6 +71,9 @@ Then in Mod Config menu find Gamma and decrease Gamma or increase Luminance. You
 If we adjust the luminance to be sufficiently bright in dark caves then it might turn out that we overdid it and now it's too bright outside.  
 Can't make it perfect, can we? Actually we can if we take the current cell and daytime into account. This [fork of Gamma](https://github.com/the-overdriven/morrowind-bright-nights-and-caves/blob/main/main.lua) will decrease luminance in exteriors during the day and increase luminance in interiors, or when it is night time.
 
+## How to fix seams on land textures?
+Install [Texture Fix 2.0](https://www.nexusmods.com/morrowind/mods/53593) and [Texture Fix - Extended](https://www.nexusmods.com/morrowind/mods/46018)
+
 ## How to hide HUD?
 It's `tm` command in console, but it's a bit clunky to deactivate.
 Better solution might be to use [HUD Hider](https://www.nexusmods.com/morrowind/mods/46642) which adds a toggable hotkey.
@@ -263,6 +266,9 @@ Luckily [Reading is Good](https://www.nexusmods.com/morrowind/mods/51705) and [B
 
 ## How to change screenshot path when using ReShade?
 When in game, press Home and look for the path in Settings
+
+## How to fix silent death sounds?
+TODO
 
 ## How to view meshes with textures?
 Install [NifSkope 2.0 Dev 7](https://github.com/niftools/nifskope/releases). Set path to Morrowind Data Files in Options: Options > Settings > Resources > Add Folder.  
