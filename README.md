@@ -1,6 +1,11 @@
 # Morrowind issues and how to fix them
 Morrowind is a great game, but can be made even greater (and less clunky) by customizing it with the 20+ years of its wonderous modding heritage. While some of these solutions might work on OpenMW these docs focus exclusively on Morrowind.exe and modern Windows systems. Most of this is perceived as obvious common knowledge, but human memory can be fleeting.
 
+What these docs are not:
+- not a guide you have to read from cover to cover, you can solve each issue separately, in any order  
+- not a modlist, it expands from the context of specific issues and lists possible solutions as mods  
+- doesn't mention any shaders and mesh/texture replacers for purely aesthethic experience, there will be a separate repository for that  
+
 ## How do I actually run a modded game?
 Forget about Morrowind Launcher. Use a mod organizer, such as [Wrye Mash](https://www.nexusmods.com/morrowind/mods/45439). It includes the most important shortcuts, allows to reorder .esp plugins load order and fix various issues.
 
