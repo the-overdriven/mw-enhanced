@@ -285,7 +285,10 @@ Additionally, [Skill Name Skill Books](https://www.nexusmods.com/morrowind/mods/
 [Caps Click to Drop](https://www.nexusmods.com/morrowind/mods/52518) and [Just Drop It](https://www.nexusmods.com/morrowind/mods/49557) for better dropping experience (corpses fall according to the terrain!)
 
 ## How to fix silent death sounds?
-TODO
+Install [Deathrattle Sounds](https://www.nexusmods.com/morrowind/mods/53938)
+
+## How to disable vanity camera? (the one that turns on after 30 seconds) 
+Install [No Auto Vanity Camera](https://www.nexusmods.com/morrowind/mods/48933)
 
 ## Game doesn't notify me explicitly enough that I started or finished a quest.
 Install [Skyrim Style Quest Notifications](https://www.nexusmods.com/morrowind/mods/53175) and [Skyrim Style Quest Notifications - Legendary Edition](https://www.nexusmods.com/morrowind/mods/53712)
