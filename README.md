@@ -7,6 +7,8 @@ What these docs are not:
 - doesn't cover all QoL mods, as those less essential, that are nice-to-have will be listed in a separate modlist repository  
 - doesn't mention any shaders and mesh/texture replacers for purely aesthethic experience, there will be a separate repository for that  
 
+Think of it rather as "Morrowind power user FAQ"
+
 ## How do I actually run a modded game?
 Forget about Morrowind Launcher. Use a mod organizer, such as [Wrye Mash](https://www.nexusmods.com/morrowind/mods/45439). It includes the most important shortcuts, allows to reorder .esp plugins load order and fix various issues.
 
