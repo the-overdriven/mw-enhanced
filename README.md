@@ -39,6 +39,9 @@ Install [Expeditious Exit](https://www.nexusmods.com/morrowind/mods/45634)
 Open MGE XE settings and adjust the Menu UI scaling to your liking. Depending on game's resolution I find 1.20 - 1.50 values most optimal.
 
 ## I get low FPS in cities (i.e. Vivec exteriors)
+<details>
+  <summary>(click to expand)</summary>
+
 Install [Morrowind Code Patch](https://www.nexusmods.com/morrowind/mods/19510), [Morrowind Optimization Patch](https://www.nexusmods.com/morrowind/mods/45384) and [Project Atlas](https://www.nexusmods.com/morrowind/mods/45399)
 
 In MGE XE settings, disable Dynamic ripples and some water reflections. Decrease Draw Distance. Regenerate Distant Land with lower settings. Disable Grass.
@@ -49,6 +52,7 @@ In MGE XE settings, go to In-Game tab and click on Macro Editor. You can add a h
 You can also try to run the shortcut to Morrowind with `/High` priority but from my experience it doesn't change much.  
 
 Might want to install [Memory Monitor](https://www.nexusmods.com/morrowind/mods/45696) to keep track of performance improvements.
+</details>
 
 ## How to fix frequent "Initializing data" screens when changing exterior cells? (OpenMW only)
 Recreate navigation mesh cache. It's under Data Files tab.
@@ -174,6 +178,9 @@ Could be even better if these attacks were based on player's level or health (we
 
 ## I'm lost in Vivec, every canton looks the same
 Install [Colorful Vivec](https://www.nexusmods.com/morrowind/mods/53806)
+
+## How can I toggle the map mode?
+Install [UI Expansion](https://www.nexusmods.com/morrowind/mods/46071), the hotkey is configurable in the mod settings. There is also a possibility to automatically change map mode on cell change.
 
 ## I'm pestered by dark assassins from Tribunal content early game
 Install [Tribunal Delayed](https://www.nexusmods.com/morrowind/mods/33973/)
