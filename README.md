@@ -63,6 +63,9 @@ You can also try to run the shortcut to Morrowind with `/High` priority but from
 Might want to install [Memory Monitor](https://www.nexusmods.com/morrowind/mods/45696) to keep track of performance improvements.
 </details>
 
+## I see jagged flickering lines at night
+Turn OFF anti-aliasing in MGE XE settings.
+
 ## How to fix frequent "Initializing data" screens when changing exterior cells? (OpenMW only)
 Recreate navigation mesh cache. It's under Data Files tab.
 
