@@ -3,7 +3,7 @@ Morrowind is a great game, but can be made even greater (and less clunky) by cus
 
 What these docs are not:
 - not a guide you have to read from cover to cover, you can solve each issue separately, in any order  
-- not a modlist, it expands from the context of specific issues and lists possible solutions as mods
+- not a modlist, it expands from the context of specific issues and sometimes a possible solution is installing a mod, but not always  
 - QoL mods that are nice-to-have will be listed in a separate modlist repository  
 - doesn't mention any shaders and mesh/texture replacers for purely aesthethic experience, there will be a separate repository for that  
 
