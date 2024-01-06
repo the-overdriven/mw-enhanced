@@ -285,7 +285,8 @@ Additionally, [Skill Name Skill Books](https://www.nexusmods.com/morrowind/mods/
 [Caps Click to Drop](https://www.nexusmods.com/morrowind/mods/52518) and [Just Drop It](https://www.nexusmods.com/morrowind/mods/49557) for better dropping experience (corpses fall according to the terrain!)
 
 ## How to fix silent death sounds?
-Install [Deathrattle Sounds](https://www.nexusmods.com/morrowind/mods/53938)
+Install [Deathrattle Sounds](https://www.nexusmods.com/morrowind/mods/53938), it fixes NPCs blabbering after death as well.
+Recommended together with [Small Quality of Life Improvements - MWSE](https://www.nexusmods.com/morrowind/mods/53905), which includes a component preventing repeating same voice-over repeatedly.
 
 ## How to disable vanity camera? (the one that turns on after 30 seconds) 
 Install [No Auto Vanity Camera](https://www.nexusmods.com/morrowind/mods/48933)
