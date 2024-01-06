@@ -202,7 +202,8 @@ Install [Encumberance increaser](https://www.nexusmods.com/morrowind/mods/28213)
 
 ## I want to have a stash for items but can't put much in containers
 Install [ContainerWeightMaxed](https://www.nexusmods.com/morrowind/mods/45698)  
-Even if using QuickLoot, [inom - Inventory mouse wheel](https://www.nexusmods.com/morrowind/mods/46847) might still be helpful here for moving items from/to container quicker.
+~~Even if using QuickLoot, [inom - Inventory mouse wheel](https://www.nexusmods.com/morrowind/mods/46847) might still be helpful here for moving items from/to container quicker.~~  
+Actually, UI Expansion has an option to move items from/to container on left click.
 
 ## I want to adjust the camera with a mouse scroll, just like in OpenMW
 Install [Zoom](https://www.nexusmods.com/morrowind/mods/53474)  
