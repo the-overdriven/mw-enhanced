@@ -284,11 +284,14 @@ Additionally, [Skill Name Skill Books](https://www.nexusmods.com/morrowind/mods/
 ## Is there an easier way to drop items?
 [Caps Click to Drop](https://www.nexusmods.com/morrowind/mods/52518) and [Just Drop It](https://www.nexusmods.com/morrowind/mods/49557) for better dropping experience (corpses fall according to the terrain!)
 
-## How to change screenshot path when using ReShade?
-When in game, press Home and look for the path in Settings
-
 ## How to fix silent death sounds?
 TODO
+
+## Game doesn't notify me explicitly enough that I started or finished a quest.
+Install [Skyrim Style Quest Notifications](https://www.nexusmods.com/morrowind/mods/53175) and [Skyrim Style Quest Notifications - Legendary Edition](https://www.nexusmods.com/morrowind/mods/53712)
+
+## How to change screenshot path when using ReShade?
+When in game, press Home and look for the path in Settings
 
 ## How to view meshes with textures?
 Install [NifSkope 2.0 Dev 7](https://github.com/niftools/nifskope/releases). Set path to Morrowind Data Files in Options: Options > Settings > Resources > Add Folder.  
