@@ -20,6 +20,8 @@ Forget about Morrowind Launcher. Use a mod organizer, such as [Wrye Mash](https:
 ![image](https://github.com/the-overdriven/morrowind-issues-and-fixes/assets/100090726/5e8f8763-8f46-4b04-bda4-b56161d81953)
 
 ## But I want to play in lower resolution and fullscreen
+<details>
+  <summary>(click to expand)</summary>
 If your game's resolution doesn't match system screen resolution running the game in borderless window mode won't look like fullscreen.
 Unfortunately in this case system's screen resolution has to be adjusted to be the same as game's resolution, so it imitates fullscreen.
 But to not change the resolution manually every time you run the game you can create a simple .bat file that automates the following: 
@@ -37,6 +39,7 @@ taskkill /IM FullscreenLock.exe /F
 
 Save it as .bat file, i.e. res_720_MW.bat. Create a shortcut, open its properties and in the Target field enter:
 `C:\Windows\System32\cmd.exe /C "<path to the script>\res_720_MW.bat"`
+</details>
 
 ## On multiple screens setup, moving mouse in game moves cursor on the second screen
 Install [FullscreenLock](https://github.com/blaberry/FullscreenLock) and run it every time you run the game (the script above runs it automatically). The .exe file can be downloaded from the [Releases](https://github.com/blaberry/FullscreenLock/releases/tag/1.1) page. [Mirror](https://github.com/the-overdriven/FullscreenLock/releases/tag/1.1).
@@ -240,7 +243,7 @@ Other, AI-generated voices:
 ## Dialogues with NPCs are too repeatable
 Install [UI Expansion](https://www.nexusmods.com/morrowind/mods/46071) and [Dialogues Decluttered](https://www.nexusmods.com/morrowind/mods/48301)
 
-## City guards and faction members are not helping me when I'm being attacked
+## City guards and faction members are not helping me when I'm attacked
 Install [More Attentive Guards](https://www.nexusmods.com/morrowind/mods/48622)
 Caution, has a bug: "Every time I attack in self defense, I get reported and attacked"
 
