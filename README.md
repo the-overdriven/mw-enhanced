@@ -185,7 +185,7 @@ Install [No Respawns](https://www.nexusmods.com/morrowind/mods/53853)
 Install [OperatorJack's Deleveler](https://www.nexusmods.com/morrowind/mods/47897)
 
 ## Looting is clunky, too much clicking
-Install [QuickLoot](https://www.nexusmods.com/morrowind/mods/46283)
+Install [QuickLoot](https://www.nexusmods.com/morrowind/mods/46283). Recommend to use with [Morrowind Containers Animated - Edited for Quickloot](https://www.nexusmods.com/morrowind/mods/49297).
 
 ## Outside of cities, everything that moves wants to kill me
 Install [Non-Homicidal Ecosystem](https://www.nexusmods.com/morrowind/mods/42327)  
