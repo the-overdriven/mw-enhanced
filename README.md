@@ -306,6 +306,9 @@ Install [No Auto Vanity Camera](https://www.nexusmods.com/morrowind/mods/48933)
 ## Game doesn't notify me explicitly enough that I started or finished a quest.
 Install [Skyrim Style Quest Notifications](https://www.nexusmods.com/morrowind/mods/53175) and [Skyrim Style Quest Notifications - Legendary Edition](https://www.nexusmods.com/morrowind/mods/53712)
 
+## Magicka (mana) doesn't regenerate
+Most advanced mod for this appears to be [Magicka Regeneration Suite](https://www.nexusmods.com/morrowind/mods/49153)
+
 ## How to install animations (i.e. xbase_anim.1st.kf)?
 Copy to Meshes. Some require [LizTail Animation Kit](https://www.nexusmods.com/morrowind/mods/43606/)
 
