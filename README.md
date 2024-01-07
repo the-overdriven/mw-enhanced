@@ -64,6 +64,8 @@ In MGE XE settings, go to In-Game tab and click on Macro Editor. You can add a h
 You can also try to run the shortcut to Morrowind with `/High` priority but from my experience it doesn't change much.  
 
 Might want to install [Memory Monitor](https://www.nexusmods.com/morrowind/mods/45696) to keep track of performance improvements.
+
+Optional: [Ocean Light Remover](https://www.nexusmods.com/morrowind/mods/53847)
 </details>
 
 ## I see jagged flickering lines at night
@@ -306,8 +308,17 @@ Install [No Auto Vanity Camera](https://www.nexusmods.com/morrowind/mods/48933)
 ## Game doesn't notify me explicitly enough that I started or finished a quest.
 Install [Skyrim Style Quest Notifications](https://www.nexusmods.com/morrowind/mods/53175) and [Skyrim Style Quest Notifications - Legendary Edition](https://www.nexusmods.com/morrowind/mods/53712)
 
+## Where is the medium armor trainer?
+There is none, Bethesda forgot to add it. Install [Cinia](https://www.nexusmods.com/morrowind/mods/47153)
+
+## I can sleep in owned beds, doesn't make much sense
+Arguably it does make sense (especially if the house is abandoned), but if you like to limit yourself: install [Bed Buddies](https://www.nexusmods.com/morrowind/mods/46632). 
+
 ## Magicka (mana) doesn't regenerate
-Most advanced mod for this appears to be [Magicka Regeneration Suite](https://www.nexusmods.com/morrowind/mods/49153)
+Most advanced and configurable mod for this appears to be [Magicka Regeneration Suite](https://www.nexusmods.com/morrowind/mods/49153)
+
+## How to see how much longer a spell will last?
+Install [Effect Timers](https://www.nexusmods.com/morrowind/mods/51787)
 
 ## How to install animations (i.e. xbase_anim.1st.kf)?
 Copy to Meshes. Some require [LizTail Animation Kit](https://www.nexusmods.com/morrowind/mods/43606/)
