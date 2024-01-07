@@ -307,7 +307,10 @@ Install [No Auto Vanity Camera](https://www.nexusmods.com/morrowind/mods/48933)
 Install [Skyrim Style Quest Notifications](https://www.nexusmods.com/morrowind/mods/53175) and [Skyrim Style Quest Notifications - Legendary Edition](https://www.nexusmods.com/morrowind/mods/53712)
 
 ## How to install animations (i.e. xbase_anim.1st.kf)?
-With [LizTail Animation Kit](https://www.nexusmods.com/morrowind/mods/43606/) TODO
+Copy to Meshes. Some require [LizTail Animation Kit](https://www.nexusmods.com/morrowind/mods/43606/)
+
+## How to show 1-st person swimming annimation?
+Install [MCAR](https://www.nexusmods.com/morrowind/mods/48628)
 
 ## How to change screenshot path when using ReShade?
 When in game, press Home and look for the path in Settings
