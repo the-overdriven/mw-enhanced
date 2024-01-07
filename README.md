@@ -205,7 +205,16 @@ Could be even better if these attacks were based on player's level or health (we
 Install [Colorful Vivec](https://www.nexusmods.com/morrowind/mods/53806)
 
 ## How can I toggle the map mode?
-Install [UI Expansion](https://www.nexusmods.com/morrowind/mods/46071), the hotkey is configurable in the mod settings. There is also a possibility to automatically change map mode on cell change.
+Install [UI Expansion](https://www.nexusmods.com/morrowind/mods/46071), the hotkey is configurable in the mod settings. There is also a possibility to automatically change map mode on cell change.  
+There is one small bug with the map mode toggle hotkey, though. It stops working after opening and closing the inventory, but can be fixed. Find `local function onKeyInput()` in `MenuMap.lua` and change:
+```
+ if (not common.isTextInputActive() and common.complexKeybindTest(common.config.keybindMapSwitch)) then
+```
+to
+```
+ if (common.complexKeybindTest(common.config.keybindMapSwitch)) then
+```
+It comes with a catch: the hotkey should not type anything (i.e. F3), otherwise you might change your map mode when typing in the inventory filters.
 
 ## I'm pestered by dark assassins from Tribunal content early game
 Install [Tribunal Delayed](https://www.nexusmods.com/morrowind/mods/33973/)
