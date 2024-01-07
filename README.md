@@ -318,7 +318,7 @@ Arguably it does make sense (especially if the house is abandoned), but if you l
 Most advanced and configurable mod for this appears to be [Magicka Regeneration Suite](https://www.nexusmods.com/morrowind/mods/49153)
 
 ## How to see how much longer a spell will last?
-Install [Effect Timers](https://www.nexusmods.com/morrowind/mods/51787)
+Install [Effect Timers](https://www.nexusmods.com/morrowind/mods/51787) or [Buff Bars](https://www.nexusmods.com/morrowind/mods/51924). Arguably Buff Bars are better, as they cover more spells, but they don't show time values.
 
 ## How to install animations (i.e. xbase_anim.1st.kf)?
 Copy to Meshes. Some require [LizTail Animation Kit](https://www.nexusmods.com/morrowind/mods/43606/)
