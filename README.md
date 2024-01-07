@@ -132,6 +132,8 @@ GMST Menu also removes the necessity of juggling around with .esp plugins whose 
 
 ## I use up all my fatigue for moving around, so I have none left for fighting
 
+<details>
+  <summary>(click to expand)</summary>
 Use the forementioned GMST Menu to halve the fatigue corresponding variables:
 
 ```
@@ -151,6 +153,7 @@ fFatigueJumpBase = 2 to 4
 ```
 
 These especially make sense to cost more fatigue when using hit-chance simplifying mods (such as Better Balanced Combat), which make the combat last shorter.
+</details>
 
 ## All my hits are missing
 Dice-roll combat working as intended. But on a serious note, you can make the combat more dynamic by installing mods that make all swings have 100% chance to hit. I find [Better Balanced Combat](https://www.nexusmods.com/morrowind/mods/46596) to address this issue most tactfully, without breaking the balance too much, by taking side effects into consideration: i.e. fatigue is still important as the lower it is the higher is the chance to be knocked down, weapon skills also do not become meaningless but add a bonus to strength instead (which, rightfully, excludes the encumbrance bonus). Unfortunately, the mod also affects the regen rate, running speed and makes "You have failed casting the spell" popups disappear, which I'd personally prefer to leave as it is.
@@ -185,7 +188,7 @@ Install [No Respawns](https://www.nexusmods.com/morrowind/mods/53853)
 Install [OperatorJack's Deleveler](https://www.nexusmods.com/morrowind/mods/47897)
 
 ## Looting is clunky, too much clicking
-Install [QuickLoot](https://www.nexusmods.com/morrowind/mods/46283). Recommend to use with [Morrowind Containers Animated - Edited for Quickloot](https://www.nexusmods.com/morrowind/mods/49297).
+Install [QuickLoot](https://www.nexusmods.com/morrowind/mods/46283). Recommended to use with [Morrowind Containers Animated - Edited for Quickloot](https://www.nexusmods.com/morrowind/mods/49297).
 
 ## Outside of cities, everything that moves wants to kill me
 Install [Non-Homicidal Ecosystem](https://www.nexusmods.com/morrowind/mods/42327)  
