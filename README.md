@@ -98,6 +98,10 @@ It's `tm` command in console, but it's a bit clunky to deactivate.
 Better solution might be to use [HUD Hider](https://www.nexusmods.com/morrowind/mods/46642) which adds a toggable hotkey.
 
 ## I move like in slow motion, I want to run faster
+
+<details>
+  <summary>(click to expand)</summary>
+
 For this purpose I find being able to edit GMST variables during game runtime the best solution, because you can adjust it to your liking every time instantly.
 1. Install [GMST Menu](https://www.nexusmods.com/morrowind/mods/46428)
 2. Run the game
@@ -129,6 +133,7 @@ fWereWolfRunMult = 1.5
 </details>
 
 GMST Menu also removes the necessity of juggling around with .esp plugins whose only purpose is to modify these variables.
+</details>
 
 ## I use up all my fatigue for moving around, so I have none left for fighting
 
