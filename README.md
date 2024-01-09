@@ -192,7 +192,8 @@ Install [Controlled Consumption](https://www.nexusmods.com/morrowind/mods/45624)
 Install [No Respawns](https://www.nexusmods.com/morrowind/mods/53853)
 
 ## Difficulty (some enemies) scale with level, I want more challenges early game
-Install [OperatorJack's Deleveler](https://www.nexusmods.com/morrowind/mods/47897)
+Install [OperatorJack's Deleveler](https://www.nexusmods.com/morrowind/mods/47897)  
+Optionally: [Beware the Night](https://www.nexusmods.com/morrowind/mods/52138)
 
 ## Looting is clunky, too much clicking
 Install [QuickLoot](https://www.nexusmods.com/morrowind/mods/46283). Recommended to use with [Morrowind Containers Animated - Edited for Quickloot](https://www.nexusmods.com/morrowind/mods/49297).
@@ -329,6 +330,8 @@ Most advanced and configurable mod for this appears to be [Magicka Regeneration 
 ## How to see how much longer a spell will last?
 Install [Effect Timers](https://www.nexusmods.com/morrowind/mods/51787) or [Buff Bars](https://www.nexusmods.com/morrowind/mods/51924). Arguably Buff Bars are better, as they cover more spells, but they don't show time values.
 
+## How to remove learned spells?
+Install [Spellscribe](https://www.nexusmods.com/morrowind/mods/52809)
 ## How to disable the cheesy shiny glow?
 Install [Assetless No Glow](https://www.nexusmods.com/morrowind/mods/47925)
 
