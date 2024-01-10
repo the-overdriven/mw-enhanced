@@ -298,7 +298,8 @@ Install [Shut Up](https://www.nexusmods.com/morrowind/mods/43310), NPCs will not
 Install [More Attentive Guards](https://www.nexusmods.com/morrowind/mods/48622)
 Caution, has a bug: "Every time I attack in self defense, I get reported and attacked"
 
-For companions: install [Diligent Defenders](https://www.nexusmods.com/morrowind/mods/45717)
+For companions: install [Diligent Defenders](https://www.nexusmods.com/morrowind/mods/45717)  
+
 How to tell my followers (companions and summons) who to attack? You can do on hotkey when you install [Kill Command](https://www.nexusmods.com/morrowind/mods/46723)
 
 How to see my followers' stats? Install [More Detailed Companion HealthBars MWSE Lua Script](https://www.nexusmods.com/morrowind/mods/51389)
