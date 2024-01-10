@@ -277,6 +277,8 @@ Caution, has a bug: "Every time I attack in self defense, I get reported and att
 For companions: install [Diligent Defenders](https://www.nexusmods.com/morrowind/mods/45717)
 How to tell my followers (companions and summons) who to attack? You can do on hotkey when you install [Kill Command](https://www.nexusmods.com/morrowind/mods/46723)
 
+How to see my followers' stats? Install [More Detailed Companion HealthBars MWSE Lua Script](https://www.nexusmods.com/morrowind/mods/51389)
+
 ## Companions get lost occasionally
 Install [Easy Escort](https://www.nexusmods.com/morrowind/mods/45712)
 
