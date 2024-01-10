@@ -267,9 +267,18 @@ Other, AI-generated voices:
 ## Dialogues with NPCs are too repeatable
 Install [UI Expansion](https://www.nexusmods.com/morrowind/mods/46071) and [Dialogues Decluttered](https://www.nexusmods.com/morrowind/mods/48301)
 
-## City guards and faction members are not helping me when I'm attacked
+## How to break from endless dialogue choices loop?
+Install [Force Close Dialogue Menu](https://www.nexusmods.com/morrowind/mods/52553)
+
+## Companions, city guards and faction members are not helping me when I'm attacked
 Install [More Attentive Guards](https://www.nexusmods.com/morrowind/mods/48622)
 Caution, has a bug: "Every time I attack in self defense, I get reported and attacked"
+
+For companions: install [Diligent Defenders](https://www.nexusmods.com/morrowind/mods/45717)
+How to tell my followers (companions and summons) who to attack? You can do on hotkey when you install [Kill Command](https://www.nexusmods.com/morrowind/mods/46723)
+
+## Companions get lost occasionally
+Install [Easy Escort](https://www.nexusmods.com/morrowind/mods/45712)
 
 ## There is no hotkey for Quests
 After installing [Hot Quests](https://www.nexusmods.com/morrowind/mods/48976) the hotkey is "U"
