@@ -181,6 +181,7 @@ Set the time scaling value to 45, it seems to be most optimal for combat, as low
 
 <details>
   <summary>(click to expand)</summary>
+
 Install [Morrowind Code Patch](https://www.nexusmods.com/morrowind/mods/19510), run it, check "Swift Casting" and apply  
 ![image](https://github.com/the-overdriven/morrowind-issues-and-fixes/assets/100090726/5fc22441-abae-4a39-be5d-c6616f665cd8)
 
@@ -219,6 +220,7 @@ Install [Colorful Vivec](https://www.nexusmods.com/morrowind/mods/53806) and [Vi
 
 <details>
   <summary>(click to expand)</summary>
+	
 Install [UI Expansion](https://www.nexusmods.com/morrowind/mods/46071), the hotkey is configurable in the mod settings. There is also a possibility to automatically change map mode on cell change.  
 There is one small bug with the map mode toggle hotkey, though. It stops working after opening and closing the inventory, but can be fixed. Find `local function onKeyInput()` in `MenuMap.lua` and change:
 ```
@@ -267,6 +269,7 @@ end
 
 <details>
   <summary>(click to expand)</summary>
+
 Install AI-generated [Kezyma's Voices of Vvardenfell](https://www.nexusmods.com/morrowind/mods/52279)  
 Other, AI-generated voices:  
 [Ashlander Voices](https://www.nexusmods.com/morrowind/mods/53863)  
@@ -310,6 +313,7 @@ After installing [Hot Quests](https://www.nexusmods.com/morrowind/mods/48976) th
 
 <details>
   <summary>(click to expand)</summary>
+	
 Yes. With [Smart Journal](https://www.nexusmods.com/morrowind/mods/47492):  
 ![image](https://github.com/the-overdriven/morrowind-issues-and-fixes/assets/100090726/3a18f6a4-1676-4e76-9bcd-c908e3b167be)
 
@@ -329,6 +333,7 @@ Install [More Barter Gold](https://www.nexusmods.com/morrowind/mods/40053) and [
 
 <details>
   <summary>(click to expand)</summary>
+	
 With [Seph's Enemy Bars](https://www.nexusmods.com/morrowind/mods/50577). There is one problem with this mod, though. It hides the default yellow bar and the new one is not displayed when attacking enemies from distance. In order to at least restore the vanilla yellow bar in bottom left corner edit this mod's main.lua file and remove or comment out following lines:
 ```
 -- if npcHealthBar then
