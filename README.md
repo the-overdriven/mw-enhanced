@@ -270,6 +270,9 @@ Install [UI Expansion](https://www.nexusmods.com/morrowind/mods/46071) and [Dial
 ## How to break from endless dialogue choices loop?
 Install [Force Close Dialogue Menu](https://www.nexusmods.com/morrowind/mods/52553)
 
+## Passing by NPCs makes them too reactive
+Install [Shut Up](https://www.nexusmods.com/morrowind/mods/43310), NPCs will notice you only when you look at them.
+
 ## Companions, city guards and faction members are not helping me when I'm attacked
 Install [More Attentive Guards](https://www.nexusmods.com/morrowind/mods/48622)
 Caution, has a bug: "Every time I attack in self defense, I get reported and attacked"
