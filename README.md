@@ -166,15 +166,25 @@ These especially make sense to cost more fatigue when using hit-chance simplifyi
 Dice-roll combat working as intended. But on a serious note, you can make the combat more dynamic by installing mods that make all swings have 100% chance to hit. I find [Better Balanced Combat](https://www.nexusmods.com/morrowind/mods/46596) to address this issue most tactfully, without breaking the balance too much, by taking side effects into consideration: i.e. fatigue is still important as the lower it is the higher is the chance to be knocked down, weapon skills also do not become meaningless but add a bonus to strength instead (which, rightfully, excludes the encumbrance bonus). Unfortunately, the mod also affects the regen rate, running speed and makes "You have failed casting the spell" popups disappear, which I'd personally prefer to leave as it is.
 
 ## Fights are too quick and chaotic 
+
+<details>
+  <summary>(click to expand)</summary>
+
 Install [Time Shift](https://www.nexusmods.com/morrowind/mods/49646), in its main.lua comment out the line:  
 ```
 -- mp.fatigue.current = mp.fatigue.current - dt * cf.sc
 ```
 Set the time scaling value to 45, it seems to be most optimal for combat, as lower values might make animations too slow.
+</details>
 
 ## How to cast spells on key press, to not switch between weapon and magic all the time?
+
+<details>
+  <summary>(click to expand)</summary>
 Install [Morrowind Code Patch](https://www.nexusmods.com/morrowind/mods/19510), run it, check "Swift Casting" and apply  
 ![image](https://github.com/the-overdriven/morrowind-issues-and-fixes/assets/100090726/5fc22441-abae-4a39-be5d-c6616f665cd8)
+
+</details>
 
 ## How do I use Quick Keys in Morrowind?
 Press F1
@@ -206,6 +216,9 @@ Could be even better if these attacks were based on player's level or health (we
 Install [Colorful Vivec](https://www.nexusmods.com/morrowind/mods/53806) and [Vivec Cantons Reconnected](https://www.nexusmods.com/morrowind/mods/48081)
 
 ## How can I toggle the map mode?
+
+<details>
+  <summary>(click to expand)</summary>
 Install [UI Expansion](https://www.nexusmods.com/morrowind/mods/46071), the hotkey is configurable in the mod settings. There is also a possibility to automatically change map mode on cell change.  
 There is one small bug with the map mode toggle hotkey, though. It stops working after opening and closing the inventory, but can be fixed. Find `local function onKeyInput()` in `MenuMap.lua` and change:
 ```
@@ -216,6 +229,7 @@ to
  if (common.complexKeybindTest(common.config.keybindMapSwitch)) then
 ```
 It comes with a catch: the hotkey should not type anything (i.e. F3), otherwise you might change your map mode when typing in the inventory filters.
+</details>
 
 ## I'm pestered by dark assassins from Tribunal content early game
 Install [Tribunal Delayed](https://www.nexusmods.com/morrowind/mods/33973/)
@@ -250,6 +264,9 @@ end
 </details>
 
 ## Very few dialogues are voiced
+
+<details>
+  <summary>(click to expand)</summary>
 Install AI-generated [Kezyma's Voices of Vvardenfell](https://www.nexusmods.com/morrowind/mods/52279)  
 Other, AI-generated voices:  
 [Ashlander Voices](https://www.nexusmods.com/morrowind/mods/53863)  
@@ -263,6 +280,7 @@ Other, AI-generated voices:
 [Great Service](https://www.nexusmods.com/morrowind/mods/47767)  
 [Idle Talk](https://www.nexusmods.com/morrowind/mods/46948)  
 [Its a Deal](https://www.nexusmods.com/morrowind/mods/47968)  
+</details>
 
 ## Dialogues with NPCs are too repeatable
 Install [UI Expansion](https://www.nexusmods.com/morrowind/mods/46071) and [Dialogues Decluttered](https://www.nexusmods.com/morrowind/mods/48301)
@@ -289,10 +307,14 @@ Install [Easy Escort](https://www.nexusmods.com/morrowind/mods/45712)
 After installing [Hot Quests](https://www.nexusmods.com/morrowind/mods/48976) the hotkey is "U"
 
 ## Can I make Quests screen more usable (i.e. bigger)?
+
+<details>
+  <summary>(click to expand)</summary>
 Yes. With [Smart Journal](https://www.nexusmods.com/morrowind/mods/47492):  
 ![image](https://github.com/the-overdriven/morrowind-issues-and-fixes/assets/100090726/3a18f6a4-1676-4e76-9bcd-c908e3b167be)
 
 Highlighting and hiding quests is doable with [Better Questlist](https://www.nexusmods.com/morrowind/mods/48272)
+</details>
 
 ## Can I write in my journal?
 Yes, with [Journal Search and Edit](https://www.nexusmods.com/morrowind/mods/46756)
@@ -304,6 +326,9 @@ Install [Colored Potions](https://www.nexusmods.com/morrowind/mods/48999)
 Install [More Barter Gold](https://www.nexusmods.com/morrowind/mods/40053) and [Merchant Gold Resets Instantly](https://www.nexusmods.com/morrowind/mods/43764)
 
 ## How can I see HP values of enemies?
+
+<details>
+  <summary>(click to expand)</summary>
 With [Seph's Enemy Bars](https://www.nexusmods.com/morrowind/mods/50577). There is one problem with this mod, though. It hides the default yellow bar and the new one is not displayed when attacking enemies from distance. In order to at least restore the vanilla yellow bar in bottom left corner edit this mod's main.lua file and remove or comment out following lines:
 ```
 -- if npcHealthBar then
@@ -314,6 +339,7 @@ With [Seph's Enemy Bars](https://www.nexusmods.com/morrowind/mods/50577). There 
 		-- 	npcHealthBar.disabled = true
 		-- end
 ```
+</details>
 
 ## Is there a way to stop friendly-fire?
 Yes, install [No More Friendly Fire](https://www.nexusmods.com/morrowind/mods/48801)
