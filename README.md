@@ -203,7 +203,7 @@ Install [Non-Homicidal Ecosystem](https://www.nexusmods.com/morrowind/mods/42327
 Could be even better if these attacks were based on player's level or health (weak monsters should be afraid to attack strong player)
 
 ## I'm lost in Vivec, every canton looks the same
-Install [Colorful Vivec](https://www.nexusmods.com/morrowind/mods/53806)
+Install [Colorful Vivec](https://www.nexusmods.com/morrowind/mods/53806) and [Vivec Cantons Reconnected](https://www.nexusmods.com/morrowind/mods/48081)
 
 ## How can I toggle the map mode?
 Install [UI Expansion](https://www.nexusmods.com/morrowind/mods/46071), the hotkey is configurable in the mod settings. There is also a possibility to automatically change map mode on cell change.  
@@ -335,7 +335,8 @@ Most advanced and configurable mod for this appears to be [Magicka Regeneration 
 Install [Effect Timers](https://www.nexusmods.com/morrowind/mods/51787) or [Buff Bars](https://www.nexusmods.com/morrowind/mods/51924). Arguably Buff Bars are better, as they cover more spells, but they don't show time values.
 
 ## How to remove learned spells?
-Install [Spellscribe](https://www.nexusmods.com/morrowind/mods/52809)
+Install [Spellscribe](https://www.nexusmods.com/morrowind/mods/52809). Use paper on yourself to scribe the spell for backup. Remove the spell with Shift+Click.
+
 ## How to disable the cheesy shiny glow?
 Install [Assetless No Glow](https://www.nexusmods.com/morrowind/mods/47925)
 
