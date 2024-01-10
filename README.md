@@ -204,7 +204,6 @@ Install [No Respawns](https://www.nexusmods.com/morrowind/mods/53853)
 
 ## Difficulty (some enemies) scale with level, I want more challenges early game
 Install [OperatorJack's Deleveler](https://www.nexusmods.com/morrowind/mods/47897)  
-Optionally: [Beware the Night](https://www.nexusmods.com/morrowind/mods/52138)
 
 ## Looting is clunky, too much clicking
 Install [QuickLoot](https://www.nexusmods.com/morrowind/mods/46283). Recommended to use with [Morrowind Containers Animated - Edited for Quickloot](https://www.nexusmods.com/morrowind/mods/49297).
@@ -295,8 +294,7 @@ Install [Force Close Dialogue Menu](https://www.nexusmods.com/morrowind/mods/525
 Install [Shut Up](https://www.nexusmods.com/morrowind/mods/43310), NPCs will notice you only when you look at them.
 
 ## Companions, city guards and faction members are not helping me when I'm attacked
-Install [More Attentive Guards](https://www.nexusmods.com/morrowind/mods/48622)
-Caution, has a bug: "Every time I attack in self defense, I get reported and attacked"
+Install [More Attentive Guards](https://www.nexusmods.com/morrowind/mods/48622). Caution, has a bug: "Every time I attack in self defense, I get reported and attacked"
 
 For companions: install [Diligent Defenders](https://www.nexusmods.com/morrowind/mods/45717)  
 
