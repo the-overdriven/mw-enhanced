@@ -224,6 +224,16 @@ Install [Stealth Improved](https://www.nexusmods.com/morrowind/mods/49614)
 Install [Improved Vanilla Leveling](https://www.nexusmods.com/morrowind/mods/48065)  
 Also: [Quest Skill Reward Fix](https://www.nexusmods.com/morrowind/mods/48269) - applies skill rewards from quests more optimally.
 
+## Progresion is too quick/easy
+Install [Proportional Progression](https://www.nexusmods.com/morrowind/mods/45697) or [Proportional Progression Expanded](https://www.nexusmods.com/morrowind/mods/53782)  
+TODO
+
+## It is too easy to get rich
+TODO
+
+## There are too many (low tier) items in game
+TODO
+
 ## Outside of cities, everything that moves wants to kill me
 Install [Non-Homicidal Ecosystem](https://www.nexusmods.com/morrowind/mods/42327)  
 Could be even better if these attacks were based on player's level or health (weak monsters should be afraid to attack strong player)
