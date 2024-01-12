@@ -432,6 +432,8 @@ function filterMods() {
 })();
 ```
 
+You can use [Run JavaScript addon](https://chromewebstore.google.com/detail/run-javascript/lmilalhkkdhfieeienjbiicclobibjao) to not have to copy-paste this code every single time.
+
 This will clear the "Last download" cell of mods that are of no interest to us here. Now we can use the CSS to hide whole rows. Install [Stylus](https://chromewebstore.google.com/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) and add a style for Nexus tracking centre page with following CSS code: `tr:has(.table-download:empty) { display:none }`. Once you save it filtering should start working.
 
 ## How to change screenshot path when using ReShade?
