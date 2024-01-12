@@ -331,6 +331,9 @@ Install [Colored Potions](https://www.nexusmods.com/morrowind/mods/48999)
 ## All merchants are broke
 Install [More Barter Gold](https://www.nexusmods.com/morrowind/mods/40053) and [Merchant Gold Resets Instantly](https://www.nexusmods.com/morrowind/mods/43764)
 
+## Race and birthsign spells are ~~cringe~~ useless and unbalanced
+Install [Balanced Passive Races and Birthsigns](https://www.nexusmods.com/morrowind/mods/47782), it will replace spells (that no one uses anyway) with permanent bonuses.
+
 ## How can I see HP values of enemies?
 
 <details>
