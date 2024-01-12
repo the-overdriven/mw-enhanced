@@ -53,7 +53,7 @@ Install [Expeditious Exit](https://www.nexusmods.com/morrowind/mods/45634)
 ## Everything in game is too small. Fonts, UI, etc.
 Open MGE XE settings and adjust the Menu UI scaling to your liking. Depending on game's resolution I find 1.20 - 1.50 values most optimal.
 
-## I get low FPS in cities (i.e. Vivec exteriors)
+## I get low FPS (i.e. in cities, Vivec exteriors)
 <details>
   <summary>(click to expand)</summary>
 
@@ -68,7 +68,10 @@ You can also try to run the shortcut to Morrowind with `/High` priority but from
 
 Might want to install [Memory Monitor](https://www.nexusmods.com/morrowind/mods/45696) to keep track of performance improvements.
 
-Optional: [Ocean Light Remover](https://www.nexusmods.com/morrowind/mods/53847)
+Optional: 
+- [Ocean Light Remover](https://www.nexusmods.com/morrowind/mods/53847)
+- [Turn Normal Grass and Kelp into Groundcover](https://www.nexusmods.com/morrowind/mods/52010)
+- [I Lava Good Mesh Replacer](https://www.nexusmods.com/morrowind/mods/49605)
 </details>
 
 ## I see jagged flickering lines at night
