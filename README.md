@@ -221,7 +221,8 @@ Install [Pickpocket](https://www.nexusmods.com/morrowind/mods/47581)
 Install [Stealth Improved](https://www.nexusmods.com/morrowind/mods/49614)
 
 ## When leveling, HP gain is not retroactive, which incentivizes focusing on Endurance early game. Excess progress and multiplier bonus are also sometimes wasted.
-Install [Improved Vanilla Leveling](https://www.nexusmods.com/morrowind/mods/48065)  
+Install [Improved Vanilla Leveling](https://www.nexusmods.com/morrowind/mods/48065) (fixes retroactive health, multipliers and how XP carry-over contributes to attributes)
+XP carry-over fix (unrelated to attribute gain): [Experience Carryover](https://www.nexusmods.com/morrowind/mods/53972)
 Also: [Quest Skill Reward Fix](https://www.nexusmods.com/morrowind/mods/48269) - applies skill rewards from quests more optimally.
 
 ## Progresion is too quick/easy
