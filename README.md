@@ -413,6 +413,7 @@ function filterMods() {
 
 		if (tdDownloaded.innerHTML.includes('--') || !updatedDateGreaterThanDownloadedDate) {
 			tdDownloaded.innerHTML = '';
+			// tr.remove(); // uncomment this, if you don't want to use Stylus/CSS
 		}
 	})
 }
