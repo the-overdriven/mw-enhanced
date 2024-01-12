@@ -334,6 +334,12 @@ Install [More Barter Gold](https://www.nexusmods.com/morrowind/mods/40053) and [
 ## Race and birthsign spells are ~~cringe~~ useless and unbalanced
 Install [Balanced Passive Races and Birthsigns](https://www.nexusmods.com/morrowind/mods/47782), it will replace spells (that no one uses anyway) with permanent bonuses.
 
+## Using shrines is clunky
+[Shrine Tooltips](https://www.nexusmods.com/morrowind/mods/48275) adds tooltips that tells you what each option actually does. [No Thank You](https://www.nexusmods.com/morrowind/mods/49681) adds a cancel option.
+
+## Movement when swimming and levitating is clunky
+Install [Better Buoyancy](https://www.nexusmods.com/morrowind/mods/48929), adds jump key to float upwards, and the sneak key to sink downwards.
+
 ## How can I see HP values of enemies?
 
 <details>
