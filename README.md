@@ -220,8 +220,9 @@ Install [Pickpocket](https://www.nexusmods.com/morrowind/mods/47581)
 ## Sneaking is useless
 Install [Stealth Improved](https://www.nexusmods.com/morrowind/mods/49614)
 
-## When leveling, HP gain is not retroactive, which incentivizes focusing on Endurance early game. Excess progress and multiplier bonus is sometimes also wasted when leveling.
-Install [Improved Vanilla Leveling](https://www.nexusmods.com/morrowind/mods/48065)
+## When leveling, HP gain is not retroactive, which incentivizes focusing on Endurance early game. Excess progress and multiplier bonus is sometimes also wasted.
+Install [Improved Vanilla Leveling](https://www.nexusmods.com/morrowind/mods/48065)  
+Also: [Quest Skill Reward Fix](https://www.nexusmods.com/morrowind/mods/48269) - applies skill rewards from quests more optimally.
 
 ## Outside of cities, everything that moves wants to kill me
 Install [Non-Homicidal Ecosystem](https://www.nexusmods.com/morrowind/mods/42327)  
