@@ -260,7 +260,7 @@ It comes with a catch: the hotkey should not type anything (i.e. F3), otherwise 
 </details>
 
 ## I'm pestered by dark assassins from Tribunal content early game
-Install [Tribunal Delayed](https://www.nexusmods.com/morrowind/mods/33973/)
+Install [Tribunal Delayed](https://www.nexusmods.com/morrowind/mods/33973/) or [Expansion Delay](https://www.nexusmods.com/morrowind/mods/47588)
 
 ## I'm encumbered all the time
 Install [Encumberance increaser](https://www.nexusmods.com/morrowind/mods/28213)
