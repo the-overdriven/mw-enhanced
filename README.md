@@ -407,7 +407,7 @@ Install [Effect Timers](https://www.nexusmods.com/morrowind/mods/51787) or [Buff
 Install [Spellscribe](https://www.nexusmods.com/morrowind/mods/52809). Use paper on yourself to scribe the spell for backup. Remove the spell with Shift+Click.
 
 ## How to disable the cheesy shiny glow?
-Install [Assetless No Glow](https://www.nexusmods.com/morrowind/mods/47925)
+Install [Assetless No Glow](https://www.nexusmods.com/morrowind/mods/47925)  
 To change glass weapons and armor: [Dim Glass - Less Irritating Glass Armor and Weapon](https://www.nexusmods.com/morrowind/mods/51544)
 
 ## How to change the cheesy shiny background behind magical items in invetory?
@@ -420,6 +420,10 @@ Copy to Meshes. Some require [LizTail Animation Kit](https://www.nexusmods.com/m
 Install [MCAR](https://www.nexusmods.com/morrowind/mods/48628)
 
 ## How to track mod updates on Nexus?
+
+<details>
+  <summary>(click to expand)</summary>
+
 Go to [Tracking Centre](https://www.nexusmods.com/mods/trackingcentre). The problem with this view is that it's not very useful. In the tracking centre we are only interested in mods that we already downloaded but in the meantime they got an update. Unfortunately, Nexus doesn't provide a filter for mods you haven't downloaded yet. And, most importantly, you cannot filter out mods that didn't have new updates since last time you've downloaded them.
 
 Here comes the power of CSS and JS magic.
@@ -457,7 +461,8 @@ function filterMods() {
 
 You can use [an addon](https://chromewebstore.google.com/detail/custom-javascript-for-web/ddbjnfjiigjmcpcpkmhogomapikjbjdk) to not have to copy-paste this code every single time.
 
-Thanks to this JS code every time we change the page the "Last download" cell of mods that are of no interest to us here will be cleared. Now we can use the CSS to hide whole rows. Install [Stylus](https://chromewebstore.google.com/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) and add a style for Nexus tracking centre page with following CSS code: `tr:has(.table-download:empty) { display:none }`. Once you save it filtering should start working. Of course, the same can be achieved with JS only, without using any CSS (albeit, JS-free, CSS-only solution is probably not possible in this case). Sometimes you do need both and processing CSS has a minimal impact performance wise, so it doesn't hurt to install Stylus, in case you need it for a different issue.
+Thanks to this JS code every time we change the page the "Last download" cell of mods that are of no interest to us here will be cleared. Now we can use the CSS to hide whole rows. Install [Stylus](https://chromewebstore.google.com/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) and add a style for Nexus tracking centre page with following CSS code: `tr:has(.table-download:empty) { display:none }`. Once you save it filtering should start working. Of course, the same can be achieved with JS only, without using any CSS (albeit, JS-free, CSS-only solution is probably not possible in this case). Sometimes you do need both and processing CSS has a minimal performance impact, so it doesn't hurt to install Stylus, you might need it for a different issue, in the future.
+</details>
 
 ## How to change screenshot path when using ReShade?
 When in game, press Home and look for the path in Settings
