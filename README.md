@@ -202,8 +202,8 @@ F5 to save, F9 to load
 ## When quick-saving will it save on multiple slots?
 No. You'd have install [Sophisticated Save System](https://www.nexusmods.com/morrowind/mods/45608) for that. It adds autosave as well (including save every x minutes)
 
-## Being able to chug multiple potions at the same time is too OP
-Install [Controlled Consumption](https://www.nexusmods.com/morrowind/mods/45624)
+## Being able to chug multiple potions at the same time is too OP. Alchemy is too OP, in general.
+Install [Controlled Consumption](https://www.nexusmods.com/morrowind/mods/45624) or [Alchemical Hustle](https://www.nexusmods.com/morrowind/mods/51050)
 
 ## Killed enemies respawn like in some kind of MMO
 Install [No Respawns](https://www.nexusmods.com/morrowind/mods/53853)
