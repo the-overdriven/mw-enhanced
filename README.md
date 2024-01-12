@@ -10,6 +10,9 @@ What these docs are not:
 
 Think of it rather as "Morrowind power user FAQ"
 
+## How to get the best bug-free experience?
+Install [Patch for Purists](https://www.nexusmods.com/morrowind/mods/45096)
+
 ## How do I actually run a modded game?
 Forget about Morrowind Launcher. Use a mod organizer, such as [Wrye Mash](https://www.nexusmods.com/morrowind/mods/45439). It includes the most important shortcuts, allows to reorder .esp plugins load order and fix various issues.
 
@@ -393,6 +396,43 @@ Copy to Meshes. Some require [LizTail Animation Kit](https://www.nexusmods.com/m
 
 ## How to show 1-st person swimming annimation?
 Install [MCAR](https://www.nexusmods.com/morrowind/mods/48628)
+
+## How to track mod updates on Nexus?
+Go to [Tracking Centre](https://www.nexusmods.com/mods/trackingcentre). The problem with this view is that it's not very useful. In the tracking centre we are only interested in mods that we already downloaded but in the meantime they got an update. Unfortunately, Nexus doesn't provide a filter for mods you haven't downloaded yet. And, most importantly, you cannot filter out mods that didn't have new updates since last time you've downloaded them.
+
+Here comes the power of CSS and JS magic.
+
+The first time you open the page, open the console with F12 and run the following code:
+
+```
+function filterMods() {
+	document.querySelectorAll('.mod-tracking-table tbody tr').forEach(function(tr) {
+		const tdDownloaded = tr.querySelector('td.table-download');
+		const tdUpdated = tr.querySelector('td.table-update');
+		const updatedDateGreaterThanDownloadedDate = new Date(tdUpdated.innerHTML).getTime() > new Date(tdDownloaded.innerHTML).getTime();
+
+		if (tdDownloaded.innerHTML.includes('--') || !updatedDateGreaterThanDownloadedDate) {
+			tdDownloaded.innerHTML = '';
+		}
+	})
+}
+
+
+(function() {
+    filterMods()
+    var origOpen = XMLHttpRequest.prototype.open;
+    XMLHttpRequest.prototype.open = function() {
+        console.log('request started!');
+        this.addEventListener('load', function() {
+            console.log('request completed!');
+            setTimeout(filterMods, 50)
+        });
+        origOpen.apply(this, arguments);
+    };
+})();
+```
+
+This will clear the "Last download" cell of mods that are of no interest to us here. Now we can use the CSS to hide whole rows. Install [Stylus](https://chromewebstore.google.com/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) and add a style for Nexus tracking centre page with following CSS code: `tr:has(.table-download:empty) { display:none }`. Once you save it filtering should start working.
 
 ## How to change screenshot path when using ReShade?
 When in game, press Home and look for the path in Settings
