@@ -194,7 +194,7 @@ Install [Morrowind Code Patch](https://www.nexusmods.com/morrowind/mods/19510), 
 </details>
 
 ## How do I use Quick Keys in Morrowind?
-Press F1
+Press F1. You can install [Quickkeys Hotbar](https://www.nexusmods.com/morrowind/mods/51192) to see all your hotkeys in the HUD.
 
 ## Are there hotkeys to save and load?
 F5 to save, F9 to load
