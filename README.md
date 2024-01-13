@@ -57,6 +57,8 @@ Open MGE XE settings and adjust the Menu UI scaling to your liking. Depending on
 <details>
   <summary>(click to expand)</summary>
 
+Morrowind, as many old games, is a CPU hog. Doesn't make much use of multithreading and GPU. Not much can be done about it.
+
 Install [Morrowind Code Patch](https://www.nexusmods.com/morrowind/mods/19510), [Morrowind Optimization Patch](https://www.nexusmods.com/morrowind/mods/45384) and [Project Atlas](https://www.nexusmods.com/morrowind/mods/45399)
 
 In MGE XE settings, disable Dynamic ripples and some water reflections. Decrease Draw Distance. Regenerate Distant Land with lower settings. Disable Grass.
@@ -66,7 +68,9 @@ In MGE XE settings, go to In-Game tab and click on Macro Editor. You can add a h
 
 You can also try to run the shortcut to Morrowind with `/High` priority but from my experience it doesn't change much.  
 
-Might want to install [Memory Monitor](https://www.nexusmods.com/morrowind/mods/45696) to keep track of performance improvements.
+Decreasing view distance does make a big difference but comes at a price of causing a Fata Morgana effect (objects disappear or change when coming closer).
+
+[Memory Monitor](https://www.nexusmods.com/morrowind/mods/45696) can be used to keep track of performance improvements.
 
 Optional: 
 - [Ocean Light Remover](https://www.nexusmods.com/morrowind/mods/53847)
