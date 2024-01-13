@@ -57,7 +57,7 @@ Open MGE XE settings and adjust the Menu UI scaling to your liking. Depending on
 <details>
   <summary>(click to expand)</summary>
 
-Morrowind, as many old games, is a CPU hog. Doesn't make much use of multithreading and GPU. Not much can be done about it.
+Morrowind, as many old games, is a CPU hog. Doesn't make use of multithreading and GPU. Not much can be done about it.
 
 Install [Morrowind Code Patch](https://www.nexusmods.com/morrowind/mods/19510), [Morrowind Optimization Patch](https://www.nexusmods.com/morrowind/mods/45384) and [Project Atlas](https://www.nexusmods.com/morrowind/mods/45399)
 
