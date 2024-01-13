@@ -401,7 +401,7 @@ Additionally, [Skill Name Skill Books](https://www.nexusmods.com/morrowind/mods/
 [Caps Click to Drop](https://www.nexusmods.com/morrowind/mods/52518) and [Just Drop It](https://www.nexusmods.com/morrowind/mods/49557) for better dropping experience (corpses fall according to the terrain!)
 
 ## How to fix silent NPC groans?
-Some mods break it (Character Sound Overhaul and Sound Impact - I'm looking at you). Install [Deathrattle Sounds](https://www.nexusmods.com/morrowind/mods/53938), it doesn't restore groans on hit, but it does restore groans on death. And adds some extra. It fixes NPCs blabbering after death as well.  
+Some mods break it (Character Sound Overhaul and Impact Sounds - I'm looking at you). Install [Deathrattle Sounds](https://www.nexusmods.com/morrowind/mods/53938), it doesn't restore groans on hit, but it does restore groans on death. And adds some extra. It fixes NPCs blabbering after death as well.  
 Recommended together with [Small Quality of Life Improvements - MWSE](https://www.nexusmods.com/morrowind/mods/53905), which includes a component preventing repeating same combat voice-overs repeatedly.
 
 ## How to disable vanity camera? (the one that turns on after 30 seconds) 
@@ -424,6 +424,9 @@ Install [Effect Timers](https://www.nexusmods.com/morrowind/mods/51787) or [Buff
 
 ## How to remove learned spells?
 Install [Spellscribe](https://www.nexusmods.com/morrowind/mods/52809). Use paper on yourself to scribe the spell for backup. Remove the spell with Shift+Click.
+
+## Why do I have to read a blank piece of paper before I pick it up?
+Install [Plain Paper Fix](https://www.nexusmods.com/morrowind/mods/47735)
 
 ## How to disable the cheesy shiny glow?
 Install [Assetless No Glow](https://www.nexusmods.com/morrowind/mods/47925)  
