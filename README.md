@@ -69,6 +69,7 @@ In MGE XE settings, go to In-Game tab and click on Macro Editor. You can add a h
 You can also try to run the shortcut to Morrowind with `/High` priority but from my experience it doesn't change much.  
 
 Decreasing view distance does make a big difference but comes at a price of causing a Fata Morgana effect (objects disappear or change when coming closer).
+There's a mod to automate it: [Simple FPS Optimizer](https://www.nexusmods.com/morrowind/mods/53982)
 
 [Memory Monitor](https://www.nexusmods.com/morrowind/mods/45696) can be used to keep track of performance improvements.
 
