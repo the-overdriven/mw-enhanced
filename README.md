@@ -61,6 +61,8 @@ Morrowind, as many old games, is a CPU hog. Doesn't make use of multithreading a
 
 Install [Morrowind Code Patch](https://www.nexusmods.com/morrowind/mods/19510), [Morrowind Optimization Patch](https://www.nexusmods.com/morrowind/mods/45384) and [Project Atlas](https://www.nexusmods.com/morrowind/mods/45399)
 
+Grab [Vulkan's dll](https://www.nexusmods.com/morrowind/mods/53685), you can gain up to 10-15fps. If you use ReShade you might have to re-run the installation.  
+
 In MGE XE settings, disable Dynamic ripples and some water reflections. Decrease Draw Distance. Regenerate Distant Land with lower settings. Disable Grass.
 
 In MGE XE settings, go to In-Game tab and click on Macro Editor. You can add a hotkey here for toggling distant land and shaders (i.e. `-` and `*` on numberical keyboard). Then when you're in a taxing location just press these keys to disable distant land and shaders, it should restore few fps.  
