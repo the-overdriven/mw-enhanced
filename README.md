@@ -63,13 +63,13 @@ Install [Morrowind Code Patch](https://www.nexusmods.com/morrowind/mods/19510), 
 
 In MGE XE settings, disable Dynamic ripples and some water reflections. Decrease Draw Distance. Regenerate Distant Land with lower settings. Disable Grass.
 
-In MGE XE settings, go to In-Game tab and click on Macro Editor. You can add a hotkey here for toggling distant land and shaders (i.e. `-` and `*` on numberical keyboard). Then when you're in a taxing location just press these keys to disable distant land and shaders, it should restore up to 10 fps.  
-![image](https://github.com/the-overdriven/morrowind-issues-and-fixes/assets/100090726/7c588307-33d5-4999-aea8-cc0fb3f53604)
+In MGE XE settings, go to In-Game tab and click on Macro Editor. You can add a hotkey here for toggling distant land and shaders (i.e. `-` and `*` on numberical keyboard). Then when you're in a taxing location just press these keys to disable distant land and shaders, it should restore few fps.  
+![image](https://github.com/the-overdriven/morrowind-issues-and-fixes/assets/100090726/7c588307-33d5-4999-aea8-cc0fb3f53604)  
+Decreasing view distance does make a big difference but comes at a price of causing mirages (objects disappear or change when coming closer).
+There's a mod to automate it: [Simple FPS Optimizer](https://www.nexusmods.com/morrowind/mods/53982)  
+You can set hotkeys in MGE XE Macro Editors for increasing and decreasing "View Range" as well.
 
 You can also try to run the shortcut to Morrowind with `/High` priority but from my experience it doesn't change much.  
-
-Decreasing view distance does make a big difference but comes at a price of causing a Fata Morgana effect (objects disappear or change when coming closer).
-There's a mod to automate it: [Simple FPS Optimizer](https://www.nexusmods.com/morrowind/mods/53982)
 
 [Memory Monitor](https://www.nexusmods.com/morrowind/mods/45696) can be used to keep track of performance improvements.
 
