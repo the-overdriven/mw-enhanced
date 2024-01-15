@@ -181,6 +181,8 @@ These especially make sense to cost more fatigue when using hit-chance simplifyi
 ## All my hits are missing
 Dice-roll combat working as intended. But on a serious note, you can make the combat more dynamic by installing mods that make all swings have 100% chance to hit. I find [Better Balanced Combat](https://www.nexusmods.com/morrowind/mods/46596) to address this issue most tactfully, without breaking the balance too much, by taking side effects into consideration: i.e. fatigue is still important as the lower it is the higher is the chance to be knocked down, weapon skills also do not become meaningless but add a bonus to strength instead (which, rightfully, excludes the encumbrance bonus). Unfortunately, the mod also affects the regen rate, running speed and makes "You have failed casting the spell" popups disappear, which I'd personally prefer to leave as it is.
 
+Alternative: [Next Generation Combat](https://www.nexusmods.com/morrowind/mods/46993)
+
 ## Fights are too quick and chaotic 
 
 <details>
@@ -224,6 +226,9 @@ Install [OperatorJack's Deleveler](https://www.nexusmods.com/morrowind/mods/4789
 ## How to tell blighted creatures from non-blighted?
 Install [Blighted Animals Retextured](https://www.nexusmods.com/morrowind/mods/42245)
 
+## Tombs entrances don't look like tombs
+Install [Know Thy Ancestors](https://www.nexusmods.com/morrowind/mods/49678)
+
 ## Looting is clunky, too much clicking
 Install [QuickLoot](https://www.nexusmods.com/morrowind/mods/46283). Recommended to use with [Morrowind Containers Animated - Edited for Quickloot](https://www.nexusmods.com/morrowind/mods/49297).
 
@@ -237,6 +242,8 @@ Install [Stealth Improved](https://www.nexusmods.com/morrowind/mods/49614)
 Install [Improved Vanilla Leveling](https://www.nexusmods.com/morrowind/mods/48065) (fixes retroactive health, multipliers and how XP carry-over contributes to attributes)  
 XP carry-over fix (unrelated to attribute gain): [Experience Carryover](https://www.nexusmods.com/morrowind/mods/53972)  
 Also: [Quest Skill Reward Fix](https://www.nexusmods.com/morrowind/mods/48269) - applies skill rewards from quests more optimally.
+
+Alternative for Improved Vanilla Leveling: [Madd Leveler](https://www.nexusmods.com/morrowind/mods/45865)
 
 ## Progresion is too quick/easy
 Install [Proportional Progression](https://www.nexusmods.com/morrowind/mods/45697) or [Proportional Progression Expanded](https://www.nexusmods.com/morrowind/mods/53782)  
@@ -425,7 +432,8 @@ There is none, Bethesda forgot to add it. Install [Cinia](https://www.nexusmods.
 Arguably it does make sense (especially if the house is abandoned), but if you like to limit yourself: install [Bed Buddies](https://www.nexusmods.com/morrowind/mods/46632). 
 
 ## Magicka (mana) doesn't regenerate
-Most advanced and configurable mod for this appears to be [Magicka Regeneration Suite](https://www.nexusmods.com/morrowind/mods/49153)
+Most advanced and configurable mod for this appears to be [Magicka Regeneration Suite](https://www.nexusmods.com/morrowind/mods/49153)  
+Alternative: [Puristy Friendly Magicka Regen](https://www.nexusmods.com/morrowind/mods/45636)
 
 ## How to see how much longer a spell will last?
 Install [Effect Timers](https://www.nexusmods.com/morrowind/mods/51787) or [Buff Bars](https://www.nexusmods.com/morrowind/mods/51924). Arguably Buff Bars are better, as they cover more spells, but they don't show time values.
