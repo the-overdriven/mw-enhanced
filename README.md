@@ -221,6 +221,9 @@ Install [No Respawns](https://www.nexusmods.com/morrowind/mods/53853)
 ## Difficulty (some enemies) scale with level, I want more challenges early game
 Install [OperatorJack's Deleveler](https://www.nexusmods.com/morrowind/mods/47897)  
 
+## How to tell blighted creatures from non-blighted?
+Install [Blighted Animals Retextured](https://www.nexusmods.com/morrowind/mods/42245)
+
 ## Looting is clunky, too much clicking
 Install [QuickLoot](https://www.nexusmods.com/morrowind/mods/46283). Recommended to use with [Morrowind Containers Animated - Edited for Quickloot](https://www.nexusmods.com/morrowind/mods/49297).
 
@@ -274,6 +277,9 @@ Install [Tribunal Delayed](https://www.nexusmods.com/morrowind/mods/33973/) or [
 
 ## I'm encumbered all the time
 Install [Encumberance increaser](https://www.nexusmods.com/morrowind/mods/28213)
+
+## NPCs are shouting when I'm stealing but do nothing
+Install [No NPC Shouting at 0 Alarm](https://www.nexusmods.com/morrowind/mods/53837)
 
 ## I want to have a stash for items but can't put much in containers
 Install [ContainerWeightMaxed](https://www.nexusmods.com/morrowind/mods/45698)  
