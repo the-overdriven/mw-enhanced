@@ -226,6 +226,9 @@ TODO
 ## Why I cannot rest in cities?
 TODO
 
+## Why I cannot travel from Balmora to Maar Gan with silt strider directly? It's the same travel network
+TODO
+
 ## Killed enemies respawn like in some kind of MMO
 Install [No Respawns](https://www.nexusmods.com/morrowind/mods/53853)
 
