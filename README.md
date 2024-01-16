@@ -223,6 +223,9 @@ TODO
 ## How to tell how much in the end a given potion or spell will restore points?
 TODO
 
+## Why I cannot rest in cities?
+TODO
+
 ## Killed enemies respawn like in some kind of MMO
 Install [No Respawns](https://www.nexusmods.com/morrowind/mods/53853)
 
