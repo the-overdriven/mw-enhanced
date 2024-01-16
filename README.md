@@ -217,6 +217,12 @@ No. You'd have install [Sophisticated Save System](https://www.nexusmods.com/mor
 ## Being able to chug multiple potions at the same time is too OP. Alchemy is too OP, in general.
 Install [Controlled Consumption](https://www.nexusmods.com/morrowind/mods/45624) or [Alchemical Hustle](https://www.nexusmods.com/morrowind/mods/51050)
 
+## Good alchemy mod? To enable filtering by effect, rather than by ingredient
+TODO
+
+## How to tell how much in the end a given potion or spell will restore points?
+TODO
+
 ## Killed enemies respawn like in some kind of MMO
 Install [No Respawns](https://www.nexusmods.com/morrowind/mods/53853)
 
