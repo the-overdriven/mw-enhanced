@@ -478,7 +478,7 @@ Copy to Meshes. Some require [LizTail Animation Kit](https://www.nexusmods.com/m
 Install [MCAR](https://www.nexusmods.com/morrowind/mods/48628)
 
 ## How to add custom music to the game?
-Contrary to common belief, .mp3 files don't need to be in constant 128kbps bitrate. The most important thing is to remove padding from tags. One can do that with Foobar: right click on the selected track(s), go to Properties, Tools and click on Optimize Size. The music files should be placed in Data Files/Music.
+Contrary to common belief, .mp3 files don't need to be in constant 128kbps bitrate. The most important thing is to remove padding from tags. One can do that with Foobar: right click on the selected track(s), go to Properties, Tools and click on Optimize Size. The music files should be placed in Data Files/Music. Cover art has to be removed as well, can e done with Mp3tag.
 
 ## How to track mod updates on Nexus?
 
