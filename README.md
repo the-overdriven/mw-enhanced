@@ -11,10 +11,13 @@ What these docs are not:
 Think of it rather as "Morrowind power user FAQ"
 
 ## How to get the best bug-free experience?
-Install [Patch for Purists](https://www.nexusmods.com/morrowind/mods/45096)
+Install [Morrowind Code Patch](https://www.nexusmods.com/morrowind/mods/19510) and [Patch for Purists](https://www.nexusmods.com/morrowind/mods/45096)  
 
 ## How do I actually run a modded game?
 Forget about Morrowind Launcher. Use a mod organizer, such as [Wrye Mash](https://www.nexusmods.com/morrowind/mods/45439). It includes the most important shortcuts, allows to reorder .esp plugins load order and fix various issues.
+
+## Where can I find game logs?
+Warnings.txt, MWSE.log and mgeXE.log
 
 ## Alt+Tab doesn't work or is clunky
 1. Install [MGE XE](https://www.nexusmods.com/morrowind/mods/41102)
