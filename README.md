@@ -249,7 +249,7 @@ Install [Know Thy Ancestors](https://www.nexusmods.com/morrowind/mods/49678)
 Install [QuickLoot](https://www.nexusmods.com/morrowind/mods/46283). Recommended to use with [Morrowind Containers Animated - Edited for Quickloot](https://www.nexusmods.com/morrowind/mods/49297).
 
 ## Bounty on your head should be gone when you kill all witnesses
-TODO
+Install [The Last Witness](https://www.nexusmods.com/morrowind/mods/46684)
 
 ## Pickpocketing is useless
 Install [Pickpocket](https://www.nexusmods.com/morrowind/mods/47581)
