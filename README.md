@@ -392,8 +392,11 @@ Highlighting and hiding quests is doable with [Better Questlist](https://www.nex
 ## Can I write in my journal?
 Yes, with [Journal Search and Edit](https://www.nexusmods.com/morrowind/mods/46756)
 
-## Different potions in inventory are not easy to tell apart
+## How to tell different potions in inventory apart?
 Install [Colored Potions](https://www.nexusmods.com/morrowind/mods/48999)
+
+## How to tell different scrolls in inventory apart?
+Install [MWSE Scroll Icons](https://www.nexusmods.com/morrowind/mods/54006)
 
 ## All merchants are broke
 Install [More Barter Gold](https://www.nexusmods.com/morrowind/mods/40053) and [Merchant Gold Resets Instantly](https://www.nexusmods.com/morrowind/mods/43764)
