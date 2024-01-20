@@ -222,7 +222,7 @@ No. You'd have install [Sophisticated Save System](https://www.nexusmods.com/mor
 Install [Controlled Consumption](https://www.nexusmods.com/morrowind/mods/45624) or [Alchemical Hustle](https://www.nexusmods.com/morrowind/mods/51050)
 
 ## Good alchemy mod? To enable filtering by effect, rather than by ingredient
-TODO
+[mwse Alchemy Filter](https://www.nexusmods.com/morrowind/mods/44808). The hotkey is right ctrl. After applying filter click on ingredients as you would normally and it will show only those that can cause the desired effect.
 
 ## How to tell how much in the end a given potion or spell will restore points?
 TODO
