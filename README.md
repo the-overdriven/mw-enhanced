@@ -242,6 +242,9 @@ Install [No Respawns](https://www.nexusmods.com/morrowind/mods/53853)
 ## Difficulty (some enemies) scale with level, I want more challenges early game
 Install [OperatorJack's Deleveler](https://www.nexusmods.com/morrowind/mods/47897)  
 
+## Enemies react too late and they stand still when fighting
+Install [PvP](https://www.nexusmods.com/morrowind/mods/51034)
+
 ## How to tell blighted creatures from non-blighted?
 Install [Blighted Animals Retextured](https://www.nexusmods.com/morrowind/mods/42245)
 
