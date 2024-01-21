@@ -230,11 +230,11 @@ More modern alternative: [Alchemical Knowledge](https://www.nexusmods.com/morrow
 TODO
 
 ## Why I cannot rest in cities?
-TODO
+Install [Actual Illegal Resting](https://www.nexusmods.com/morrowind/mods/51804)
 
 ## Why I cannot travel from Balmora to Maar Gan with silt strider directly? It's the same travel network
 Install [All Silt Strider Ports](https://www.nexusmods.com/morrowind/mods/43796)  
-Mod for boats: [All Boat Ports Plugin](https://www.nexusmods.com/morrowind/mods/946)
+Similar mod for boats: [All Boat Ports Plugin](https://www.nexusmods.com/morrowind/mods/946)
 
 ## Killed enemies respawn like in some kind of MMO
 Install [No Respawns](https://www.nexusmods.com/morrowind/mods/53853)
