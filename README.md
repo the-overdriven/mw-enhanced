@@ -233,7 +233,8 @@ TODO
 TODO
 
 ## Why I cannot travel from Balmora to Maar Gan with silt strider directly? It's the same travel network
-TODO
+Install [All Silt Strider Ports](https://www.nexusmods.com/morrowind/mods/43796)  
+Mod for boats: [All Boat Ports Plugin](https://www.nexusmods.com/morrowind/mods/946)
 
 ## Killed enemies respawn like in some kind of MMO
 Install [No Respawns](https://www.nexusmods.com/morrowind/mods/53853)
