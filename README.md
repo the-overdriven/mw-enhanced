@@ -181,6 +181,9 @@ fFatigueJumpBase = 2 to 4
 These especially make sense to cost more fatigue when using hit-chance simplifying mods (such as Better Balanced Combat), which make the combat last shorter.
 </details>
 
+## Movement is weird, you move backwards as fast as forwards
+Install [Realistic Movement Speeds](https://www.nexusmods.com/morrowind/mods/46248)
+
 ## All my hits are missing
 Dice-roll combat working as intended. But on a serious note, you can make the combat more dynamic by installing mods that make all swings have 100% chance to hit. I find [Better Balanced Combat](https://www.nexusmods.com/morrowind/mods/46596) to address this issue most tactfully, without breaking the balance too much, by taking side effects into consideration: i.e. fatigue is still important as the lower it is the higher is the chance to be knocked down, weapon skills also do not become meaningless but add a bonus to strength instead (which, rightfully, excludes the encumbrance bonus). Unfortunately, the mod also affects the regen rate, running speed and makes "You have failed casting the spell" popups disappear, which I'd personally prefer to leave as it is.
 
@@ -263,6 +266,9 @@ Install [Pickpocket](https://www.nexusmods.com/morrowind/mods/47581)
 ## Sneaking is useless
 Install [Stealth Improved](https://www.nexusmods.com/morrowind/mods/49614)
 
+## Sneaky strike doesn't take weapon type into account
+Install [Sneaky Strike](https://www.nexusmods.com/morrowind/mods/48317)
+
 ## When leveling, HP gain is not retroactive, which incentivizes focusing on Endurance early game. Excess progress and multiplier bonus are also sometimes wasted.
 Install [Improved Vanilla Leveling](https://www.nexusmods.com/morrowind/mods/48065) (fixes retroactive health, multipliers and how XP carry-over contributes to attributes)  
 XP carry-over fix (unrelated to attribute gain): [Experience Carryover](https://www.nexusmods.com/morrowind/mods/53972)  
@@ -270,6 +276,9 @@ Also: [Quest Skill Reward Fix](https://www.nexusmods.com/morrowind/mods/48269) -
 
 Alternative for Improved Vanilla Leveling: [Madd Leveler](https://www.nexusmods.com/morrowind/mods/45865)  
 Another alternative: [MULE - Mort's Ultimate Leveling Experience](https://www.nexusmods.com/morrowind/mods/47452)
+
+## Sometimes when I go through a door and want to go back it's locked again
+Install [Loading Doors Lock Tune](https://www.nexusmods.com/morrowind/mods/46094)
 
 ## Progresion is too quick/easy
 Install [Proportional Progression](https://www.nexusmods.com/morrowind/mods/45697) or [Proportional Progression Expanded](https://www.nexusmods.com/morrowind/mods/53782)  
@@ -280,6 +289,9 @@ TODO
 
 ## There are too many (low tier) items in game
 TODO
+
+## How can I soul trap NPCs?
+Install [Seph's NPC Soul Trapping](https://www.nexusmods.com/morrowind/mods/50744)
 
 ## Outside of cities, everything that moves wants to kill me
 Install [Non-Homicidal Ecosystem](https://www.nexusmods.com/morrowind/mods/42327)  
