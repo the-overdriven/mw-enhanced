@@ -381,6 +381,9 @@ How to see my followers' stats? Install [More Detailed Companion HealthBars MWSE
 ## Companions get lost occasionally
 Install [Easy Escort](https://www.nexusmods.com/morrowind/mods/45712)
 
+## There is no hotkey for torches
+After installing [Torch Hotkey](https://www.nexusmods.com/morrowind/mods/45747) the hotkey is "C"
+
 ## There is no hotkey for Quests
 After installing [Hot Quests](https://www.nexusmods.com/morrowind/mods/48976) the hotkey is "U"
 
