@@ -201,6 +201,9 @@ Install [Time Shift](https://www.nexusmods.com/morrowind/mods/49646), in its mai
 Set the time scaling value to 45, it seems to be most optimal for combat, as lower values might make animations too slow.
 </details>
 
+## It's too easty to start new game by misclicking
+Install [New Game Confirmation](https://www.nexusmods.com/morrowind/mods/47693)
+
 ## How to cast spells on key press, to not switch between weapon and magic all the time?
 
 <details>
