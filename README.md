@@ -333,6 +333,9 @@ Install [Encumberance increaser](https://www.nexusmods.com/morrowind/mods/28213)
 ## NPCs are shouting when I'm stealing but do nothing
 Install [No NPC Shouting at 0 Alarm](https://www.nexusmods.com/morrowind/mods/53837)
 
+## NPCs are commenting my outfit ALL THE TIME
+Install [Outfit Greetings Tweaked](https://www.nexusmods.com/morrowind/mods/46066)
+
 ## I want to have a stash for items but can't put much in containers
 Install [ContainerWeightMaxed](https://www.nexusmods.com/morrowind/mods/45698)  
 ~~Even if using QuickLoot, [inom - Inventory mouse wheel](https://www.nexusmods.com/morrowind/mods/46847) might still be helpful here for moving items from/to container quicker.~~  
