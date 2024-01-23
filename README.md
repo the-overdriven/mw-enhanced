@@ -298,7 +298,7 @@ TODO
 Install [Seph's NPC Soul Trapping](https://www.nexusmods.com/morrowind/mods/50744)
 
 ## I forget where everyone is, especially trainers
-Install [Trainer Log](https://www.nexusmods.com/morrowind/mods/38391)  
+Install [Trainer Log](https://www.nexusmods.com/morrowind/mods/38391) (has to be cleaned with [tes3cmd](https://github.com/john-moonsugar/tes3cmd)  
 For all NPCS: [Who's Where](https://www.nexusmods.com/morrowind/mods/48843)
 
 ## Outside of cities, everything that moves wants to kill me
