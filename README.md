@@ -296,6 +296,10 @@ TODO
 ## How can I soul trap NPCs?
 Install [Seph's NPC Soul Trapping](https://www.nexusmods.com/morrowind/mods/50744)
 
+## I forget where everyone is, especially trainers
+Install [Trainer Log](https://www.nexusmods.com/morrowind/mods/38391)  
+For all NPCS: [Who's Where](https://www.nexusmods.com/morrowind/mods/48843)
+
 ## Outside of cities, everything that moves wants to kill me
 Install [Non-Homicidal Ecosystem](https://www.nexusmods.com/morrowind/mods/42327)  
 Could be even better if these attacks were based on player's level or health (weak monsters should be afraid to attack strong player)
