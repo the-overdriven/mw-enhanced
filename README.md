@@ -303,7 +303,8 @@ For all NPCS: [Who's Where](https://www.nexusmods.com/morrowind/mods/48843)
 
 ## Outside of cities, everything that moves wants to kill me
 Install [Non-Homicidal Ecosystem](https://www.nexusmods.com/morrowind/mods/42327)  
-Could be even better if these attacks were based on player's level or health (weak monsters should be afraid to attack strong player)
+Could be even better if these attacks were based on player's level or health (weak monsters should be afraid to attack strong player)  
+Alternative: [Less Aggressive Creatures](https://www.nexusmods.com/morrowind/mods/48292)
 
 ## I'm lost in Vivec, every canton looks the same
 Install [Colorful Vivec](https://www.nexusmods.com/morrowind/mods/53806) and [Vivec Cantons Reconnected](https://www.nexusmods.com/morrowind/mods/48081)
