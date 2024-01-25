@@ -423,7 +423,7 @@ Highlighting and hiding quests is doable with [Better Questlist](https://www.nex
 </details>
 
 ## Can I write in my journal?
-Yes, with [Journal Search and Edit](https://www.nexusmods.com/morrowind/mods/46756)
+Yes, with [Journal Search and Edit](https://www.nexusmods.com/morrowind/mods/46756) or [Writing and Journal Enhanced](https://www.nexusmods.com/morrowind/mods/48002)
 
 ## How to tell different potions in inventory apart?
 Install [Colored Potions](https://www.nexusmods.com/morrowind/mods/48999)
