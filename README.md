@@ -307,7 +307,13 @@ Could be even better if these attacks were based on player's level or health (we
 Alternative: [Less Aggressive Creatures](https://www.nexusmods.com/morrowind/mods/48292)
 
 ## I'm lost in Vivec, every canton looks the same
-Install [Colorful Vivec](https://www.nexusmods.com/morrowind/mods/53806) and [Vivec Cantons Reconnected](https://www.nexusmods.com/morrowind/mods/48081)
+Install [Colorful Vivec](https://www.nexusmods.com/morrowind/mods/53806) and [Vivec Cantons Reconnected](https://www.nexusmods.com/morrowind/mods/48081)  
+
+Alternative: [Vivec City of Swords](https://www.nexusmods.com/morrowind/mods/54054). Incompatibilities:
+* Better Morrowind Armor
+* grass mods
+* lanterns
+* Silt Strider
 
 ## How can I toggle the map mode?
 
