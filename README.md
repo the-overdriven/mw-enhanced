@@ -256,7 +256,8 @@ Install [OperatorJack's Deleveler](https://www.nexusmods.com/morrowind/mods/4789
 Install [PvP](https://www.nexusmods.com/morrowind/mods/51034)
 
 ## How to tell blighted creatures from non-blighted?
-Install [Blighted Animals Retextured](https://www.nexusmods.com/morrowind/mods/42245)
+Install [Blighted Animals Retextured](https://www.nexusmods.com/morrowind/mods/42245)  
+If you want something opposite, that is remove "blighted" adjectives and "diseased" adjectives from their names, install [No Disease Labels](https://www.nexusmods.com/morrowind/mods/48295)
 
 ## Tombs entrances don't look like tombs
 Install [Know Thy Ancestors](https://www.nexusmods.com/morrowind/mods/49678)
@@ -520,7 +521,7 @@ Install [Seph's Inventory Decorators](https://www.nexusmods.com/morrowind/mods/5
 ## How to install animations (i.e. xbase_anim.1st.kf)?
 Copy to Meshes. Some require [LizTail Animation Kit](https://www.nexusmods.com/morrowind/mods/43606/)
 
-## How to show 1-st person swimming annimation?
+## How to show 1-st person swimming animation?
 Install [MCAR](https://www.nexusmods.com/morrowind/mods/48628)
 
 ## How to add custom music to the game?
