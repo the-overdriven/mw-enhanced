@@ -296,6 +296,7 @@ Install [Loading Doors Lock Tune](https://www.nexusmods.com/morrowind/mods/46094
 * Make enemy react quicker and fight better: [click](https://github.com/the-overdriven/morrowind-issues-and-fixes/tree/main?tab=readme-ov-file#enemies-react-too-late-and-they-stand-still-when-fighting)
 * Adjust progress: [click](https://github.com/the-overdriven/morrowind-issues-and-fixes/tree/main?tab=readme-ov-file#progresion-is-too-quickeasy)
 * Better economy: [click](https://github.com/the-overdriven/morrowind-issues-and-fixes/tree/main?tab=readme-ov-file#it-is-too-easy-to-get-rich)
+* MXPS - Morrowind Experience Point System (MWSE): [click](https://www.nexusmods.com/morrowind/mods/53870)
 
 ## Progression is too quick/easy
 Install [Proportional Progression](https://www.nexusmods.com/morrowind/mods/45697) or [Proportional Progression Expanded](https://www.nexusmods.com/morrowind/mods/53782)  
@@ -305,8 +306,10 @@ TODO
 * [Commonly Used Containers Nerfed](https://www.nexusmods.com/morrowind/mods/47068?tab=files) - nerfs barrel, boxes, etc.
 * [Realistic Repair](https://www.nexusmods.com/morrowind/mods/46673) - you need a forge to repair gear, gear of killed NPC is damaged
 * [There Can Be Only One](https://www.nexusmods.com/morrowind/mods/47766) - makes daedric unique
-* [Morrowind Anti-Cheese](https://www.nexusmods.com/morrowind/mods/47305) (includes nerfed Containers mod)
+* [Morrowind Anti-Cheese](https://www.nexusmods.com/morrowind/mods/47305) includes nerfed Containers mod, Container Ownership and Rarer Scrap Metal mods, makes stealing known expensive items harder or replaced with cheaper equivalents, buffs some NPCs and enemies, creeper and mudcrab have less gold, increased blind effect on Boots of Blinding Speed, nerfed items (Ebony Mail, Wraithguard, Kagrenac's Tools, Helm of Oreyn Bearclaw, Silver Staff, Water Spear, Ancient Silver Daggers, Black Hands Dagger, Ebony Arrows of Slaying, and many more), Gedna Relvel was nerfed, some items devalued (ingredients)
+* [Smarter Harder Barter](https://www.nexusmods.com/morrowind/mods/50883) - among many other things, removes randomness from haggling
 * [The Morrowind Randomizer](https://www.nexusmods.com/morrowind/mods/44989) - randomizes the locations of 49 legendary items
+* [Economy Adjuster Adjustments](https://www.nexusmods.com/morrowind/mods/47130) - increase the mercantile and speechcraft skills of service providers
 
 ## There are too many (low tier) items in game
 TODO
