@@ -296,11 +296,11 @@ Install [Loading Doors Lock Tune](https://www.nexusmods.com/morrowind/mods/46094
 * Make enemy react quicker and fight better: [click](https://github.com/the-overdriven/morrowind-issues-and-fixes/tree/main?tab=readme-ov-file#enemies-react-too-late-and-they-stand-still-when-fighting)
 * Adjust progress: [click](https://github.com/the-overdriven/morrowind-issues-and-fixes/tree/main?tab=readme-ov-file#progresion-is-too-quickeasy)
 * Better economy: [click](https://github.com/the-overdriven/morrowind-issues-and-fixes/tree/main?tab=readme-ov-file#it-is-too-easy-to-get-rich)
-* MXPS - Morrowind Experience Point System (MWSE): [click](https://www.nexusmods.com/morrowind/mods/53870)
+* MXPS - Morrowind Experience Point System (MWSE): [click](https://www.nexusmods.com/morrowind/mods/53870), alternative: MULE, or CCCP
 
 ## Progression is too quick/easy
-Install [Proportional Progression](https://www.nexusmods.com/morrowind/mods/45697) or [Proportional Progression Expanded](https://www.nexusmods.com/morrowind/mods/53782)  
-TODO
+* Install [Proportional Progression](https://www.nexusmods.com/morrowind/mods/45697) or [Proportional Progression Expanded](https://www.nexusmods.com/morrowind/mods/53782)  
+* also [Fixed level multipliers](https://www.nexusmods.com/morrowind/mods/45064) - have your level multipliers be constant (only on attributes whose skills you leveled up)
 
 ## It is too easy to get rich
 * [Commonly Used Containers Nerfed](https://www.nexusmods.com/morrowind/mods/47068?tab=files) - nerfs barrel, boxes, etc.
@@ -313,6 +313,9 @@ TODO
 
 ## There are too many (low tier) items in game
 TODO
+
+## Trainers are broken
+(idea) One way to fix it, could be to make all trainers still able to teach skills but not more than 1-5 levels (per each trainer), so visiting them would still be worthwile.
 
 ## How can I soul trap NPCs?
 Install [Seph's NPC Soul Trapping](https://www.nexusmods.com/morrowind/mods/50744)
