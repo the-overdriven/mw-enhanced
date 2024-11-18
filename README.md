@@ -1,5 +1,6 @@
 # Morrowind issues and how to fix them
-Morrowind is a great game, but can be made even greater (and less clunky) by customizing it with the 20+ years of its wonderous modding heritage. While some of these solutions might work on OpenMW these docs focus exclusively on Morrowind.exe and modern Windows systems. Most of this is perceived as obvious common knowledge, but human memory can be fleeting.
+
+Morrowind stands as a masterpiece of gaming, its enduring legacy enriched by over two decades of remarkable modding innovation. While some of these enhancements may be compatible with OpenMW, the guidance provided here focuses exclusively on Morrowind.exe within the context of modern Windows systems. Much of what follows may be regarded as conventional wisdom among the community, yet the passage of time often renders even the obvious worth revisiting.
 
 What these docs are not:
 - not a guide you have to read from cover to cover, you can solve each issue separately, in any order  
@@ -201,7 +202,7 @@ Install [Time Shift](https://www.nexusmods.com/morrowind/mods/49646), in its mai
 Set the time scaling value to 45, it seems to be most optimal for combat, as lower values might make animations too slow.
 </details>
 
-## It's too easty to start new game by misclicking
+## It's too easy to start new game by misclicking
 Install [New Game Confirmation](https://www.nexusmods.com/morrowind/mods/47693)
 
 ## How to cast spells on key press, to not switch between weapon and magic all the time?
@@ -288,6 +289,9 @@ Another alternative: [MULE - Mort's Ultimate Leveling Experience](https://www.ne
 
 ## Sometimes when I go through a door and want to go back it's locked again
 Install [Loading Doors Lock Tune](https://www.nexusmods.com/morrowind/mods/46094)
+
+## The game is too easy, how to make it harder?
+
 
 ## Progresion is too quick/easy
 Install [Proportional Progression](https://www.nexusmods.com/morrowind/mods/45697) or [Proportional Progression Expanded](https://www.nexusmods.com/morrowind/mods/53782)  
