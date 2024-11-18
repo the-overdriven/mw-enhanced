@@ -220,7 +220,7 @@ Install [Right Click Menu Exit](https://www.nexusmods.com/morrowind/mods/48458)
 To close books and scrolls without closing the inventory, [Morrowind Code Patch](https://www.nexusmods.com/morrowind/mods/19510) has a fix called "Shortcut key improvements", which allows using space bar to close them.
 
 ## How do I use Quick Keys in Morrowind?
-Press F1. You can install [Quickkeys Hotbar](https://www.nexusmods.com/morrowind/mods/51192) to see all your hotkeys in the HUD.  
+Press F1. You can install [QuickKeys Hotbar](https://www.nexusmods.com/morrowind/mods/51192) to see all your hotkeys in the HUD.  
 For quicker hotkey assignment: [QuickKey Outlander - MWSE](https://www.nexusmods.com/morrowind/mods/50997)
 
 ## Are there hotkeys to save and load?
@@ -291,14 +291,22 @@ Another alternative: [MULE - Mort's Ultimate Leveling Experience](https://www.ne
 Install [Loading Doors Lock Tune](https://www.nexusmods.com/morrowind/mods/46094)
 
 ## The game is too easy, how to make it harder?
+* Controlled Consumption: [click](https://github.com/the-overdriven/morrowind-issues-and-fixes/tree/main#being-able-to-chug-multiple-potions-at-the-same-time-is-too-op-alchemy-is-too-op-in-general)
+* No enemy scaling: [click](https://github.com/the-overdriven/morrowind-issues-and-fixes/tree/main#difficulty-some-enemies-scale-with-level-i-want-more-challenges-early-game)
+* Make enemy react quicker and fight better: [click](https://github.com/the-overdriven/morrowind-issues-and-fixes/tree/main?tab=readme-ov-file#enemies-react-too-late-and-they-stand-still-when-fighting)
+* Adjust progress: [click](https://github.com/the-overdriven/morrowind-issues-and-fixes/tree/main?tab=readme-ov-file#progresion-is-too-quickeasy)
+* Better economy: [click](https://github.com/the-overdriven/morrowind-issues-and-fixes/tree/main?tab=readme-ov-file#it-is-too-easy-to-get-rich)
 
-
-## Progresion is too quick/easy
+## Progression is too quick/easy
 Install [Proportional Progression](https://www.nexusmods.com/morrowind/mods/45697) or [Proportional Progression Expanded](https://www.nexusmods.com/morrowind/mods/53782)  
 TODO
 
 ## It is too easy to get rich
-TODO
+* [Commonly Used Containers Nerfed](https://www.nexusmods.com/morrowind/mods/47068?tab=files) - nerfs barrel, boxes, etc.
+* [Realistic Repair](https://www.nexusmods.com/morrowind/mods/46673) - you need a forge to repair gear, gear of killed NPC is damaged
+* [There Can Be Only One](https://www.nexusmods.com/morrowind/mods/47766) - makes daedric unique
+* [Morrowind Anti-Cheese](https://www.nexusmods.com/morrowind/mods/47305) (includes nerfed Containers mod)
+* [The Morrowind Randomizer](https://www.nexusmods.com/morrowind/mods/44989) - randomizes the locations of 49 legendary items
 
 ## There are too many (low tier) items in game
 TODO
@@ -319,7 +327,6 @@ Alternative: [Less Aggressive Creatures](https://www.nexusmods.com/morrowind/mod
 Install [Colorful Vivec](https://www.nexusmods.com/morrowind/mods/53806) and [Vivec Cantons Reconnected](https://www.nexusmods.com/morrowind/mods/48081)  
 
 Alternative: [Vivec City of Swords](https://www.nexusmods.com/morrowind/mods/54054). Incompatibilities:
-* Better Morrowind Armor
 * grass mods
 * lanterns
 * Silt Strider
