@@ -230,7 +230,7 @@ F5 to save, F9 to load
 No. You'd have install [Sophisticated Save System](https://www.nexusmods.com/morrowind/mods/45608) for that. It adds autosave as well (including save every x minutes)
 
 ## Being able to chug multiple potions at the same time is too OP. Alchemy is too OP, in general.
-Install [Controlled Consumption](https://www.nexusmods.com/morrowind/mods/45624) or [Alchemical Hustle](https://www.nexusmods.com/morrowind/mods/51050)
+Install [Controlled Consumption](https://www.nexusmods.com/morrowind/mods/45624) or [Alchemical Hustle](https://www.nexusmods.com/morrowind/mods/51050). Also [Better Balanced Booze](https://www.nexusmods.com/morrowind/mods/45844)
 
 ## Good alchemy mod? To enable filtering by effect, rather than by ingredient
 ~~[mwse Alchemy Filter](https://www.nexusmods.com/morrowind/mods/44808). The hotkey is right ctrl. After applying filter click on ingredients as you would normally and it will show only those that can cause the desired effect.~~  
