@@ -248,7 +248,7 @@ Install [All Silt Strider Ports](https://www.nexusmods.com/morrowind/mods/43796)
 Similar mod for boats: [All Boat Ports Plugin](https://www.nexusmods.com/morrowind/mods/946)
 
 ## Killed enemies respawn like in some kind of MMO
-Install [No Respawns](https://www.nexusmods.com/morrowind/mods/53853)
+Install [No Respawns](https://www.nexusmods.com/morrowind/mods/53853), or GMST Menu and set `iMonthsToRespawn` to whatever time you want
 
 ## Difficulty (some enemies) scale with level, I want more challenges early game
 Install [OperatorJack's Deleveler](https://www.nexusmods.com/morrowind/mods/47897)  
@@ -297,6 +297,15 @@ Install [Loading Doors Lock Tune](https://www.nexusmods.com/morrowind/mods/46094
 * Adjust progress: [click](https://github.com/the-overdriven/morrowind-issues-and-fixes/tree/main?tab=readme-ov-file#progresion-is-too-quickeasy)
 * Better economy: [click](https://github.com/the-overdriven/morrowind-issues-and-fixes/tree/main?tab=readme-ov-file#it-is-too-easy-to-get-rich)
 * MXPS - Morrowind Experience Point System (MWSE): [click](https://www.nexusmods.com/morrowind/mods/53870), alternative: MULE, or CCCP
+* [BTB's Game Improvements (Necro Edit) Tweaked](https://www.nexusmods.com/morrowind/mods/50308) - BTB's Game Improvements with Necrolesian's and Sigourn's edits. A lot of tweaks: rebalances races, birthsigns, ingredients, magic (some effects disabled to prevent exploits), NPCs have new spells, lowered value of overpriced items, overhauled enchantments (i.e. it's no longer possible to self-enchant items, or to make custom constant effect enchantments), overhauled skill progression
+* Limited Resting, Waiting and Regen - [click](https://www.nexusmods.com/morrowind/mods/49191) or [No Rest Without Beds](https://www.nexusmods.com/morrowind/mods/46724)
+* Recommended with BTBGI: [Fortify MAX](https://www.nexusmods.com/morrowind/mods/49825), [Economy Adjuster: Crime](https://www.nexusmods.com/morrowind/mods/47130), [Enhanced Detection Lite](https://www.nexusmods.com/morrowind/mods/48471), [Nimble Armor](https://www.nexusmods.com/morrowind/mods/48251), [Lua Lockbashing](https://www.nexusmods.com/morrowind/mods/48544), [Hold Your Breath](https://www.nexusmods.com/morrowind/mods/48872),  
+
+Enemies  
+* More Deadly Morrowind Denizens: [click](https://www.nexusmods.com/morrowind/mods/48745)
+* Vanilla friendly creatures and undeads expansion: [click](https://www.nexusmods.com/morrowind/mods/48818)
+* OAAB - Tombs and Towers: [click](https://www.nexusmods.com/morrowind/mods/49131)
+* Mines and Caverns: [click](https://www.nexusmods.com/morrowind/mods/44893)
 
 ## Progression is too quick/easy
 * Install [Proportional Progression](https://www.nexusmods.com/morrowind/mods/45697) or [Proportional Progression Expanded](https://www.nexusmods.com/morrowind/mods/53782)  
@@ -305,7 +314,7 @@ Install [Loading Doors Lock Tune](https://www.nexusmods.com/morrowind/mods/46094
 ## It is too easy to get rich
 * [Commonly Used Containers Nerfed](https://www.nexusmods.com/morrowind/mods/47068?tab=files) - nerfs barrel, boxes, etc.
 * [Realistic Repair](https://www.nexusmods.com/morrowind/mods/46673) - you need a forge to repair gear, gear of killed NPC is damaged
-* [There Can Be Only One](https://www.nexusmods.com/morrowind/mods/47766) - makes daedric unique
+* [There Can Be Only One](https://www.nexusmods.com/morrowind/mods/47766) - makes daedric items unique
 * [Morrowind Anti-Cheese](https://www.nexusmods.com/morrowind/mods/47305) includes nerfed Containers mod, Container Ownership and Rarer Scrap Metal mods, makes stealing known expensive items harder or replaced with cheaper equivalents, buffs some NPCs and enemies, creeper and mudcrab have less gold, increased blind effect on Boots of Blinding Speed, nerfed items (Ebony Mail, Wraithguard, Kagrenac's Tools, Helm of Oreyn Bearclaw, Silver Staff, Water Spear, Ancient Silver Daggers, Black Hands Dagger, Ebony Arrows of Slaying, and many more), Gedna Relvel was nerfed, some items devalued (ingredients)
 * [Smarter Harder Barter](https://www.nexusmods.com/morrowind/mods/50883) - among many other things, removes randomness from haggling
 * [The Morrowind Randomizer](https://www.nexusmods.com/morrowind/mods/44989) - randomizes the locations of 49 legendary items
