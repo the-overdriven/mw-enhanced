@@ -54,6 +54,9 @@ Install [FullscreenLock](https://github.com/blaberry/FullscreenLock) and run it 
 ## Game hangs when closing it
 Install [Expeditious Exit](https://www.nexusmods.com/morrowind/mods/45634)
 
+## I've installed a lot of face and hair mods, what would be the easiest way to test them?
+Install [Barbershop aka FaceRecustom](https://www.nexusmods.com/morrowind/mods/52359)
+
 ## Everything in game is too small. Fonts, UI, etc.
 Open MGE XE settings and adjust the Menu UI scaling to your liking. Depending on game's resolution I find 1.20 - 1.50 values most optimal.
 
@@ -290,6 +293,15 @@ Another alternative: [MULE - Mort's Ultimate Leveling Experience](https://www.ne
 ## Sometimes when I go through a door and want to go back it's locked again
 Install [Loading Doors Lock Tune](https://www.nexusmods.com/morrowind/mods/46094)
 
+## Training armor skill is tedious
+Install [Armor Training](https://www.nexusmods.com/morrowind/mods/51741)
+
+## How can I pick up books without reading them?
+Install [Book Pickup](https://www.nexusmods.com/morrowind/mods/46625)
+
+## Keys are a mess
+Install [Consistent Keys](https://www.nexusmods.com/morrowind/mods/47954), it renames keys so they have a consistent naming scheme
+
 ## The game is too easy, how to make it harder?
 * Controlled Consumption: [click](https://github.com/the-overdriven/morrowind-issues-and-fixes/tree/main#being-able-to-chug-multiple-potions-at-the-same-time-is-too-op-alchemy-is-too-op-in-general)
 * No enemy scaling: [click](https://github.com/the-overdriven/morrowind-issues-and-fixes/tree/main#difficulty-some-enemies-scale-with-level-i-want-more-challenges-early-game)
@@ -380,6 +392,9 @@ Install [ContainerWeightMaxed](https://www.nexusmods.com/morrowind/mods/45698)
 ~~Even if using QuickLoot, [inom - Inventory mouse wheel](https://www.nexusmods.com/morrowind/mods/46847) might still be helpful here for moving items from/to container quicker.~~  
 Actually, UI Expansion has an option to move items from/to container on left click.
 
+## How do I know which item is owned or important?
+Install [Essential Indicators](https://www.nexusmods.com/morrowind/mods/48267)
+
 ## I want to adjust the camera with a mouse scroll, just like in OpenMW
 <details>
   <summary>(click to expand)</summary>
@@ -400,6 +415,12 @@ if mge.camera.zoom > 3 then
 end
 ```
 </details>
+
+## How can I disenchant enchanted items?
+Install [Disenchant](https://www.nexusmods.com/morrowind/mods/48111)
+
+## NPCs are blabbering when dying
+Install [Deathrattle Sounds](https://www.nexusmods.com/morrowind/mods/53938)
 
 ## Very few dialogues are voiced
 
@@ -437,7 +458,8 @@ For companions: install [Diligent Defenders](https://www.nexusmods.com/morrowind
 
 How to tell my followers (companions and summons) who to attack? You can do on hotkey when you install [Kill Command](https://www.nexusmods.com/morrowind/mods/46723)
 
-How to see my followers' stats? Install [More Detailed Companion HealthBars MWSE Lua Script](https://www.nexusmods.com/morrowind/mods/51389)
+How to see my followers' stats? Install [More Detailed Companion HealthBars MWSE Lua Script](https://www.nexusmods.com/morrowind/mods/51389)  
+Or [Companion Health Bars MWSE Lua Script](https://www.nexusmods.com/morrowind/mods/46136)
 
 ## Companions get lost occasionally
 Install [Easy Escort](https://www.nexusmods.com/morrowind/mods/45712)
@@ -529,13 +551,19 @@ Most advanced and configurable mod for this appears to be [Magicka Regeneration 
 Alternative: [Puristy Friendly Magicka Regen](https://www.nexusmods.com/morrowind/mods/45636)
 
 ## How to see how much longer a spell will last?
-Install [Effect Timers](https://www.nexusmods.com/morrowind/mods/51787) or [Buff Bars](https://www.nexusmods.com/morrowind/mods/51924). Arguably Buff Bars are better, as they cover more spells, but they don't show time values.
+Install [Effect Timers](https://www.nexusmods.com/morrowind/mods/51787) or [Buff Bars](https://www.nexusmods.com/morrowind/mods/51924). Arguably Buff Bars are better, as they cover more spells (and take less screen space), but they don't show time values.
 
 ## How to remove learned spells?
 Install [Spellscribe](https://www.nexusmods.com/morrowind/mods/52809). Use paper on yourself to scribe the spell for backup. Remove the spell with Shift+Click.
 
 ## Why do I have to read a blank piece of paper before I pick it up?
 Install [Plain Paper Fix](https://www.nexusmods.com/morrowind/mods/47735)
+
+## How to tell if I picked up an ingredient?
+Install [Graphic Herbalism - MWSE and OpenMW Edition](https://www.nexusmods.com/morrowind/mods/46599) + [Graphic Herbalism Lighting](https://www.nexusmods.com/morrowind/mods/47864)
+
+## I don't know what time it is
+Install [Clocks](https://www.nexusmods.com/morrowind/mods/50840)
 
 ## How to disable the cheesy shiny glow?
 Install [Assetless No Glow](https://www.nexusmods.com/morrowind/mods/47925)  
@@ -604,3 +632,9 @@ When in game, press Home and look for the path in Settings
 ## How to view meshes with textures?
 Install [NifSkope 2.0 Dev 7](https://github.com/niftools/nifskope/releases). Set path to Morrowind Data Files in Options: Options > Settings > Resources > Add Folder.  
 From my experience version Dev 9 doesn't load textures.
+
+## Nice to have mods
+Not necessarily fixing any issues, but improve the gameplay.
+* [Animated Pickup](https://www.nexusmods.com/morrowind/mods/54532)
+* [Adventurer's Backpacks](https://www.nexusmods.com/morrowind/mods/43213)
+* [It's a deal aka Fairwell Customer](https://www.nexusmods.com/morrowind/mods/47968)
