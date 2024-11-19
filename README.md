@@ -54,9 +54,6 @@ Install [FullscreenLock](https://github.com/blaberry/FullscreenLock) and run it 
 ## Game hangs when closing it
 Install [Expeditious Exit](https://www.nexusmods.com/morrowind/mods/45634)
 
-## I've installed a lot of face and hair mods, what would be the easiest way to test them?
-Install [Barbershop aka FaceRecustom](https://www.nexusmods.com/morrowind/mods/52359)
-
 ## Everything in game is too small. Fonts, UI, etc.
 Open MGE XE settings and adjust the Menu UI scaling to your liking. Depending on game's resolution I find 1.20 - 1.50 values most optimal.
 
@@ -302,6 +299,9 @@ Install [Visually Filled Soul Gems](https://www.nexusmods.com/morrowind/mods/467
 
 ## Is there a way to control the weather?
 Install [Weather Chances Adjuster](https://www.nexusmods.com/morrowind/mods/48335)
+
+## I've installed a lot of face and hair mods, what would be the easiest way to test them?
+Install [Barbershop aka FaceRecustom](https://www.nexusmods.com/morrowind/mods/52359)
 
 ## Tombs entrances don't look like tombs
 Install [Know Thy Ancestors](https://www.nexusmods.com/morrowind/mods/49678)
