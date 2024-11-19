@@ -80,7 +80,7 @@ You can set hotkeys in MGE XE Macro Editors for increasing and decreasing "View 
 
 You can also try to run the shortcut to Morrowind with `/High` priority but from my experience it doesn't change much.  
 
-[Memory Monitor](https://www.nexusmods.com/morrowind/mods/45696) can be used to keep track of performance improvements.
+Morrowind.exe is notorious for memory leaks. [Memory Monitor](https://www.nexusmods.com/morrowind/mods/45696) can be used to keep track of performance improvements (it will show a bar once the memory starts running out).
 
 Optional: 
 - [Ocean Light Remover](https://www.nexusmods.com/morrowind/mods/53847)
@@ -240,6 +240,9 @@ Install [Controlled Consumption](https://www.nexusmods.com/morrowind/mods/45624)
 
 More modern alternative: [Alchemical Knowledge](https://www.nexusmods.com/morrowind/mods/49036)
 
+## Traders don't want to trade with me, because I have illegal goods (i.e. skooma)
+Install [Lore-friendly Trade Restrictions](https://www.nexusmods.com/morrowind/mods/50112)
+
 ## How to tell how much in the end a given potion or spell will restore points?
 TODO
 
@@ -296,16 +299,21 @@ Install [Loading Doors Lock Tune](https://www.nexusmods.com/morrowind/mods/46094
 ## Training armor skill is tedious
 Install [Armor Training](https://www.nexusmods.com/morrowind/mods/51741)
 
+## Training magic is unbalanced, it should depend on amount of Magicka spent, rather than number of spells cast
+Install [Magicka Based Skill Progression -- MWSE-Lua Edition](https://www.nexusmods.com/morrowind/mods/48330)
+
 ## How can I pick up books without reading them?
 Install [Book Pickup](https://www.nexusmods.com/morrowind/mods/46625)
 
-## Keys are a mess
+## Keys make a mess in my inventory
 Install [Consistent Keys](https://www.nexusmods.com/morrowind/mods/47954), it renames keys so they have a consistent naming scheme
+
+## Potions make a mess in my inventory
+Install [Potion Renamer](https://www.nexusmods.com/morrowind/mods/49853), it sorts them first by effect and then by quality
 
 ## The game is too easy, how to make it harder?
 * Controlled Consumption: [click](https://github.com/the-overdriven/morrowind-issues-and-fixes/tree/main#being-able-to-chug-multiple-potions-at-the-same-time-is-too-op-alchemy-is-too-op-in-general)
-* No enemy scaling: [click](https://github.com/the-overdriven/morrowind-issues-and-fixes/tree/main#difficulty-some-enemies-scale-with-level-i-want-more-challenges-early-game)
-* Make enemy react quicker and fight better: [click](https://github.com/the-overdriven/morrowind-issues-and-fixes/tree/main?tab=readme-ov-file#enemies-react-too-late-and-they-stand-still-when-fighting)
+* No enemy (and item) scaling: [click](https://github.com/the-overdriven/morrowind-issues-and-fixes/tree/main#difficulty-some-enemies-scale-with-level-i-want-more-challenges-early-game)
 * Adjust progress: [click](https://github.com/the-overdriven/morrowind-issues-and-fixes/tree/main?tab=readme-ov-file#progresion-is-too-quickeasy)
 * Better economy: [click](https://github.com/the-overdriven/morrowind-issues-and-fixes/tree/main?tab=readme-ov-file#it-is-too-easy-to-get-rich)
 * MXPS - Morrowind Experience Point System (MWSE): [click](https://www.nexusmods.com/morrowind/mods/53870), alternative: MULE, or CCCP
@@ -314,6 +322,7 @@ Install [Consistent Keys](https://www.nexusmods.com/morrowind/mods/47954), it re
 * Recommended with BTBGI: [Fortify MAX](https://www.nexusmods.com/morrowind/mods/49825), [Economy Adjuster: Crime](https://www.nexusmods.com/morrowind/mods/47130), [Enhanced Detection Lite](https://www.nexusmods.com/morrowind/mods/48471), [Nimble Armor](https://www.nexusmods.com/morrowind/mods/48251), [Lua Lockbashing](https://www.nexusmods.com/morrowind/mods/48544), [Hold Your Breath](https://www.nexusmods.com/morrowind/mods/48872),  
 
 Enemies  
+* Make enemy react quicker and fight better: [click](https://github.com/the-overdriven/morrowind-issues-and-fixes/tree/main?tab=readme-ov-file#enemies-react-too-late-and-they-stand-still-when-fighting)
 * More Deadly Morrowind Denizens: [click](https://www.nexusmods.com/morrowind/mods/48745)
 * Vanilla friendly creatures and undeads expansion: [click](https://www.nexusmods.com/morrowind/mods/48818)
 * OAAB - Tombs and Towers: [click](https://www.nexusmods.com/morrowind/mods/49131)
@@ -379,7 +388,8 @@ It comes with a catch: the hotkey should not type anything (i.e. F3), otherwise 
 Install [Tribunal Delayed](https://www.nexusmods.com/morrowind/mods/33973/) or [Expansion Delay](https://www.nexusmods.com/morrowind/mods/47588)
 
 ## I'm encumbered all the time
-Install [Encumberance increaser](https://www.nexusmods.com/morrowind/mods/28213)
+Install [Encumberance increaser](https://www.nexusmods.com/morrowind/mods/28213) and/or [Bag of Holding](https://www.nexusmods.com/morrowind/mods/47778).  
+Nice to have to monitor encumbrance: [HUD Encumbrance Bar](https://www.nexusmods.com/morrowind/mods/49608)
 
 ## NPCs are shouting when I'm stealing but do nothing
 Install [No NPC Shouting at 0 Alarm](https://www.nexusmods.com/morrowind/mods/53837)
@@ -419,9 +429,6 @@ end
 ## How can I disenchant enchanted items?
 Install [Disenchant](https://www.nexusmods.com/morrowind/mods/48111)
 
-## NPCs are blabbering when dying
-Install [Deathrattle Sounds](https://www.nexusmods.com/morrowind/mods/53938)
-
 ## Very few dialogues are voiced
 
 <details>
@@ -446,7 +453,7 @@ Other, AI-generated voices:
 Install [UI Expansion](https://www.nexusmods.com/morrowind/mods/46071) and [Dialogues Decluttered](https://www.nexusmods.com/morrowind/mods/48301)
 
 ## How to break from endless dialogue choices loop?
-Install [Force Close Dialogue Menu](https://www.nexusmods.com/morrowind/mods/52553)
+Install [Force Close Dialogue Menu aka shiftGoodbye](https://www.nexusmods.com/morrowind/mods/52553)
 
 ## Passing by NPCs makes them too reactive
 Install [Shut Up](https://www.nexusmods.com/morrowind/mods/43310), NPCs will notice you only when you look at them.
@@ -530,15 +537,21 @@ Additionally, [Skill Name Skill Books](https://www.nexusmods.com/morrowind/mods/
 ## Is there an easier way to drop items?
 [Caps Click to Drop](https://www.nexusmods.com/morrowind/mods/52518) and [Just Drop It](https://www.nexusmods.com/morrowind/mods/49557) for better dropping experience (corpses fall according to the terrain!)
 
+## Game sounds are limited and weird
+Install [Impact Sounds](https://www.nexusmods.com/morrowind/mods/52747)
+
 ## How to fix silent NPC groans?
 Some mods break it (Character Sound Overhaul and Impact Sounds - I'm looking at you). Install [Deathrattle Sounds](https://www.nexusmods.com/morrowind/mods/53938), it doesn't restore groans on hit, but it does restore groans on death. And adds some extra. It fixes NPCs blabbering after death as well.  
 Recommended together with [Small Quality of Life Improvements - MWSE](https://www.nexusmods.com/morrowind/mods/53905), which includes a component preventing repeating same combat voice-overs repeatedly.
 
 ## How to disable vanity camera? (the one that turns on after 30 seconds) 
-Install [No Auto Vanity Camera](https://www.nexusmods.com/morrowind/mods/48933)
+Install [No Auto Vanity Camera aka NoAutoVanityCam](https://www.nexusmods.com/morrowind/mods/48933)
 
 ## Game doesn't notify me explicitly enough that I started or finished a quest.
 Install [Skyrim Style Quest Notifications](https://www.nexusmods.com/morrowind/mods/53175) and [Skyrim Style Quest Notifications - Legendary Edition](https://www.nexusmods.com/morrowind/mods/53712)
+
+## Game doesn't notify me that someone died
+Install [Notifications](https://www.nexusmods.com/morrowind/mods/48600) + [Combat Log](https://www.nexusmods.com/morrowind/mods/54836)
 
 ## Where is the medium armor trainer?
 There is none, Bethesda forgot to add it. Install [Cinia](https://www.nexusmods.com/morrowind/mods/47153)
@@ -562,11 +575,14 @@ Install [Plain Paper Fix](https://www.nexusmods.com/morrowind/mods/47735)
 ## How to tell if I picked up an ingredient?
 Install [Graphic Herbalism - MWSE and OpenMW Edition](https://www.nexusmods.com/morrowind/mods/46599) + [Graphic Herbalism Lighting](https://www.nexusmods.com/morrowind/mods/47864)
 
+## How to prevent starting new game accidentally?
+Install [New Game Confirmation](https://www.nexusmods.com/morrowind/mods/47693)
+
 ## I don't know what time it is
 Install [Clocks](https://www.nexusmods.com/morrowind/mods/50840)
 
 ## How to disable the cheesy shiny glow?
-Install [Assetless No Glow](https://www.nexusmods.com/morrowind/mods/47925)  
+Install [Assetless No Glow aka NoGlow](https://www.nexusmods.com/morrowind/mods/47925)  
 To change glass weapons and armor: [Dim Glass - Less Irritating Glass Armor and Weapon](https://www.nexusmods.com/morrowind/mods/51544)
 
 ## How to change the cheesy shiny background behind magical items in invetory?
@@ -634,7 +650,18 @@ Install [NifSkope 2.0 Dev 7](https://github.com/niftools/nifskope/releases). Set
 From my experience version Dev 9 doesn't load textures.
 
 ## Nice to have mods
-Not necessarily fixing any issues, but improve the gameplay.
+Not necessarily essential and fixing any glaring issues, but can improve the gameplay.
 * [Animated Pickup](https://www.nexusmods.com/morrowind/mods/54532)
 * [Adventurer's Backpacks](https://www.nexusmods.com/morrowind/mods/43213)
 * [It's a deal aka Fairwell Customer](https://www.nexusmods.com/morrowind/mods/47968)
+* [Give a Gift](https://www.nexusmods.com/morrowind/mods/46661) (bribe with items)
+* [Glow in the Dahrk](https://www.nexusmods.com/morrowind/mods/45886) (windows glow in the dark)
+* [Inspect It](https://www.nexusmods.com/morrowind/mods/54636) (inspecting items)
+* [Caps Click to Drop](https://www.nexusmods.com/morrowind/mods/52518)
+* [Morrowind Containers Animated aka MWCA](https://www.nexusmods.com/morrowind/mods/42238)
+* [Mage Robes](https://www.nexusmods.com/morrowind/mods/45739)
+* [Menus Hider on Item Select - MWSE](https://www.nexusmods.com/morrowind/mods/50974) (other mod allows throwing out items with CapsLock + click)
+* [Morrowind World Randomizer](https://www.nexusmods.com/morrowind/mods/52534) (warning, it's cursed)
+* Fashionwind: [glasses and goggles](https://www.nexusmods.com/morrowind/mods/50448), [masks and facewraps](https://www.nexusmods.com/morrowind/mods/51610), [scarves](https://www.nexusmods.com/morrowind/mods/52540)
+* [MM - Enhanced Invisibility](https://www.nexusmods.com/morrowind/mods/47565)
+* [MM - Enhanced Telekinesis](https://www.nexusmods.com/morrowind/mods/47534)
