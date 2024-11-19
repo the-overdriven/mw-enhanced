@@ -303,6 +303,9 @@ Install [Weather Chances Adjuster](https://www.nexusmods.com/morrowind/mods/4833
 ## I've installed a lot of face and hair mods, what would be the easiest way to test them?
 Install [Barbershop aka FaceRecustom](https://www.nexusmods.com/morrowind/mods/52359)
 
+## Wearing pauldrons under robe looks ridiculous
+Install [Hidden Robe Armor](https://www.nexusmods.com/morrowind/mods/48425)
+
 ## Tombs entrances don't look like tombs
 Install [Know Thy Ancestors](https://www.nexusmods.com/morrowind/mods/49678)
 
@@ -419,7 +422,7 @@ For all NPCS: [Who's Where](https://www.nexusmods.com/morrowind/mods/48843)
 
 ## Outside of cities, everything that moves wants to kill me
 Install [Non-Homicidal Ecosystem](https://www.nexusmods.com/morrowind/mods/42327)  
-Could be even better if these attacks were based on player's level or health (weak monsters should be afraid to attack strong player)  
+Could be even better if these attacks were based on player's level or health (weak monsters should be afraid to attack strong player), something like [Improved Cliff Racer AI](https://www.nexusmods.com/morrowind/mods/44712)  
 Alternative: [Less Aggressive Creatures](https://www.nexusmods.com/morrowind/mods/48292)  
 Fun way to exterminate a selected type of creatures: [Animal Extinction - MWSE](https://www.nexusmods.com/morrowind/mods/51137)
 
@@ -472,6 +475,9 @@ Install [More QuickLoot](https://www.nexusmods.com/morrowind/mods/53809)
 
 ## How do I know which item is owned or important?
 Install [Essential Indicators](https://www.nexusmods.com/morrowind/mods/48267)
+
+## How can I focus on creature from a distance?
+Install [Hostility Indicator](https://www.nexusmods.com/morrowind/mods/49030) (default Left Shift)
 
 ## I want to adjust the camera with a mouse scroll, just like in OpenMW
 <details>
@@ -625,7 +631,7 @@ Recommended together with [Small Quality of Life Improvements - MWSE](https://ww
 ## How to disable vanity camera? (the one that turns on after 30 seconds) 
 Install [No Auto Vanity Camera aka NoAutoVanityCam](https://www.nexusmods.com/morrowind/mods/48933)
 
-## Game doesn't notify me explicitly enough that I started or finished a quest.
+## Game doesn't notify me explicitly enough that I started or finished a quest
 Install [Skyrim Style Quest Notifications aka SSQN](https://www.nexusmods.com/morrowind/mods/53175) and [Skyrim Style Quest Notifications - Legendary Edition](https://www.nexusmods.com/morrowind/mods/53712)
 
 ## Game doesn't notify me that someone died
@@ -648,7 +654,7 @@ Install [Player Made Magic Rename](https://www.nexusmods.com/morrowind/mods/5148
 Install [Effect Timers](https://www.nexusmods.com/morrowind/mods/51787) or [Buff Bars](https://www.nexusmods.com/morrowind/mods/51924). Arguably Buff Bars are better, as they cover more spells (and take less screen space), but they don't show time values.
 
 ## How to remove learned spells?
-Install [Spellscribe](https://www.nexusmods.com/morrowind/mods/52809). Use paper on yourself to scribe the spell for backup. Remove the spell with Shift+Click.
+Install [Spellscribe aka rev_SPEL](https://www.nexusmods.com/morrowind/mods/52809). Use paper on yourself to scribe the spell for backup. Remove the spell with Shift+Click.
 
 ## Why do I have to read a blank piece of paper before I pick it up?
 Install [Plain Paper Fix](https://www.nexusmods.com/morrowind/mods/47735)
@@ -689,6 +695,8 @@ Install [MCAR](https://www.nexusmods.com/morrowind/mods/48628)
 
 ## How to add custom music to the game?
 Contrary to common belief, .mp3 files don't need to be in constant 128kbps bitrate. The most important thing is to remove padding from tags. One can do that with [Foobar](https://www.foobar2000.org/): right click on the selected track(s), go to Properties, Tools and click on Optimize Size. The music files should be placed in Data Files/Music. Cover art has to be removed as well, can be done with [Mp3tag](https://www.mp3tag.de/en/).
+
+Recommended music system: [MUSE aka MWSE/mods/music](https://www.nexusmods.com/morrowind/mods/46200)
 
 ## How to track mod updates on Nexus?
 
@@ -769,4 +777,11 @@ Not necessarily essential and fixing any glaring issues, but can improve the gam
 * [Pincushion](https://www.nexusmods.com/morrowind/mods/46862)
 * [Steadicam](https://www.nexusmods.com/morrowind/mods/52225)
 * [Transporter Lights aka lightguideus](https://www.nexusmods.com/morrowind/mods/48050)
-* 
+* [The Midnight Oil - Lighting Overhaul](https://www.nexusmods.com/morrowind/mods/48293) (toggle lights on and off, town lights go off during the day)
+* [Quick Equip aka shiftEquip](https://www.nexusmods.com/morrowind/mods/48341) (left shift + click to equip items)
+* [Bomberman](https://www.nexusmods.com/morrowind/mods/49667) (elemental blasts knock enemies back)
+* [Tamrielic Lore Tooltips](https://www.nexusmods.com/morrowind/mods/45954)
+* [Enlightened Flames aka erect/flames](https://www.nexusmods.com/morrowind/mods/48816)
+* [Wading in Water MW](https://www.nexusmods.com/morrowind/mods/48783)
+* [Cave Drips](https://www.nexusmods.com/morrowind/mods/43488)
+* [Correct Iron Warhammer](https://www.nexusmods.com/morrowind/mods/43576)
