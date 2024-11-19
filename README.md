@@ -130,6 +130,7 @@ Better solution might be to use [HUD Hider](https://www.nexusmods.com/morrowind/
 Install [Seph's HUD Customizer](https://www.nexusmods.com/morrowind/mods/50588)
 
 What it allows:
+
 <details>
   <summary>
 You can have numbers inside your health/magicka/fatigue bars.  
