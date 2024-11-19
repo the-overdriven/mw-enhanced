@@ -263,7 +263,8 @@ Install [Controlled Consumption](https://www.nexusmods.com/morrowind/mods/45624)
 ~~[mwse Alchemy Filter](https://www.nexusmods.com/morrowind/mods/44808). The hotkey is right ctrl. After applying filter click on ingredients as you would normally and it will show only those that can cause the desired effect.~~  
 
 More modern alternative: [Alchemical Knowledge](https://www.nexusmods.com/morrowind/mods/49036)  
-Cooking multiple potions at once: [Alchemy Cauldron - Multiple Potions at Once - MWSE](https://www.nexusmods.com/morrowind/mods/51461)
+Cooking multiple potions at once: [Alchemy Cauldron - Multiple Potions at Once - MWSE](https://www.nexusmods.com/morrowind/mods/51461)  
+[Visible Alchemy Success Chance](https://www.nexusmods.com/morrowind/mods/48608)
 
 ## Traders don't want to trade with me, because I have illegal goods (i.e. skooma)
 Install [Lore-friendly Trade Restrictions](https://www.nexusmods.com/morrowind/mods/50112)
@@ -294,6 +295,12 @@ Install [PvP](https://www.nexusmods.com/morrowind/mods/51034)
 Install [Blighted Animals Retextured](https://www.nexusmods.com/morrowind/mods/42245)  
 If you want something opposite, that is remove "blighted" adjectives and "diseased" adjectives from their names, install [No Disease Labels](https://www.nexusmods.com/morrowind/mods/48295)
 
+## How to tell filled soul gems from empty soul gems?
+Install [Visually Filled Soul Gems](https://www.nexusmods.com/morrowind/mods/46709)
+
+## Is there a way to control the weather?
+Install [Weather Chances Adjuster](https://www.nexusmods.com/morrowind/mods/48335)
+
 ## Tombs entrances don't look like tombs
 Install [Know Thy Ancestors](https://www.nexusmods.com/morrowind/mods/49678)
 
@@ -302,7 +309,13 @@ Install [QuickLoot](https://www.nexusmods.com/morrowind/mods/46283). Recommended
 
 ## Bounty on your head should be gone when you kill all witnesses
 Install [The Last Witness](https://www.nexusmods.com/morrowind/mods/46684)  
-Alternative: [No Witness - No Bounty](https://www.nexusmods.com/morrowind/mods/53384)
+Alternative: [No Witness - No Bounty aka NWNC](https://www.nexusmods.com/morrowind/mods/53384)
+
+## When sneaking in first-person view it doesn't feel like crouching
+Install [Pluginless and Adjustable Lower First Person Sneak](https://www.nexusmods.com/morrowind/mods/48642)
+
+## How do I know what are my chances of picking up lock or disarming a trap?
+Install [Security Adjuster (MWSE)](https://www.nexusmods.com/morrowind/mods/47914)
 
 ## Pickpocketing is useless
 Install [Pickpocket](https://www.nexusmods.com/morrowind/mods/47581)
@@ -324,6 +337,9 @@ Another alternative: [MULE - Mort's Ultimate Leveling Experience](https://www.ne
 ## Sometimes when I go through a door and want to go back it's locked again
 Install [Loading Doors Lock Tune](https://www.nexusmods.com/morrowind/mods/46094)
 
+## Persuasion is kind of obscure, how do I know what are my chances?
+Install [Visible Persuasion Chance](https://www.nexusmods.com/morrowind/mods/48634)
+
 ## Training armor skill is tedious
 Install [Armor Training](https://www.nexusmods.com/morrowind/mods/51741)
 
@@ -331,7 +347,8 @@ Install [Armor Training](https://www.nexusmods.com/morrowind/mods/51741)
 Install [Magicka Based Skill Progression -- MWSE-Lua Edition](https://www.nexusmods.com/morrowind/mods/48330)
 
 ## How can I pick up books without reading them?
-Install [Book Pickup](https://www.nexusmods.com/morrowind/mods/46625)
+Install [Book Pickup](https://www.nexusmods.com/morrowind/mods/46625)  
+Alternative: [activate key takes open books](https://www.nexusmods.com/morrowind/mods/54181)
 
 ## Keys make a mess in my inventory
 Install [Consistent Keys](https://www.nexusmods.com/morrowind/mods/47954), it renames keys so they have a consistent naming scheme
@@ -343,7 +360,11 @@ Install [Potion Renamer](https://www.nexusmods.com/morrowind/mods/49853), it sor
 Install [Soulgem Renamer](https://www.nexusmods.com/morrowind/mods/49861)
 
 ## Other items still make a mess in my inventory
-Install [Rational Names Lite](https://www.nexusmods.com/morrowind/mods/51241)
+Install [Rational Names Lite](https://www.nexusmods.com/morrowind/mods/51241).  
+Nice to have: [Inventory Sorter](https://www.nexusmods.com/morrowind/mods/54637?tab=posts) (not possible to save the sorting, though)
+
+## I've got rid of an important item
+Install [Keepers](https://www.nexusmods.com/morrowind/mods/51821) to prevent it in the future
 
 ## The game is too easy, how to make it harder?
 * Controlled Consumption: [click](https://github.com/the-overdriven/morrowind-issues-and-fixes/tree/main#being-able-to-chug-multiple-potions-at-the-same-time-is-too-op-alchemy-is-too-op-in-general)
@@ -387,6 +408,9 @@ Install [NPC Clothes Randomizer - MWSE](https://www.nexusmods.com/morrowind/mods
 ## How can I soul trap NPCs?
 Install [Seph's NPC Soul Trapping](https://www.nexusmods.com/morrowind/mods/50744)
 
+## Animations are janky
+Install [Animation Blending](https://www.nexusmods.com/morrowind/mods/53779)
+
 ## I forget where everyone is, especially trainers
 Install [Trainer Log](https://www.nexusmods.com/morrowind/mods/38391) (has to be cleaned with [tes3cmd](https://github.com/john-moonsugar/tes3cmd))  
 For all NPCS: [Who's Where](https://www.nexusmods.com/morrowind/mods/48843)
@@ -427,7 +451,8 @@ Install [Tribunal Delayed](https://www.nexusmods.com/morrowind/mods/33973/) or [
 
 ## I'm encumbered all the time
 Install [Encumberance increaser](https://www.nexusmods.com/morrowind/mods/28213) and/or [Bag of Holding](https://www.nexusmods.com/morrowind/mods/47778).  
-Nice to have to monitor encumbrance: [HUD Encumbrance Bar](https://www.nexusmods.com/morrowind/mods/49608)
+Nice to have to monitor encumbrance: [HUD Encumbrance Bar](https://www.nexusmods.com/morrowind/mods/49608)  
+Other: [Units and Vagueness](https://www.nexusmods.com/morrowind/mods/49046)
 
 ## NPCs are shouting when I'm stealing but do nothing
 Install [No NPC Shouting at 0 Alarm](https://www.nexusmods.com/morrowind/mods/53837)
@@ -439,6 +464,9 @@ Install [Outfit Greetings Tweaked](https://www.nexusmods.com/morrowind/mods/4606
 Install [ContainerWeightMaxed](https://www.nexusmods.com/morrowind/mods/45698)  
 ~~Even if using QuickLoot, [inom - Inventory mouse wheel](https://www.nexusmods.com/morrowind/mods/46847) might still be helpful here for moving items from/to container quicker.~~  
 Actually, UI Expansion has an option to move items from/to container on left click.
+
+## Is there a quicker way for looting items?
+Install [More QuickLoot](https://www.nexusmods.com/morrowind/mods/53809)
 
 ## How do I know which item is owned or important?
 Install [Essential Indicators](https://www.nexusmods.com/morrowind/mods/48267)
@@ -529,7 +557,8 @@ After installing [Hot Quests](https://www.nexusmods.com/morrowind/mods/48976) th
 Yes. With [Smart Journal](https://www.nexusmods.com/morrowind/mods/47492):  
 ![image](https://github.com/the-overdriven/morrowind-issues-and-fixes/assets/100090726/3a18f6a4-1676-4e76-9bcd-c908e3b167be)
 
-Highlighting and hiding quests is doable with [Better Questlist](https://www.nexusmods.com/morrowind/mods/48272)
+Highlighting and hiding quests is doable with [Better Questlist](https://www.nexusmods.com/morrowind/mods/48272)  
+Bigger Quest Log: [Quest Log Menu](https://www.nexusmods.com/morrowind/mods/54203)
 </details>
 
 ## Can I write in my journal?
@@ -610,6 +639,9 @@ Arguably it does make sense (especially if the house is abandoned), but if you l
 Most advanced and configurable mod for this appears to be [Magicka Regeneration Suite](https://www.nexusmods.com/morrowind/mods/49153)  
 Alternative: [Puristy Friendly Magicka Regen](https://www.nexusmods.com/morrowind/mods/45636)
 
+## How to rename a spell or enchanted item?
+Install [Player Made Magic Rename](https://www.nexusmods.com/morrowind/mods/51484)
+
 ## How to see how much longer a spell will last?
 Install [Effect Timers](https://www.nexusmods.com/morrowind/mods/51787) or [Buff Bars](https://www.nexusmods.com/morrowind/mods/51924). Arguably Buff Bars are better, as they cover more spells (and take less screen space), but they don't show time values.
 
@@ -624,6 +656,12 @@ Install [Graphic Herbalism - MWSE and OpenMW Edition](https://www.nexusmods.com/
 
 ## How to prevent starting new game accidentally?
 Install [New Game Confirmation](https://www.nexusmods.com/morrowind/mods/47693)
+
+## How do I know what music track is currently playing?
+Install [Now Playing](https://www.nexusmods.com/morrowind/mods/53091)
+
+## How do I know where the Intervention spell would teleport me?
+Install [Smart Intervention](https://www.nexusmods.com/morrowind/mods/50752)
 
 ## I don't know what time it is
 Install [Clocks](https://www.nexusmods.com/morrowind/mods/50840)
@@ -720,3 +758,13 @@ Not necessarily essential and fixing any glaring issues, but can improve the gam
 * [MM - Enhanced Telekinesis](https://www.nexusmods.com/morrowind/mods/47534)
 * [Rag n'wahs](https://www.nexusmods.com/morrowind/mods/54574)
 * [Combat Enhanced MWSE](https://www.nexusmods.com/morrowind/mods/51414)
+* [Spells Reforged (only visuals)](https://www.nexusmods.com/morrowind/mods/52263)
+* [HUD Weapon Charge](https://www.nexusmods.com/morrowind/mods/47962)
+* [Hide Grass](https://www.nexusmods.com/morrowind/mods/52764) (makes grass be rendered by MGEXE)
+* [Water Sounds](https://www.nexusmods.com/morrowind/mods/47794)
+* [Animated Arrow Denocker](https://www.nexusmods.com/morrowind/mods/52418)
+* [Perfect Placement](https://www.nexusmods.com/morrowind/mods/46562)
+* [Pincushion](https://www.nexusmods.com/morrowind/mods/46862)
+* [Steadicam](https://www.nexusmods.com/morrowind/mods/52225)
+* [Transporter Lights aka lightguideus](https://www.nexusmods.com/morrowind/mods/48050)
+* 
