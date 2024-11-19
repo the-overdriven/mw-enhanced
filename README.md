@@ -576,7 +576,7 @@ Install [MWSE Scroll Icons](https://www.nexusmods.com/morrowind/mods/54006)
 Install [More Barter Gold](https://www.nexusmods.com/morrowind/mods/40053) and [Merchant Gold Resets Instantly](https://www.nexusmods.com/morrowind/mods/43764)
 
 ## Race and birthsign spells are ~~cringe~~ useless and unbalanced
-Install [Balanced Passive Races and Birthsigns](https://www.nexusmods.com/morrowind/mods/47782), it will replace spells (that no one uses anyway) with permanent bonuses.
+Install [Balanced Passive Races and Birthsigns](https://www.nexusmods.com/morrowind/mods/47782), it will replace spells (that no one uses anyway) with permanent bonuses. [BTB's Game Improvements (Necro Edit) Tweaked](https://www.nexusmods.com/morrowind/mods/50308) also rebalances races and birthsigns.
 
 ## Using shrines is clunky
 [Shrine Tooltips](https://www.nexusmods.com/morrowind/mods/48275) adds tooltips that tells you what each option actually does. [No Thank You](https://www.nexusmods.com/morrowind/mods/49681) adds a cancel option.
