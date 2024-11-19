@@ -122,6 +122,20 @@ Install [Texture Fix 2.0](https://www.nexusmods.com/morrowind/mods/53593) and [T
 It's `tm` command in console, but it's a bit clunky to deactivate.
 Better solution might be to use [HUD Hider](https://www.nexusmods.com/morrowind/mods/46642) which adds a toggable hotkey.
 
+## How can I customize my HUD?
+Install [Seph's HUD Customizer](https://www.nexusmods.com/morrowind/mods/50588)
+You can have numbers inside your health/magicka/fatigue bars.  
+You can change the visibility, position, size and color of the health, magicka and fatigue bars.  
+You can change the visibility, position and size of the enemy health bar.  
+You can change the visibility and position of your equipped weapon and magic indicators.  
+You can change the visibility and position of the message that occurs when you swap weapons or magic.  
+You can change the visibility, position and layout of the currently active magic effect icons.  
+You can change the visibility and position of the sneak indicator.  
+You can change the visibility, position and size of the minimap.  
+You can change the visibility and position of the message that occurs when you enter a new area/cell.  
+You can change the visibility and position of the breath meter.  
+You can change the visibility, position and layout of generic messages.  
+
 ## I move like in slow motion, I want to run faster
 
 <details>
@@ -246,6 +260,9 @@ Install [Lore-friendly Trade Restrictions](https://www.nexusmods.com/morrowind/m
 ## How to tell how much in the end a given potion or spell will restore points?
 TODO
 
+## After using a grass mod, I end up with mispositioned, clipping grass
+Install [The LawnMower for Morrowind](https://www.nexusmods.com/morrowind/mods/53034)
+
 ## Why I cannot rest in cities?
 Install [Actual Illegal Resting](https://www.nexusmods.com/morrowind/mods/51804)
 
@@ -310,6 +327,12 @@ Install [Consistent Keys](https://www.nexusmods.com/morrowind/mods/47954), it re
 
 ## Potions make a mess in my inventory
 Install [Potion Renamer](https://www.nexusmods.com/morrowind/mods/49853), it sorts them first by effect and then by quality
+
+## Soulgems make a mess in my inventory
+Install [Soulgem Renamer](https://www.nexusmods.com/morrowind/mods/49861)
+
+## Other items still make a mess in my inventory
+Install [Rational Names Lite](https://www.nexusmods.com/morrowind/mods/51241)
 
 ## The game is too easy, how to make it harder?
 * Controlled Consumption: [click](https://github.com/the-overdriven/morrowind-issues-and-fixes/tree/main#being-able-to-chug-multiple-potions-at-the-same-time-is-too-op-alchemy-is-too-op-in-general)
@@ -509,6 +532,9 @@ Install [Balanced Passive Races and Birthsigns](https://www.nexusmods.com/morrow
 ## Movement when swimming and levitating is clunky
 Install [Better Buoyancy](https://www.nexusmods.com/morrowind/mods/48929), adds jump key to float upwards, and the sneak key to sink downwards.
 
+## How to tell which texture a mesh is using?
+Install [Selection Details](https://www.nexusmods.com/morrowind/mods/51095)
+
 ## How can I see HP values of enemies?
 
 <details>
@@ -548,7 +574,7 @@ Recommended together with [Small Quality of Life Improvements - MWSE](https://ww
 Install [No Auto Vanity Camera aka NoAutoVanityCam](https://www.nexusmods.com/morrowind/mods/48933)
 
 ## Game doesn't notify me explicitly enough that I started or finished a quest.
-Install [Skyrim Style Quest Notifications](https://www.nexusmods.com/morrowind/mods/53175) and [Skyrim Style Quest Notifications - Legendary Edition](https://www.nexusmods.com/morrowind/mods/53712)
+Install [Skyrim Style Quest Notifications aka SSQN](https://www.nexusmods.com/morrowind/mods/53175) and [Skyrim Style Quest Notifications - Legendary Edition](https://www.nexusmods.com/morrowind/mods/53712)
 
 ## Game doesn't notify me that someone died
 Install [Notifications](https://www.nexusmods.com/morrowind/mods/48600) + [Combat Log](https://www.nexusmods.com/morrowind/mods/54836)
@@ -580,6 +606,9 @@ Install [New Game Confirmation](https://www.nexusmods.com/morrowind/mods/47693)
 
 ## I don't know what time it is
 Install [Clocks](https://www.nexusmods.com/morrowind/mods/50840)
+
+## The game doesn't notify me when it's the time to rank up
+Install [Rank Up - Advancement Notifications 2](https://www.nexusmods.com/morrowind/mods/54140)
 
 ## How to disable the cheesy shiny glow?
 Install [Assetless No Glow aka NoGlow](https://www.nexusmods.com/morrowind/mods/47925)  
@@ -665,3 +694,4 @@ Not necessarily essential and fixing any glaring issues, but can improve the gam
 * Fashionwind: [glasses and goggles](https://www.nexusmods.com/morrowind/mods/50448), [masks and facewraps](https://www.nexusmods.com/morrowind/mods/51610), [scarves](https://www.nexusmods.com/morrowind/mods/52540)
 * [MM - Enhanced Invisibility](https://www.nexusmods.com/morrowind/mods/47565)
 * [MM - Enhanced Telekinesis](https://www.nexusmods.com/morrowind/mods/47534)
+* [Rag n'wahs](https://www.nexusmods.com/morrowind/mods/54574)
