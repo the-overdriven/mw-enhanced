@@ -255,6 +255,9 @@ F5 to save, F9 to load
 ## When quick-saving will it save on multiple slots?
 No. You'd have install [Sophisticated Save System](https://www.nexusmods.com/morrowind/mods/45608) for that. It adds autosave as well (including save every x minutes)
 
+## The game doesn't show sheated weapons
+Install [Weapon Sheating](https://www.nexusmods.com/morrowind/mods/46069)
+
 ## Being able to chug multiple potions at the same time is too OP. Alchemy is too OP, in general.
 Install [Controlled Consumption](https://www.nexusmods.com/morrowind/mods/45624) or [Alchemical Hustle](https://www.nexusmods.com/morrowind/mods/51050). Also [Better Balanced Booze](https://www.nexusmods.com/morrowind/mods/45844)
 
@@ -312,6 +315,12 @@ Install [Know Thy Ancestors](https://www.nexusmods.com/morrowind/mods/49678)
 ## Looting is clunky, too much clicking
 Install [QuickLoot](https://www.nexusmods.com/morrowind/mods/46283). Recommended to use with [Morrowind Containers Animated - Edited for Quickloot](https://www.nexusmods.com/morrowind/mods/49297).
 
+## I'm annoyed by all the game popups
+Install [Auto Yes to All](https://www.nexusmods.com/morrowind/mods/48863)
+
+## Is there an auto-load mod?
+Yes, install [Instant Load](https://www.nexusmods.com/morrowind/mods/48907)
+
 ## Bounty on your head should be gone when you kill all witnesses
 Install [The Last Witness](https://www.nexusmods.com/morrowind/mods/46684)  
 Alternative: [No Witness - No Bounty aka NWNC](https://www.nexusmods.com/morrowind/mods/53384)
@@ -326,7 +335,8 @@ Install [Security Adjuster (MWSE)](https://www.nexusmods.com/morrowind/mods/4791
 Install [Pickpocket](https://www.nexusmods.com/morrowind/mods/47581)
 
 ## Sneaking is useless
-Install [Stealth Improved](https://www.nexusmods.com/morrowind/mods/49614)
+Install [Stealth Improved aka stealth](https://www.nexusmods.com/morrowind/mods/49614)  
+Install [Sneaky Snatcher](https://www.nexusmods.com/morrowind/mods/55369)
 
 ## Sneaky strike doesn't take weapon type into account
 Install [Sneaky Strike](https://www.nexusmods.com/morrowind/mods/48317)
@@ -342,8 +352,9 @@ Another alternative: [MULE - Mort's Ultimate Leveling Experience](https://www.ne
 ## Sometimes when I go through a door and want to go back it's locked again
 Install [Loading Doors Lock Tune](https://www.nexusmods.com/morrowind/mods/46094)
 
-## Persuasion is kind of obscure, how do I know what are my chances?
-Install [Visible Persuasion Chance](https://www.nexusmods.com/morrowind/mods/48634)
+## Persuasion is kind of obscure, how do I know what are my chances? how to make it more fun?
+Install [Visible Persuasion Chance](https://www.nexusmods.com/morrowind/mods/48634)  
+Install [Silver Tongue](https://www.nexusmods.com/morrowind/mods/49086) (you can see NPC Fight and Alarm levels and lower Alarm, makes conversation with hostile NPC possible if they are not currently attacking, this makes Intimidation more useful)
 
 ## Training armor skill is tedious
 Install [Armor Training](https://www.nexusmods.com/morrowind/mods/51741)
@@ -354,6 +365,9 @@ Install [Magicka Based Skill Progression -- MWSE-Lua Edition](https://www.nexusm
 ## How can I pick up books without reading them?
 Install [Book Pickup](https://www.nexusmods.com/morrowind/mods/46625)  
 Alternative: [activate key takes open books](https://www.nexusmods.com/morrowind/mods/54181)
+
+## Is there a way to compare my current gear with new gear?
+Install [MWSE Compare Tooltips](https://www.nexusmods.com/morrowind/mods/51087), default hotkey: alt
 
 ## Keys make a mess in my inventory
 Install [Consistent Keys](https://www.nexusmods.com/morrowind/mods/47954), it renames keys so they have a consistent naming scheme
@@ -569,8 +583,8 @@ Highlighting and hiding quests is doable with [Better Questlist](https://www.nex
 Bigger Quest Log: [Quest Log Menu](https://www.nexusmods.com/morrowind/mods/54203)
 </details>
 
-## Can I write in my journal?
-Yes, with [Journal Search and Edit](https://www.nexusmods.com/morrowind/mods/46756) or [Writing and Journal Enhanced](https://www.nexusmods.com/morrowind/mods/48002)
+## Can I write in my journal or search through it?
+Yes, with [Journal Search and Edit aka journal](https://www.nexusmods.com/morrowind/mods/46756) or [Writing and Journal Enhanced](https://www.nexusmods.com/morrowind/mods/48002)
 
 ## How to tell different potions in inventory apart?
 Install [Colored Potions](https://www.nexusmods.com/morrowind/mods/48999)
@@ -670,6 +684,9 @@ Install [Now Playing](https://www.nexusmods.com/morrowind/mods/53091)
 
 ## How do I know where the Intervention spell would teleport me?
 Install [Smart Intervention](https://www.nexusmods.com/morrowind/mods/50752)
+
+## Is there a way to make the console (`) more usable?
+Install [Blue - Smart Console](https://www.nexusmods.com/morrowind/mods/53427)
 
 ## I don't know what time it is
 Install [Clocks](https://www.nexusmods.com/morrowind/mods/50840)
@@ -785,3 +802,12 @@ Not necessarily essential and fixing any glaring issues, but can improve the gam
 * [Wading in Water MW](https://www.nexusmods.com/morrowind/mods/48783)
 * [Cave Drips](https://www.nexusmods.com/morrowind/mods/43488)
 * [Correct Iron Warhammer](https://www.nexusmods.com/morrowind/mods/43576)
+* [Audiobooks of Morrowind](https://www.nexusmods.com/morrowind/mods/52458)
+* [Travel Tooltips - A Travel UI Mod](https://www.nexusmods.com/morrowind/mods/48306)
+* [Vapourmist - A Cloud and Mist Mod](https://www.nexusmods.com/morrowind/mods/50517)
+* [UI Expansion Better Training Icons](https://www.nexusmods.com/morrowind/mods/51190)
+* [AURA](https://www.nexusmods.com/morrowind/mods/48255) (adds ambient sounds)
+* [Watch the Skies - Dynamic Weather and Sky Effects](https://www.nexusmods.com/morrowind/mods/48636)
+* [Magican't](https://www.nexusmods.com/morrowind/mods/50990)
+* [Zoom](https://www.nexusmods.com/morrowind/mods/53474)
+* 
