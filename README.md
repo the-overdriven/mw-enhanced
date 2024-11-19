@@ -97,6 +97,10 @@ Recreate navigation mesh cache. It's under Data Files tab.
 ## How to fix incorrect map?
 Wrye Mash has the utility to reset save state map.
 
+## The map is not very useful
+Install [Map Icons - MWSE](https://www.nexusmods.com/morrowind/mods/53966).  
+Nice to have: [Detect Map Icons](https://www.nexusmods.com/morrowind/mods/54285)
+
 ## How to fix errors "One of the files that "(mod name).ESP" is dependent on has changed since the last save."
 Install [Wrye Mash](https://www.nexusmods.com/morrowind/mods/45439?tab=docs). Follow [this guide](https://danaeplays.thenet.sk/wrye-mash/).  
 TL;DR: for me selecting the problematic esp in the Mods tab and right-clicking on its masters on right side to update them fixes it. Moving the esp in the modlist helps too.
@@ -124,6 +128,10 @@ Better solution might be to use [HUD Hider](https://www.nexusmods.com/morrowind/
 
 ## How can I customize my HUD?
 Install [Seph's HUD Customizer](https://www.nexusmods.com/morrowind/mods/50588)
+
+What it allows:
+<details>
+  <summary>
 You can have numbers inside your health/magicka/fatigue bars.  
 You can change the visibility, position, size and color of the health, magicka and fatigue bars.  
 You can change the visibility, position and size of the enemy health bar.  
@@ -135,6 +143,8 @@ You can change the visibility, position and size of the minimap.
 You can change the visibility and position of the message that occurs when you enter a new area/cell.  
 You can change the visibility and position of the breath meter.  
 You can change the visibility, position and layout of generic messages.  
+  </summary>
+</details>
 
 ## I move like in slow motion, I want to run faster
 
@@ -252,7 +262,8 @@ Install [Controlled Consumption](https://www.nexusmods.com/morrowind/mods/45624)
 ## Good alchemy mod? To enable filtering by effect, rather than by ingredient
 ~~[mwse Alchemy Filter](https://www.nexusmods.com/morrowind/mods/44808). The hotkey is right ctrl. After applying filter click on ingredients as you would normally and it will show only those that can cause the desired effect.~~  
 
-More modern alternative: [Alchemical Knowledge](https://www.nexusmods.com/morrowind/mods/49036)
+More modern alternative: [Alchemical Knowledge](https://www.nexusmods.com/morrowind/mods/49036)  
+Cooking multiple potions at once: [Alchemy Cauldron - Multiple Potions at Once - MWSE](https://www.nexusmods.com/morrowind/mods/51461)
 
 ## Traders don't want to trade with me, because I have illegal goods (i.e. skooma)
 Install [Lore-friendly Trade Restrictions](https://www.nexusmods.com/morrowind/mods/50112)
@@ -370,6 +381,9 @@ TODO
 ## Trainers are broken
 (idea) One way to fix it, could be to make all trainers still able to teach skills but not more than 1-5 levels (per each trainer), so visiting them would still be worthwile.
 
+## NPC are too repeatable
+Install [NPC Clothes Randomizer - MWSE](https://www.nexusmods.com/morrowind/mods/54064)
+
 ## How can I soul trap NPCs?
 Install [Seph's NPC Soul Trapping](https://www.nexusmods.com/morrowind/mods/50744)
 
@@ -380,7 +394,8 @@ For all NPCS: [Who's Where](https://www.nexusmods.com/morrowind/mods/48843)
 ## Outside of cities, everything that moves wants to kill me
 Install [Non-Homicidal Ecosystem](https://www.nexusmods.com/morrowind/mods/42327)  
 Could be even better if these attacks were based on player's level or health (weak monsters should be afraid to attack strong player)  
-Alternative: [Less Aggressive Creatures](https://www.nexusmods.com/morrowind/mods/48292)
+Alternative: [Less Aggressive Creatures](https://www.nexusmods.com/morrowind/mods/48292)  
+Fun way to exterminate a selected type of creatures: [Animal Extinction - MWSE](https://www.nexusmods.com/morrowind/mods/51137)
 
 ## I'm lost in Vivec, every canton looks the same
 Install [Colorful Vivec](https://www.nexusmods.com/morrowind/mods/53806) and [Vivec Cantons Reconnected](https://www.nexusmods.com/morrowind/mods/48081)  
@@ -481,6 +496,9 @@ Install [Force Close Dialogue Menu aka shiftGoodbye](https://www.nexusmods.com/m
 ## Passing by NPCs makes them too reactive
 Install [Shut Up](https://www.nexusmods.com/morrowind/mods/43310), NPCs will notice you only when you look at them.
 
+## NPC don't look at me when I talk to them
+Install [Small Quality of Life Improvements - MWSE](https://www.nexusmods.com/morrowind/mods/53905) (Face Me component)
+
 ## Companions, city guards and faction members are not helping me when I'm attacked
 Install [More Attentive Guards](https://www.nexusmods.com/morrowind/mods/48622). Caution, has a bug: "Every time I attack in self defense, I get reported and attacked"
 
@@ -493,6 +511,9 @@ Or [Companion Health Bars MWSE Lua Script](https://www.nexusmods.com/morrowind/m
 
 ## Companions get lost occasionally
 Install [Easy Escort](https://www.nexusmods.com/morrowind/mods/45712)
+
+## There is no hotkey for Map
+After installing [Small Quality of Life Improvements - MWSE](https://www.nexusmods.com/morrowind/mods/53905) the hotkey is "M"
 
 ## There is no hotkey for torches
 After installing [Torch Hotkey](https://www.nexusmods.com/morrowind/mods/45747) the hotkey is "C"
@@ -568,7 +589,7 @@ Install [Impact Sounds](https://www.nexusmods.com/morrowind/mods/52747)
 
 ## How to fix silent NPC groans?
 Some mods break it (Character Sound Overhaul and Impact Sounds - I'm looking at you). Install [Deathrattle Sounds](https://www.nexusmods.com/morrowind/mods/53938), it doesn't restore groans on hit, but it does restore groans on death. And adds some extra. It fixes NPCs blabbering after death as well.  
-Recommended together with [Small Quality of Life Improvements - MWSE](https://www.nexusmods.com/morrowind/mods/53905), which includes a component preventing repeating same combat voice-overs repeatedly.
+Recommended together with [Small Quality of Life Improvements - MWSE](https://www.nexusmods.com/morrowind/mods/53905), which includes a component preventing repeating same combat voice-overs repeatedly (I Heard You The First Time!)
 
 ## How to disable vanity camera? (the one that turns on after 30 seconds) 
 Install [No Auto Vanity Camera aka NoAutoVanityCam](https://www.nexusmods.com/morrowind/mods/48933)
@@ -609,6 +630,9 @@ Install [Clocks](https://www.nexusmods.com/morrowind/mods/50840)
 
 ## The game doesn't notify me when it's the time to rank up
 Install [Rank Up - Advancement Notifications 2](https://www.nexusmods.com/morrowind/mods/54140)
+
+## The game doesn't notify me when can I level up
+Install [Level Up Indicator - MWSE](https://www.nexusmods.com/morrowind/mods/51376). Depending on used leveling mod, level up screen might not be needed at all!
 
 ## How to disable the cheesy shiny glow?
 Install [Assetless No Glow aka NoGlow](https://www.nexusmods.com/morrowind/mods/47925)  
@@ -695,3 +719,4 @@ Not necessarily essential and fixing any glaring issues, but can improve the gam
 * [MM - Enhanced Invisibility](https://www.nexusmods.com/morrowind/mods/47565)
 * [MM - Enhanced Telekinesis](https://www.nexusmods.com/morrowind/mods/47534)
 * [Rag n'wahs](https://www.nexusmods.com/morrowind/mods/54574)
+* [Combat Enhanced MWSE](https://www.nexusmods.com/morrowind/mods/51414)
