@@ -133,6 +133,7 @@ What it allows:
 
 <details>
   <summary>(click to expand)</summary>
+	
 You can have numbers inside your health/magicka/fatigue bars.  
 You can change the visibility, position, size and color of the health, magicka and fatigue bars.  
 You can change the visibility, position and size of the enemy health bar.  
@@ -144,6 +145,7 @@ You can change the visibility, position and size of the minimap.
 You can change the visibility and position of the message that occurs when you enter a new area/cell.  
 You can change the visibility and position of the breath meter.  
 You can change the visibility, position and layout of generic messages.  
+
 </details>
 
 ## I move like in slow motion, I want to run faster
