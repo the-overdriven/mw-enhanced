@@ -701,7 +701,7 @@ Here comes the power of CSS and JS magic.
 
 The first time you open the page, open the console with F12 and run the following code:
 
-```
+```javascript
 function filterMods() {
 	document.querySelectorAll('.mod-tracking-table tbody tr').forEach(function(tr) {
 		const tdDownloaded = tr.querySelector('td.table-download');
