@@ -304,7 +304,7 @@ Install [Visually Filled Soul Gems](https://www.nexusmods.com/morrowind/mods/467
 Install [Weather Chances Adjuster](https://www.nexusmods.com/morrowind/mods/48335)
 
 ## I've installed a lot of face and hair mods, what would be the easiest way to test them?
-Install [Barbershop aka FaceRecustom](https://www.nexusmods.com/morrowind/mods/52359)
+Install [Barbershop aka FaceRecustom](https://www.nexusmods.com/morrowind/mods/52359) (hotkey to rotate between faces: alt + p)
 
 ## Wearing pauldrons under robe looks ridiculous
 Install [Hidden Robe Armor](https://www.nexusmods.com/morrowind/mods/48425)
