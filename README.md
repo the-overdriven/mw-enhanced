@@ -680,7 +680,8 @@ Install [Graphic Herbalism - MWSE and OpenMW Edition](https://www.nexusmods.com/
 Install [New Game Confirmation](https://www.nexusmods.com/morrowind/mods/47693)
 
 ## How do I know what music track is currently playing?
-Install [Now Playing](https://www.nexusmods.com/morrowind/mods/53091)
+Install [Now Playing](https://www.nexusmods.com/morrowind/mods/53091)  
+[HeartStrings](https://www.nexusmods.com/morrowind/mods/52965) also has this feature.
 
 ## How do I know where the Intervention spell would teleport me?
 Install [Smart Intervention](https://www.nexusmods.com/morrowind/mods/50752)
@@ -713,7 +714,12 @@ Install [MCAR](https://www.nexusmods.com/morrowind/mods/48628)
 ## How to add custom music to the game?
 Contrary to common belief, .mp3 files don't need to be in constant 128kbps bitrate. The most important thing is to remove padding from tags. One can do that with [Foobar](https://www.foobar2000.org/): right click on the selected track(s), go to Properties, Tools and click on Optimize Size. The music files should be placed in Data Files/Music. Cover art has to be removed as well, can be done with [Mp3tag](https://www.mp3tag.de/en/).
 
-Recommended music system: [MUSE aka MWSE/mods/music](https://www.nexusmods.com/morrowind/mods/46200)
+Recommended music system: [MUSE aka MWSE/mods/music](https://www.nexusmods.com/morrowind/mods/46200)  
+Or: [HeartStrings](https://www.nexusmods.com/morrowind/mods/52965)
+
+## Is there a music mod that resumes the previous track when transitioning the theme? For example: switching from a wilderness theme to a battle theme and then back to the wilderness theme would play the same track, as it played before the transition (instead of moving on to next track)
+
+No, but I [forked](https://github.com/the-overdriven/mw-HeartStrings) Heartstrings and added this feature.
 
 ## How to track mod updates on Nexus?
 
