@@ -439,7 +439,8 @@ Enemies
 * [Economy Adjuster Adjustments](https://www.nexusmods.com/morrowind/mods/47130) - increase the mercantile and speechcraft skills of service providers
 
 ## [Balance] There are too many (low tier) items in game
-TODO
+* [Commonly Used Containers Nerfed](https://www.nexusmods.com/morrowind/mods/47068?tab=files) - nerfs barrel, boxes, etc.
+* TODO
 
 ## [Balance] Trainers are broken
 (idea) One way to fix it, could be to make all trainers still able to teach skills but not more than 1-5 levels (per each trainer), so visiting them would still be worthwile.
@@ -583,9 +584,11 @@ Install [More Attentive Guards](https://www.nexusmods.com/morrowind/mods/48622).
 
 For companions: install [Diligent Defenders](https://www.nexusmods.com/morrowind/mods/45717)  
 
-How to tell my followers (companions and summons) who to attack? You can do on hotkey when you install [Kill Command](https://www.nexusmods.com/morrowind/mods/46723)
+## How to tell my followers (companions and summons) who to attack? 
+You can do on hotkey when you install [Kill Command](https://www.nexusmods.com/morrowind/mods/46723)
 
-How to see my followers' stats? Install [More Detailed Companion HealthBars MWSE Lua Script](https://www.nexusmods.com/morrowind/mods/51389)  
+## How to see my followers' stats? 
+Install [More Detailed Companion HealthBars MWSE Lua Script](https://www.nexusmods.com/morrowind/mods/51389)  
 Or [Companion Health Bars MWSE Lua Script](https://www.nexusmods.com/morrowind/mods/46136)
 
 ## Companions get lost occasionally
@@ -599,6 +602,9 @@ After installing [Torch Hotkey](https://www.nexusmods.com/morrowind/mods/45747) 
 
 ## There is no hotkey for Quests
 After installing [Hot Quests](https://www.nexusmods.com/morrowind/mods/48976) the hotkey is "U"
+
+## Is there a mod that allows mouse control?
+Yes, [Morrowind Mouse Control](https://www.nexusmods.com/morrowind/mods/48254)
 
 ## Can I make Quests screen more usable (i.e. bigger)?
 
