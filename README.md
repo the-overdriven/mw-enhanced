@@ -750,7 +750,7 @@ Install [MCAR](https://www.nexusmods.com/morrowind/mods/48628)
 Contrary to common belief, .mp3 files don't need to be in constant 128kbps bitrate. The most important thing is to remove padding from tags. One can do that with [Foobar](https://www.foobar2000.org/): right click on the selected track(s), go to Properties, Tools and click on Optimize Size. The music files should be placed in Data Files/Music. Cover art has to be removed as well, can be done with [Mp3tag](https://www.mp3tag.de/en/).
 
 Recommended music system: [MUSE aka MWSE/mods/music](https://www.nexusmods.com/morrowind/mods/46200)  
-Or: [HeartStrings](https://www.nexusmods.com/morrowind/mods/52965)
+Or: [HeartStrings](https://www.nexusmods.com/morrowind/mods/52965). Or: [my fork](https://github.com/the-overdriven/mw-HeartStrings).
 
 ## Is there a music mod that resumes the previous track when transitioning the theme? For example: switching from a wilderness theme to a battle theme and then back to the wilderness theme would play the same track, as it played before the transition (instead of moving on to next track)
 
