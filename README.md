@@ -502,6 +502,12 @@ Install [No NPC Shouting at 0 Alarm](https://www.nexusmods.com/morrowind/mods/53
 ## NPCs are commenting my outfit ALL THE TIME
 Install [Outfit Greetings Tweaked](https://www.nexusmods.com/morrowind/mods/46066)
 
+## NPCs are too boring/static
+Install 
+* [Small Talk](https://www.nexusmods.com/morrowind/mods/54810)
+* [Immersive Morrowind](https://www.nexusmods.com/morrowind/mods/54513)
+* [NPC Schedule](https://www.nexusmods.com/morrowind/mods/45525) or [Lightweight Lua Scheduling](https://www.nexusmods.com/morrowind/mods/48584)
+
 ## I want to have a stash for items but can't put much in containers
 Install [ContainerWeightMaxed](https://www.nexusmods.com/morrowind/mods/45698)  
 ~~Even if using QuickLoot, [inom - Inventory mouse wheel](https://www.nexusmods.com/morrowind/mods/46847) might still be helpful here for moving items from/to container quicker.~~  
