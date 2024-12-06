@@ -17,7 +17,18 @@ Think of it rather as "Morrowind power user FAQ"
 Install [Morrowind Code Patch](https://www.nexusmods.com/morrowind/mods/19510) and [Patch for Purists](https://www.nexusmods.com/morrowind/mods/45096)  
 
 ## How do I actually run a modded game?
-Forget about Morrowind Launcher. Use a mod organizer, such as [Wrye Mash](https://www.nexusmods.com/morrowind/mods/45439). It includes the most important shortcuts, allows to reorder .esp plugins load order and fix various issues.
+Forget about Morrowind Launcher. Use a mod organizer, such as [Wrye Mash](https://www.nexusmods.com/morrowind/mods/45439). It includes the most important shortcuts, allows to reorder .esp plugins load order and includes other tools that can fix various issues:
+* tes3merge - produces the Morrowind equivalent of a bashed patch
+* merged lands - can fix a lot of landscape issues from mods with minor landscape conflicts
+* mlox - can give advice on mod load order, or sort it for you
+* tes3cmd - a cleaning tool, very very useful but a bit more advanced and less immediately necessary for you
+
+## Are there any other mod managers, more modern and robust than Wrye Mash?
+[MO2](https://github.com/ModOrganizer2/modorganizer), Morrowind Mod Organizer
+
+## Are there any tools for automated .esp plugin load ordering?
+mlox, included in Wrye Mash.  
+Alternative: [LOOT](https://loot.github.io/) - Load Order Optimisation Tool 
 
 ## Where can I find game logs?
 Warnings.txt, MWSE.log and mgeXE.log
@@ -51,7 +62,9 @@ Save it as .bat file, i.e. res_720_MW.bat. Create a shortcut, open its propertie
 </details>
 
 ## On multiple screens setup, moving mouse in game moves cursor on the second screen
-Install [FullscreenLock](https://github.com/blaberry/FullscreenLock) and run it every time you run the game (the script above runs it automatically). The .exe file can be downloaded from the [Releases](https://github.com/blaberry/FullscreenLock/releases/tag/1.1) page. [Mirror](https://github.com/the-overdriven/FullscreenLock/releases/tag/1.1).
+Install [FullscreenLock](https://github.com/blaberry/FullscreenLock) and run it every time you run the game (the script above runs it automatically). The .exe file can be downloaded from the [Releases](https://github.com/blaberry/FullscreenLock/releases/tag/1.1) page. [Mirror](https://github.com/the-overdriven/FullscreenLock/releases/tag/1.1). Alternative: Borderless Gaming.
+
+If you use Lossless Scaling, it also has this feature, it's called "Cursor Lock".
 
 ## Game hangs when closing it
 Install [Expeditious Exit](https://www.nexusmods.com/morrowind/mods/45634)
@@ -77,9 +90,11 @@ Decreasing view distance does make a big difference but comes at a price of caus
 There's a mod to automate it: [Simple FPS Optimizer](https://www.nexusmods.com/morrowind/mods/53982)  
 You can set hotkeys in MGE XE Macro Editors for increasing and decreasing "View Range" as well.
 
+[Lossless Scaling](https://store.steampowered.com/app/993090/Lossless_Scaling/) - provides frame generation, which enhances low frame rates by interpolating additional frames between existing ones, creating smoother motion. It leverages techniques like frame duplication or AI-driven interpolation to maintain responsiveness while improving the visual fluidity of gameplay.
+
 You can also try to run the shortcut to Morrowind with `/High` priority but from my experience it doesn't change much.  
 
-Morrowind.exe is notorious for memory leaks. [Memory Monitor](https://www.nexusmods.com/morrowind/mods/45696) can be used to keep track of performance improvements (it will show a bar once the memory starts running out).
+Morrowind.exe is also notorious for memory leaks. [Memory Monitor](https://www.nexusmods.com/morrowind/mods/45696) can be used to keep track of performance improvements (it will show a bar once the memory starts running out).
 
 Optional: 
 - [Ocean Light Remover](https://www.nexusmods.com/morrowind/mods/53847)
@@ -105,7 +120,13 @@ Install [Wrye Mash](https://www.nexusmods.com/morrowind/mods/45439?tab=docs). Fo
 TL;DR: for me selecting the problematic esp in the Mods tab and right-clicking on its masters on right side to update them fixes it. Moving the esp in the modlist helps too.
 
 ## I would like to know what is my current modlist
-Install [Mod List](https://www.nexusmods.com/morrowind/mods/50214), find the mod in the Mod Config list and click on it. Copy+paste to any text editor.
+Install [Mod List](https://www.nexusmods.com/morrowind/mods/50214), find the mod in the Mod Config list and click on it. Copy+paste to any text editor.  
+Unfortunately, it doesn't list pluginless mods.
+
+[Mod Organizer 2](https://github.com/ModOrganizer2/modorganizer) should have this feature: 
+1. Right-click anywhere in the mod list (left pane).
+1. Choose "Export to CSV" or "Export Mod List" (depending on your version of MO2).
+1. Save the exported file in your preferred location.
 
 ## The game is too dark
 Install [Gamma](https://www.nexusmods.com/morrowind/mods/53829). Don't forget to add 📄 Gamma.fx to MGE XE shaders and activate it.  
