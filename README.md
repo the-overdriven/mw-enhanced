@@ -11,6 +11,8 @@ What these docs are not:
 
 Think of it rather as "Morrowind power user FAQ"
 
+[Open](https://github.dev/the-overdriven/mw-enhanced/blob/main/README.md) this .md file in a side-by-side editor.
+
 ## How to get the best bug-free experience?
 Install [Morrowind Code Patch](https://www.nexusmods.com/morrowind/mods/19510) and [Patch for Purists](https://www.nexusmods.com/morrowind/mods/45096)  
 
