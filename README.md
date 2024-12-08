@@ -594,6 +594,9 @@ You can do on hotkey when you install [Kill Command](https://www.nexusmods.com/m
 Install [More Detailed Companion HealthBars MWSE Lua Script](https://www.nexusmods.com/morrowind/mods/51389)  
 Or [Companion Health Bars MWSE Lua Script](https://www.nexusmods.com/morrowind/mods/46136)
 
+## How to share equipment with followers?
+TODO
+
 ## Companions get lost occasionally
 Install [Easy Escort](https://www.nexusmods.com/morrowind/mods/45712)
 
