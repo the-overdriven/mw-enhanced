@@ -572,6 +572,9 @@ Other, AI-generated voices:
 [Great Service](https://www.nexusmods.com/morrowind/mods/47767)  
 [Idle Talk](https://www.nexusmods.com/morrowind/mods/46948)  
 [Its a Deal](https://www.nexusmods.com/morrowind/mods/47968)  
+
+more:  
+[Voice Overhaul](https://www.nexusmods.com/morrowind/mods/51215)  
 </details>
 
 ## Dialogues with NPCs are too repeatable
