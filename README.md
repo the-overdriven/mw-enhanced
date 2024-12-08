@@ -27,6 +27,7 @@ Forget about Morrowind Launcher. Use a mod organizer, such as [Wrye Mash](https:
 
 ## Are there any tools for automated .esp plugin load ordering?
 mlox, included in Wrye Mash.  
+Alternative: [plox](https://www.nexusmods.com/morrowind/mods/54262) - a rust re-write of MLOX  
 Alternative: [LOOT](https://loot.github.io/) - Load Order Optimisation Tool 
 
 ## Where can I find game logs?
