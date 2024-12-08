@@ -26,7 +26,7 @@ Forget about Morrowind Launcher. Use a mod organizer, such as [Wrye Mash](https:
 [MO2](https://github.com/ModOrganizer2/modorganizer), Morrowind Mod Organizer
 
 ## Any modern tools for solving mod conflicts?
-[Conflict Viewer](https://www.nexusmods.com/morrowind/mods/54108), a successor of [TES3View](https://www.nexusmods.com/morrowind/mods/54508)
+[Conflict Viewer](https://www.nexusmods.com/morrowind/mods/54108), a successor of [TES3View/xEdit](https://www.nexusmods.com/morrowind/mods/54508)
 
 ## Are there any tools for automated .esp plugin load ordering?
 mlox, included in Wrye Mash.  
