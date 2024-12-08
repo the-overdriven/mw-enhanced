@@ -691,7 +691,7 @@ Recommended together with [Small Quality of Life Improvements - MWSE](https://ww
 Install [No Auto Vanity Camera aka NoAutoVanityCam](https://www.nexusmods.com/morrowind/mods/48933)
 
 ## Game doesn't notify me explicitly enough that I started or finished a quest
-Install [Skyrim Style Quest Notifications aka SSQN](https://www.nexusmods.com/morrowind/mods/53175) and [Skyrim Style Quest Notifications - Legendary Edition](https://www.nexusmods.com/morrowind/mods/53712)
+Install [Skyrim Style Quest Notifications aka SSQN](https://www.nexusmods.com/morrowind/mods/53175), [Skyrim Style Quest Notifications - Legendary Edition](https://www.nexusmods.com/morrowind/mods/53712) and [Skyrim Style Quest Notifications Great Patch Hub](https://www.nexusmods.com/morrowind/mods/55480)
 
 ## Game doesn't notify me that someone died
 Install [Notifications](https://www.nexusmods.com/morrowind/mods/48600) + [Combat Log](https://www.nexusmods.com/morrowind/mods/54836)
