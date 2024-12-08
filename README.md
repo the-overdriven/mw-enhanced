@@ -16,7 +16,7 @@ Think of it rather as "Morrowind power user FAQ"
 Install [Morrowind Code Patch](https://www.nexusmods.com/morrowind/mods/19510) and [Patch for Purists](https://www.nexusmods.com/morrowind/mods/45096)  
 
 ## How do I actually run a modded game?
-Forget about Morrowind Launcher. Use a mod organizer, such as [Wrye Mash](https://www.nexusmods.com/morrowind/mods/45439). It includes the most important shortcuts, allows to reorder .esp plugins load order and includes other tools that can fix various issues:
+Forget about Morrowind Launcher. Use a mod organizer, such as [Wrye Mash](https://www.nexusmods.com/morrowind/mods/45439). It includes the most important shortcuts, allows to reorder .esp plugins load order, solve conflicts and includes other tools that can fix various issues:
 * tes3merge - produces the Morrowind equivalent of a bashed patch
 * merged lands - can fix a lot of landscape issues from mods with minor landscape conflicts
 * mlox - can give advice on mod load order, or sort it for you
@@ -24,6 +24,9 @@ Forget about Morrowind Launcher. Use a mod organizer, such as [Wrye Mash](https:
 
 ## Are there any other mod managers, more modern and robust than Wrye Mash?
 [MO2](https://github.com/ModOrganizer2/modorganizer), Morrowind Mod Organizer
+
+## Any modern tools for solving mod conflicts?
+[Conflict Viewer](https://www.nexusmods.com/morrowind/mods/54108), a successor of [TES3View](https://www.nexusmods.com/morrowind/mods/54508)
 
 ## Are there any tools for automated .esp plugin load ordering?
 mlox, included in Wrye Mash.  
