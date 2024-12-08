@@ -371,6 +371,9 @@ Install [Sneaky Snatcher](https://www.nexusmods.com/morrowind/mods/55369)
 ## Sneaky strike doesn't take weapon type into account
 Install [Sneaky Strike](https://www.nexusmods.com/morrowind/mods/48317)
 
+## The right column of the charsheet is too long compared to the left one
+Install [Tidy Charsheet](https://www.nexusmods.com/morrowind/mods/52776)
+
 ## [Balance] When leveling, HP gain is not retroactive, which incentivizes focusing on Endurance early game. Excess progress and multiplier bonus are also sometimes wasted.
 Install [Improved Vanilla Leveling](https://www.nexusmods.com/morrowind/mods/48065) (fixes retroactive health, multipliers and how XP carry-over contributes to attributes)  
 XP carry-over fix (unrelated to attribute gain): [Experience Carryover](https://www.nexusmods.com/morrowind/mods/53972)  
@@ -563,7 +566,8 @@ Install AI-generated [Kezyma's Voices of Vvardenfell](https://www.nexusmods.com/
 Other, AI-generated voices:  
 [Ashlander Voices](https://www.nexusmods.com/morrowind/mods/53863)  
 [Vivec](https://www.nexusmods.com/morrowind/mods/52333)  
-[Yagrum Bagarn](https://www.nexusmods.com/morrowind/mods/52344)  
+[Yagrum Bagarn](https://www.nexusmods.com/morrowind/mods/52344)
+[Voiced Vivec and Yakety Yagrum - Merged and Improved](https://www.nexusmods.com/morrowind/mods/53098) (not AI)
 [Davyth Fyr](https://www.nexusmods.com/morrowind/mods/52343)  
 [The Wisest Women](https://www.nexusmods.com/morrowind/mods/52353)  
 [Nordic Banter](https://www.nexusmods.com/morrowind/mods/53715)  
