@@ -5,7 +5,6 @@ Morrowind stands as a masterpiece of gaming, its enduring legacy enriched by ove
 What these docs are not:
 - not a guide you have to read from cover to cover, you can solve each issue separately, in any order  
 - not a modlist, it expands from the context of specific issues and sometimes a possible solution is installing a mod, but not always  
-- doesn't cover all QoL mods, as those less essential, that are nice-to-have will be listed in a separate modlist repository  
 - doesn't mention any shaders and mesh/texture replacers for purely aesthethic experience, there will be a separate repository for that
 - doesn't mention any content and overhaul mods
 
