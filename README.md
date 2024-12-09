@@ -15,7 +15,7 @@ Think of it rather as "Morrowind power user FAQ"
 ## How to get the best bug-free experience?
 Install [Morrowind Code Patch](https://www.nexusmods.com/morrowind/mods/19510) and [Patch for Purists](https://www.nexusmods.com/morrowind/mods/45096)  
 For official plugins: [Unofficial Morrowind Official Plugins Patched](https://www.nexusmods.com/morrowind/mods/43931) and [Bethesda Official Plugins Naturalized](https://www.nexusmods.com/morrowind/mods/51107)  
-More: [Doors Anti Stuck](https://www.nexusmods.com/morrowind/mods/50931)
+More: [Doors Anti Stuck](https://www.nexusmods.com/morrowind/mods/50931), [Improved Temple Experience](https://www.nexusmods.com/morrowind/mods/49373), [The Publicans](https://www.nexusmods.com/morrowind/mods/45410), [Under Construction](https://www.nexusmods.com/morrowind/mods/50285), [Creature VFX Restoration](https://www.nexusmods.com/morrowind/mods/46194), [Correct UV Mudcrabs](https://www.nexusmods.com/morrowind/mods/42130), [Better Scamps](https://www.nexusmods.com/morrowind/mods/48008)
 
 ## How do I actually run a modded game?
 Forget about Morrowind Launcher. Use a mod organizer, such as [Wrye Mash](https://www.nexusmods.com/morrowind/mods/45439). It includes the most important shortcuts, allows to reorder .esp plugins load order, solve conflicts and includes other tools that can fix various issues:
@@ -578,7 +578,7 @@ Other, AI-generated voices:
 [Nordic Banter](https://www.nexusmods.com/morrowind/mods/53715)  
 [Friends Reunited](https://www.nexusmods.com/morrowind/mods/53601)  
 [Quest Voice Greetings](https://www.nexusmods.com/morrowind/mods/52273)  
-[Great Service](https://www.nexusmods.com/morrowind/mods/47767)  
+[Great Service](https://www.nexusmods.com/morrowind/mods/47767) (unused, not AI)  
 [Idle Talk](https://www.nexusmods.com/morrowind/mods/46948)  
 [Its a Deal](https://www.nexusmods.com/morrowind/mods/47968)  
 
