@@ -613,7 +613,9 @@ Install [More Detailed Companion HealthBars MWSE Lua Script](https://www.nexusmo
 Or [Companion Health Bars MWSE Lua Script](https://www.nexusmods.com/morrowind/mods/46136)
 
 ## How to share equipment with followers?
-TODO
+[NPC Functionality (2008)](https://www.nexusmods.com/morrowind/mods/49563)  
+[Open Inventories (2009)](https://www.nexusmods.com/morrowind/mods/23197)  
+[Smart Companions](https://www.nexusmods.com/morrowind/mods/49848)
 
 ## Companions get lost occasionally
 Install [Easy Escort](https://www.nexusmods.com/morrowind/mods/45712)
