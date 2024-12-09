@@ -777,7 +777,7 @@ Or: [HeartStrings](https://www.nexusmods.com/morrowind/mods/52965). Or: [my fork
 
 ## Is there a music mod that resumes the previous track when transitioning the theme? For example: switching from a wilderness theme to a battle theme and then back to the wilderness theme would play the same track, as it played before the transition (instead of moving on to next track)
 
-No, but I [forked](https://github.com/the-overdriven/mw-HeartStrings) Heartstrings and added this feature.
+No, but I [forked](https://github.com/the-overdriven/mw-HeartStrings) Heartstrings and added this feature. It also prevents repeating the same track.
 
 ## How to track mod updates on Nexus?
 
