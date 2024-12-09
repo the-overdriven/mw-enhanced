@@ -285,7 +285,7 @@ For quicker hotkey assignment: [QuickKey Outlander - MWSE](https://www.nexusmods
 F5 to save, F9 to load
 
 ## When quick-saving will it save on multiple slots?
-No. You'd have install [Sophisticated Save System](https://www.nexusmods.com/morrowind/mods/45608) for that. It adds autosave as well (including save every x minutes)
+No. You'd have to install [Sophisticated Save System](https://www.nexusmods.com/morrowind/mods/45608) for that. It adds autosave as well (including automatic save every x minutes).
 
 ## The game doesn't show sheated weapons
 Install [Weapon Sheating](https://www.nexusmods.com/morrowind/mods/46069)
