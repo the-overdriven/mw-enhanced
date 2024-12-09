@@ -14,6 +14,7 @@ Think of it rather as "Morrowind power user FAQ"
 
 ## How to get the best bug-free experience?
 Install [Morrowind Code Patch](https://www.nexusmods.com/morrowind/mods/19510) and [Patch for Purists](https://www.nexusmods.com/morrowind/mods/45096)  
+For official plugins: [Unofficial Morrowind Official Plugins Patched](https://www.nexusmods.com/morrowind/mods/43931) and [Bethesda Official Plugins Naturalized](https://www.nexusmods.com/morrowind/mods/51107)
 
 ## How do I actually run a modded game?
 Forget about Morrowind Launcher. Use a mod organizer, such as [Wrye Mash](https://www.nexusmods.com/morrowind/mods/45439). It includes the most important shortcuts, allows to reorder .esp plugins load order, solve conflicts and includes other tools that can fix various issues:
