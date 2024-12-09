@@ -25,7 +25,8 @@ Forget about Morrowind Launcher. Use a mod organizer, such as [Wrye Mash](https:
 * tes3cmd - a cleaning tool, very very useful but a bit more advanced and less immediately necessary for you
 
 ## Are there any other mod managers, more modern and robust than Wrye Mash?
-[MO2](https://github.com/ModOrganizer2/modorganizer), Morrowind Mod Organizer
+[MO2](https://github.com/ModOrganizer2/modorganizer), Morrowind Mod Organizer  
+Not recommended: Vortex, Wabbajack
 
 ## Any modern tools for solving mod conflicts?
 [Conflict Viewer](https://www.nexusmods.com/morrowind/mods/54108), a successor of [TES3View/xEdit](https://www.nexusmods.com/morrowind/mods/54508)
