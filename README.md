@@ -582,6 +582,7 @@ Other, AI-generated voices:
 [Great Service](https://www.nexusmods.com/morrowind/mods/47767) (unused, not AI)  
 [Idle Talk](https://www.nexusmods.com/morrowind/mods/46948)  
 [Its a Deal](https://www.nexusmods.com/morrowind/mods/47968)  
+[Real Disposition](https://www.nexusmods.com/morrowind/mods/51427)  
 
 more:  
 [Voice Overhaul](https://www.nexusmods.com/morrowind/mods/51215)  
