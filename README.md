@@ -345,7 +345,8 @@ Install [Hidden Robe Armor](https://www.nexusmods.com/morrowind/mods/48425)
 Install [Know Thy Ancestors](https://www.nexusmods.com/morrowind/mods/49678)
 
 ## Looting is clunky, too much clicking
-Install [QuickLoot](https://www.nexusmods.com/morrowind/mods/46283). Recommended to use with [Morrowind Containers Animated - Edited for Quickloot](https://www.nexusmods.com/morrowind/mods/49297).
+Install [QuickLoot](https://www.nexusmods.com/morrowind/mods/46283). Recommended to use with [Morrowind Containers Animated - Edited for Quickloot](https://www.nexusmods.com/morrowind/mods/49297).  
+QuickLoot successor: [More QuickLoot](https://www.nexusmods.com/morrowind/mods/53809) (allows skipping junk, includes weight and value in the popup)
 
 ## I'm annoyed by all the game popups
 Install [Auto Yes to All](https://www.nexusmods.com/morrowind/mods/48863)
