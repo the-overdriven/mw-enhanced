@@ -353,6 +353,9 @@ Install [Auto Yes to All](https://www.nexusmods.com/morrowind/mods/48863)
 ## Is there an auto-load mod?
 Yes, install [Instant Load](https://www.nexusmods.com/morrowind/mods/48907)
 
+## Is there any way to mark visited locations?
+Install [Been There Done That](https://www.nexusmods.com/morrowind/mods/52807) and/or [Chalk](https://www.nexusmods.com/morrowind/mods/54043)
+
 ## [Balance] Bounty on your head should be gone when you kill all witnesses
 Install [The Last Witness](https://www.nexusmods.com/morrowind/mods/46684)  
 Alternative: [No Witness - No Bounty aka NWNC](https://www.nexusmods.com/morrowind/mods/53384)
