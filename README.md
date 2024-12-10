@@ -15,7 +15,7 @@ Think of it rather as "Morrowind power user FAQ"
 ## How to get the best bug-free experience?
 Install [Morrowind Code Patch](https://www.nexusmods.com/morrowind/mods/19510) and [Patch for Purists](https://www.nexusmods.com/morrowind/mods/45096)  
 For official plugins: [Unofficial Morrowind Official Plugins Patched](https://www.nexusmods.com/morrowind/mods/43931) and [Bethesda Official Plugins Naturalized](https://www.nexusmods.com/morrowind/mods/51107)  
-More: [Doors Anti Stuck](https://www.nexusmods.com/morrowind/mods/50931), [Improved Temple Experience](https://www.nexusmods.com/morrowind/mods/49373), [The Publicans](https://www.nexusmods.com/morrowind/mods/45410), [Under Construction](https://www.nexusmods.com/morrowind/mods/50285), [Creature VFX Restoration](https://www.nexusmods.com/morrowind/mods/46194), [Correct UV Mudcrabs](https://www.nexusmods.com/morrowind/mods/42130), [Better Scamps](https://www.nexusmods.com/morrowind/mods/48008)
+More: [Doors Anti Stuck](https://www.nexusmods.com/morrowind/mods/50931), [Improved Temple Experience](https://www.nexusmods.com/morrowind/mods/49373), [The Publicans](https://www.nexusmods.com/morrowind/mods/45410), [Under Construction](https://www.nexusmods.com/morrowind/mods/50285), [Creature VFX Restoration](https://www.nexusmods.com/morrowind/mods/46194), [Correct UV Mudcrabs](https://www.nexusmods.com/morrowind/mods/42130), [Better Scamps](https://www.nexusmods.com/morrowind/mods/48008), [Jammings Off]([Jammings of](https://www.nexusmods.com/morrowind/mods/44523)
 
 ## How do I actually run a modded game?
 Forget about Morrowind Launcher. Use a mod organizer, such as [Wrye Mash](https://www.nexusmods.com/morrowind/mods/45439). It includes the most important shortcuts, allows to reorder .esp plugins load order, solve conflicts and includes other tools that can fix various issues:
@@ -310,6 +310,9 @@ TODO
 ## After using a grass mod, I end up with mispositioned, clipping grass
 Install [The LawnMower for Morrowind](https://www.nexusmods.com/morrowind/mods/53034)
 
+## Is there a mod to share hair styles between mer races?
+[Hair Expander](https://www.nexusmods.com/morrowind/mods/52922)
+
 ## Why I cannot rest in cities?
 Install [Actual Illegal Resting](https://www.nexusmods.com/morrowind/mods/51804)
 
@@ -587,6 +590,8 @@ Other, AI-generated voices:
 [Real Disposition](https://www.nexusmods.com/morrowind/mods/51427)  
 [So. You're the Nerevarine.](https://www.nexusmods.com/morrowind/mods/46896) (unused, not AI)  
 [FMBP - Greet Service](https://www.nexusmods.com/morrowind/mods/50937) (unused, not AI)
+[Nordic Banter](https://www.nexusmods.com/morrowind/mods/53715)  
+[Sermons and Preachers Vanilla edit](https://www.nexusmods.com/morrowind/mods/53294)  
 
 more:  
 [Voice Overhaul](https://www.nexusmods.com/morrowind/mods/51215)  
