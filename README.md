@@ -584,6 +584,7 @@ Other, AI-generated voices:
 [Idle Talk](https://www.nexusmods.com/morrowind/mods/46948)  
 [Its a Deal](https://www.nexusmods.com/morrowind/mods/47968)  
 [Real Disposition](https://www.nexusmods.com/morrowind/mods/51427)  
+[So. You're the Nerevarine.](https://www.nexusmods.com/morrowind/mods/46896) (unused, not AI)  
 
 more:  
 [Voice Overhaul](https://www.nexusmods.com/morrowind/mods/51215)  
