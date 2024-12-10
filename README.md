@@ -276,7 +276,7 @@ To close books and scrolls without closing the inventory, [Morrowind Code Patch]
 
 ## Any chargen mods to speed up or diversify character creation process?
 [Quick Character Creation](https://www.nexusmods.com/morrowind/mods/50381)  
-TODO
+[Skip Tutorial (2009)](https://www.nexusmods.com/morrowind/mods/27266)  
 
 ## How do I use Quick Keys in Morrowind?
 Press F1. You can install [QuickKeys Hotbar](https://www.nexusmods.com/morrowind/mods/51192) to see all your hotkeys in the HUD.  
@@ -512,7 +512,8 @@ Install [Tribunal Delayed](https://www.nexusmods.com/morrowind/mods/33973/) or [
 ## I'm encumbered all the time
 Install [Encumberance increaser](https://www.nexusmods.com/morrowind/mods/28213) and/or [Bag of Holding](https://www.nexusmods.com/morrowind/mods/47778).  
 Nice to have to monitor encumbrance: [HUD Encumbrance Bar](https://www.nexusmods.com/morrowind/mods/49608)  
-Other: [Units and Vagueness](https://www.nexusmods.com/morrowind/mods/49046)
+Other: [Units and Vagueness](https://www.nexusmods.com/morrowind/mods/49046)  
+Alternative: [Weight of the World](https://www.nexusmods.com/morrowind/mods/51195)  
 
 ## NPCs are shouting when I'm stealing but do nothing
 Install [No NPC Shouting at 0 Alarm](https://www.nexusmods.com/morrowind/mods/53837)
