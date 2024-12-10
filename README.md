@@ -436,7 +436,8 @@ Install [Keepers](https://www.nexusmods.com/morrowind/mods/51821) to prevent it 
 * MXPS - Morrowind Experience Point System (MWSE): [click](https://www.nexusmods.com/morrowind/mods/53870), alternative: MULE, or CCCP
 * [BTB's Game Improvements (Necro Edit) Tweaked](https://www.nexusmods.com/morrowind/mods/50308) - BTB's Game Improvements with Necrolesian's and Sigourn's edits. A lot of tweaks: rebalances races, birthsigns, ingredients, magic (some effects disabled to prevent exploits), NPCs have new spells, lowered value of overpriced items, overhauled enchantments (i.e. it's no longer possible to self-enchant items, or to make custom constant effect enchantments), overhauled skill progression
 * Recommended with BTBGI: [Fortify MAX](https://www.nexusmods.com/morrowind/mods/49825), [Economy Adjuster: Crime](https://www.nexusmods.com/morrowind/mods/47130), [Enhanced Detection Lite](https://www.nexusmods.com/morrowind/mods/48471), [Nimble Armor](https://www.nexusmods.com/morrowind/mods/48251), [Lua Lockbashing](https://www.nexusmods.com/morrowind/mods/48544), [Hold Your Breath](https://www.nexusmods.com/morrowind/mods/48872)
-* Limited Resting, Waiting and Regen - [click](https://www.nexusmods.com/morrowind/mods/49191) or [No Rest Without Beds](https://www.nexusmods.com/morrowind/mods/46724) 
+* Limited Resting, Waiting and Regen - [click](https://www.nexusmods.com/morrowind/mods/49191) or [No Rest Without Beds](https://www.nexusmods.com/morrowind/mods/46724)
+* Intruder - No Trespassing Mod - [click](https://www.nexusmods.com/morrowind/mods/55223)  
 
 Enemies  
 * Make enemy react quicker and fight better: [click](https://github.com/the-overdriven/morrowind-issues-and-fixes/tree/main?tab=readme-ov-file#enemies-react-too-late-and-they-stand-still-when-fighting)
