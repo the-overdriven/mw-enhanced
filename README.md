@@ -310,6 +310,9 @@ TODO
 ## After using a grass mod, I end up with mispositioned, clipping grass
 Install [The LawnMower for Morrowind](https://www.nexusmods.com/morrowind/mods/53034)
 
+## Is there a mod to unlock more faces and hair styles?
+[Freedom of Aesthetics](https://www.nexusmods.com/morrowind/mods/31167)
+
 ## Is there a mod to share hair styles between mer races?
 [Hair Expander](https://www.nexusmods.com/morrowind/mods/52922)
 
