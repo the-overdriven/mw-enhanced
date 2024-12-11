@@ -302,7 +302,7 @@ Cooking multiple potions at once: [Alchemy Cauldron - Multiple Potions at Once -
 [Visible Alchemy Success Chance](https://www.nexusmods.com/morrowind/mods/48608)
 
 ## Traders don't want to trade with me, because I have illegal goods (i.e. skooma)
-Install [Lore-friendly Trade Restrictions](https://www.nexusmods.com/morrowind/mods/50112)
+Install [Lore-friendly Trade Restrictions](https://www.nexusmods.com/morrowind/mods/50112) aka ketsTrade
 
 ## How to tell how much in the end a given potion or spell will restore points?
 TODO
