@@ -108,6 +108,9 @@ Optional:
 - [I Lava Good Mesh Replacer](https://www.nexusmods.com/morrowind/mods/49605)
 </details>
 
+## Any way I can change the game's font?
+TODO  
+
 ## I see jagged flickering lines at night
 Turn OFF anti-aliasing in MGE XE settings.
 
