@@ -8,7 +8,7 @@ What these docs are not:
 - doesn't mention any shaders and mesh/texture replacers for purely aesthethic experience, there will be a separate repository for that
 - doesn't mention any content and overhaul mods
 
-Think of it rather as "Morrowind power user FAQ"
+Most importantly, it provides *options* in an effort to avoid being overly opinionated. Think of it rather as "Morrowind power user FAQ".
 
 [Open](https://github.dev/the-overdriven/mw-enhanced/blob/main/README.md) this .md file in a side-by-side editor.
 
@@ -289,7 +289,7 @@ For quicker hotkey assignment: [QuickKey Outlander - MWSE](https://www.nexusmods
 ## Are there hotkeys to save and load?
 F5 to save, F9 to load
 
-## When quick-saving will it save on multiple slots?
+## Will quick-saving save on multiple slots?
 No. You'd have to install [Sophisticated Save System](https://www.nexusmods.com/morrowind/mods/45608) for that. It adds autosave as well (including automatic save every x minutes).
 
 ## The game doesn't show sheated weapons
@@ -331,7 +331,8 @@ Similar mod for boats: [All Boat Ports Plugin](https://www.nexusmods.com/morrowi
 Install [No Respawns](https://www.nexusmods.com/morrowind/mods/53853), or GMST Menu and set `iMonthsToRespawn` to whatever time you want
 
 ## [Balance] Difficulty (some enemies) scale with level, I want more challenges early game
-Install [OperatorJack's Deleveler](https://www.nexusmods.com/morrowind/mods/47897)  
+[No Respawns](https://www.nexusmods.com/morrowind/mods/53853) provides this option as well.  
+[OperatorJack's Deleveler](https://www.nexusmods.com/morrowind/mods/47897) will also delevel item lists.
 
 ## [Balance] Enemies react too late and they stand still when fighting
 Install [PvP](https://www.nexusmods.com/morrowind/mods/51034)
@@ -727,7 +728,7 @@ Install [No Auto Vanity Camera aka NoAutoVanityCam](https://www.nexusmods.com/mo
 Install [Skyrim Style Quest Notifications aka SSQN](https://www.nexusmods.com/morrowind/mods/53175), [Skyrim Style Quest Notifications - Legendary Edition](https://www.nexusmods.com/morrowind/mods/53712) and [Skyrim Style Quest Notifications Great Patch Hub](https://www.nexusmods.com/morrowind/mods/55480)
 
 ## Game doesn't notify me that someone died
-Install [Notifications](https://www.nexusmods.com/morrowind/mods/48600) + [Combat Log](https://www.nexusmods.com/morrowind/mods/54836)
+Install [Notifications](https://www.nexusmods.com/morrowind/mods/48600)  
 
 ## Where is the medium armor trainer?
 There is none, Bethesda forgot to add it. Install [Cinia](https://www.nexusmods.com/morrowind/mods/47153)
