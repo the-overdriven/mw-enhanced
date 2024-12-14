@@ -349,7 +349,10 @@ Install [All Silt Strider Ports](https://www.nexusmods.com/morrowind/mods/43796)
 Similar mod for boats: [All Boat Ports Plugin](https://www.nexusmods.com/morrowind/mods/946)
 
 ## Killed enemies respawn like in some kind of MMO
-Install [No Respawns](https://www.nexusmods.com/morrowind/mods/53853), or GMST Menu and set `iMonthsToRespawn` to whatever time you want
+Install [No Respawns](https://www.nexusmods.com/morrowind/mods/53853)
+
+## How can I adjust the respawn rate of plants
+In [GMST Menu](https://www.nexusmods.com/morrowind/mods/46428) set `iMonthsToRespawn`  
 
 ## [Balance] Difficulty (some enemies) scale with level, I want more challenges early game
 [No Respawns](https://www.nexusmods.com/morrowind/mods/53853) provides this option as well.  
