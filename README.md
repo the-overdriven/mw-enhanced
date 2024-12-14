@@ -449,7 +449,7 @@ Install [Keepers](https://www.nexusmods.com/morrowind/mods/51821) to prevent it 
 * Intruder - No Trespassing Mod - [click](https://www.nexusmods.com/morrowind/mods/55223)  
 
 Enemies  
-* Make enemy react quicker and fight better: [click](https://github.com/the-overdriven/morrowind-issues-and-fixes/tree/main?tab=readme-ov-file#enemies-react-too-late-and-they-stand-still-when-fighting)
+* Make enemy react quicker and fight better: [click](https://github.com/the-overdriven/mw-enhanced/tree/main?tab=readme-ov-file#balance-enemies-react-too-late-and-they-stand-still-when-fighting))
 * More Deadly Morrowind Denizens: [click](https://www.nexusmods.com/morrowind/mods/48745)
 * Vanilla friendly creatures and undeads expansion: [click](https://www.nexusmods.com/morrowind/mods/48818)
 * OAAB - Tombs and Towers: [click](https://www.nexusmods.com/morrowind/mods/49131)
