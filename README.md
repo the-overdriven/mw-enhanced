@@ -78,6 +78,10 @@ Install [Expeditious Exit](https://www.nexusmods.com/morrowind/mods/45634)
 ## Everything in game is too small. Fonts, UI, etc.
 Open MGE XE settings and adjust the Menu UI scaling to your liking. Depending on game's resolution I find 1.20 - 1.50 values most optimal.
 
+## Any way I can change the game's font?
+TODO  
+For now use [Beauty Font](https://www.nexusmods.com/morrowind/mods/49201)
+
 ## I get low FPS (i.e. in cities, Vivec exteriors)
 <details>
   <summary>(click to expand)</summary>
@@ -107,9 +111,6 @@ Optional:
 - [Turn Normal Grass and Kelp into Groundcover](https://www.nexusmods.com/morrowind/mods/52010)
 - [I Lava Good Mesh Replacer](https://www.nexusmods.com/morrowind/mods/49605)
 </details>
-
-## Any way I can change the game's font?
-TODO  
 
 ## I see jagged flickering lines at night
 Turn OFF anti-aliasing in MGE XE settings.
