@@ -284,7 +284,8 @@ To close books and scrolls without closing the inventory, [Morrowind Code Patch]
 
 ## How do I use Quick Keys in Morrowind?
 Press F1. You can install [QuickKeys Hotbar](https://www.nexusmods.com/morrowind/mods/51192) to see all your hotkeys in the HUD.  
-For quicker hotkey assignment: [QuickKey Outlander - MWSE](https://www.nexusmods.com/morrowind/mods/50997)
+For quicker hotkey assignment: [QuickKey Outlander - MWSE](https://www.nexusmods.com/morrowind/mods/50997)  
+If you need more hotkeys: [Hotkeys Extended](https://www.nexusmods.com/morrowind/mods/48055)  
 
 ## Are there hotkeys to save and load?
 F5 to save, F9 to load
