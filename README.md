@@ -36,6 +36,8 @@ Add exectuable to Binary "C:\Windows\System32\cmd.exe" with Arguments:
 ```
 This way clicking on "Run" copies (with xcopy) only the changed files from the virtual file system managed by MO2 and runs the copied game detached from MO2 (by running it with explorer), all in one command. Alternatively, one can run Morrowind.exe manually after copying of all the files is finished.
 
+Why make a copy? Backup (in case something goes wrong with the game), performance (MO's VFS adds an additional layer), and control: you can see exactly which files have been added since the last mod installation, and having access to physical files allows to open the mods' assets and set physical paths to them in Nifskope/Blender. Some mods might also not work correctly when running the game via MO2.
+
 ## Any modern tools for solving mod conflicts?
 [Conflict Viewer](https://www.nexusmods.com/morrowind/mods/54108), a successor of [TES3View/xEdit](https://www.nexusmods.com/morrowind/mods/54508)
 
