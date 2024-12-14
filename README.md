@@ -724,7 +724,7 @@ Some mods break it (Character Sound Overhaul and Impact Sounds - I'm looking at 
 Recommended together with [Small Quality of Life Improvements - MWSE](https://www.nexusmods.com/morrowind/mods/53905), which includes a component preventing repeating same combat voice-overs repeatedly (I Heard You The First Time!)
 
 ## How to silence your character's groans?
-Not mod at the moment, but [Hit Sound Overhaul](https://www.nexusmods.com/morrowind/mods/55049) can help with misplaced groans. Also: [Voice Overhaul](https://www.nexusmods.com/morrowind/mods/51215)  
+No mod that mutes that at the moment, but [Hit Sound Overhaul](https://www.nexusmods.com/morrowind/mods/55049) can help with misplaced groans. Also: [Voice Overhaul](https://www.nexusmods.com/morrowind/mods/51215)  
 Related: [Mute High-Pitched Hit Sounds](https://www.nexusmods.com/morrowind/mods/53764)  
 
 ## How to disable vanity camera? (the one that turns on after 30 seconds) 
