@@ -29,11 +29,12 @@ Forget about Morrowind Launcher. Use a mod organizer, such as [Wrye Mash](https:
 Not recommended: Vortex, Wabbajack
 
 ## How to make a copy of the game from MO2 and run that copy from MO2?
-To copy only the changed files and run the copy of the game from MO2 (but detached from MO2):  
+To copy only the changed files (including files from MO's virtual file system) and run the copy of the game from MO2 (but detached from MO2):  
 Add exectuable to Binary "C:\Windows\System32\cmd.exe" with Arguments:  
 ```batch
 /c "cd /d "(game dir)" && xcopy .\* "(game dir copy)" /D /E /H /Y && cd /d "(game dir copy)" && start explorer.exe ""(link to Morrowind.exe in copied game dir)"" && exit"
 ```
+This way clicking on "Run" copies only the changed files from the file system managed by MO2 and runs the copied game detached from MO2 (by running it with explorer)
 
 ## Any modern tools for solving mod conflicts?
 [Conflict Viewer](https://www.nexusmods.com/morrowind/mods/54108), a successor of [TES3View/xEdit](https://www.nexusmods.com/morrowind/mods/54508)
