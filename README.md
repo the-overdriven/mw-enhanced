@@ -435,7 +435,7 @@ Install [Rational Names Lite](https://www.nexusmods.com/morrowind/mods/51241).
 Nice to have: [Inventory Sorter](https://www.nexusmods.com/morrowind/mods/54637?tab=posts) (not possible to save the sorting, though)
 
 ## I've got rid of an important item
-Install [Keepers](https://www.nexusmods.com/morrowind/mods/51821) to prevent it in the future
+Install [Keepers](https://www.nexusmods.com/morrowind/mods/51821) to prevent it in the future (suffixes quest items with "!")  
 
 ## [Balance] The game is too easy, how to make it harder?
 * Controlled Consumption: [click](https://github.com/the-overdriven/morrowind-issues-and-fixes/tree/main#being-able-to-chug-multiple-potions-at-the-same-time-is-too-op-alchemy-is-too-op-in-general)
