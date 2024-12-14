@@ -34,7 +34,7 @@ Add exectuable to Binary "C:\Windows\System32\cmd.exe" with Arguments:
 ```batch
 /c "cd /d "(game dir)" && xcopy .\* "(game dir copy)" /D /E /H /Y && cd /d "(game dir copy)" && start explorer.exe ""(link to Morrowind.exe in copied game dir)"" && exit"
 ```
-This way clicking on "Run" copies only the changed files from the file system managed by MO2 and runs the copied game detached from MO2 (by running it with explorer)
+This way clicking on "Run" copies (with xcopy) only the changed files from the virtual file system managed by MO2 and runs the copied game detached from MO2 (by running it with explorer), all in one command. Alternatively, one can run Morrowind.exe manually after copying of all the files is finished.
 
 ## Any modern tools for solving mod conflicts?
 [Conflict Viewer](https://www.nexusmods.com/morrowind/mods/54108), a successor of [TES3View/xEdit](https://www.nexusmods.com/morrowind/mods/54508)
