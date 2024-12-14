@@ -150,8 +150,12 @@ Install [Wrye Mash](https://www.nexusmods.com/morrowind/mods/45439?tab=docs). Fo
 TL;DR: for me selecting the problematic esp in the Mods tab and right-clicking on its masters on right side to update them fixes it. Moving the esp in the modlist helps too.
 
 ## What does updating the master list actually do?
+<details>
+  <summary>(click to expand)</summary>
+	
 "In practice it only updates the master sizes in the mod header so the message does not appear any more, so yes, you could just ignore it and keep playing with the same result in practice. The big BUT is:
 often times having different master sizes means also that master references changed, and in that case you could have broken references you should fix to the best of your ability (e.g. applying Mash updaters procedure). If you keep playing ignoring masters size change warnings you will never check for this kind of problems hence you could have usual references problems (doors/other objects disappearing/not changing when they should etc.)" - abot
+</details>
 
 ## I would like to know what is my current modlist
 Install [Mod List](https://www.nexusmods.com/morrowind/mods/50214), find the mod in the Mod Config list and click on it. Copy+paste to any text editor.  
