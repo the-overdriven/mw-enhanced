@@ -894,6 +894,4 @@ Not necessarily essential and fixing any glaring issues, but can improve the gam
 * [UI Expansion Better Training Icons](https://www.nexusmods.com/morrowind/mods/51190)
 * [AURA](https://www.nexusmods.com/morrowind/mods/48255) (adds ambient sounds)
 * [Watch the Skies - Dynamic Weather and Sky Effects](https://www.nexusmods.com/morrowind/mods/48636)
-* [Magican't](https://www.nexusmods.com/morrowind/mods/50990)
-* [Zoom](https://www.nexusmods.com/morrowind/mods/53474)
-* 
+* [Magican't](https://www.nexusmods.com/morrowind/mods/50990) 
