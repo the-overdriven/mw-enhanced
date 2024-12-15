@@ -697,7 +697,7 @@ Install [More Exclusive Factions](https://www.nexusmods.com/morrowind/mods/49618
 Install [More Attentive Guards](https://www.nexusmods.com/morrowind/mods/48622). Caution, has a bug: "Every time I attack in self defense, I get reported and attacked"
 
 For companions: install [Diligent Defenders](https://www.nexusmods.com/morrowind/mods/45717)  
-Deleted [Supreme Follower System](https://www.nexusmods.com/morrowind/mods/45599?tab=files&file_id=1000030142) (direct file link)
+Deleted [Supreme Follower System](https://www.nexusmods.com/morrowind/mods/45599?tab=files&file_id=1000030142) (direct file link)  
 Other companion mods: [article by Danae](https://danaeplays.thenet.sk/companion-modsi/)
 
 ## How to tell my followers (companions and summons) who to attack? 
