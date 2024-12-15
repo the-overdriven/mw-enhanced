@@ -316,6 +316,9 @@ To close books and scrolls without closing the inventory, [Morrowind Code Patch]
 [Chargen Revamped - Expanded Lands Complete - 2024](https://www.nexusmods.com/morrowind/mods/54646)  
 [An Unexpected Start](https://www.nexusmods.com/morrowind/mods/53514)
 
+## During chargen when selecting the race it's unclear what will be my starting attributes
+Install [What Are My Attributes](https://www.nexusmods.com/morrowind/mods/49912)
+
 ## How do I use Quick Keys in Morrowind?
 Press F1. You can install [QuickKeys Hotbar](https://www.nexusmods.com/morrowind/mods/51192) to see all your hotkeys in the HUD.  
 For quicker hotkey assignment: [QuickKey Outlander - MWSE](https://www.nexusmods.com/morrowind/mods/50997)  
