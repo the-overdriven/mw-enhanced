@@ -601,6 +601,9 @@ Install
 * [NPC Schedule](https://www.nexusmods.com/morrowind/mods/45525) or [Lightweight Lua Scheduling](https://www.nexusmods.com/morrowind/mods/48584)  
 * [Lightweight Lua Scheduling](https://www.nexusmods.com/morrowind/mods/48584)  
 
+## Once NPC attacks it's impossible to calm them (permanently)
+Install [Permanent Calm - Pacifist Option Apologize Befriend Bandit and Beasts Calm Down](https://www.nexusmods.com/morrowind/mods/51737)  
+
 ## I'm blocked by NPC standing in the way
 Install [Just Move](https://www.nexusmods.com/morrowind/mods/53340)  
 
