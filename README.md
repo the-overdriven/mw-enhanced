@@ -314,7 +314,8 @@ To close books and scrolls without closing the inventory, [Morrowind Code Patch]
 [Quick Character Creation](https://www.nexusmods.com/morrowind/mods/50381) - same as in vanilla but with tedious parts skipped  
 [Skip Tutorial (2009)](https://www.nexusmods.com/morrowind/mods/27266)  
 [Chargen Revamped - Expanded Lands Complete - 2024](https://www.nexusmods.com/morrowind/mods/54646)  
-[An Unexpected Start](https://www.nexusmods.com/morrowind/mods/53514)
+[An Unexpected Start](https://www.nexusmods.com/morrowind/mods/53514)  
+[Quick Char (Necro Edit)](https://www.nexusmods.com/morrowind/mods/47706)  
 
 ## During chargen when selecting the race it's unclear what will be my starting attributes
 Install [What Are My Attributes](https://www.nexusmods.com/morrowind/mods/49912)
