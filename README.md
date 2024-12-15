@@ -537,7 +537,8 @@ Enemies
 (idea) One way to fix it, could be to make all trainers still able to teach skills but not more than 1-5 levels (per each trainer), so visiting them would still be worthwile.
 
 ## NPC are too repeatable
-Install [NPC Clothes Randomizer - MWSE](https://www.nexusmods.com/morrowind/mods/54064)
+Install [NPC Clothes Randomizer - MWSE](https://www.nexusmods.com/morrowind/mods/54064)  
+Install [More Heads and Diversity](https://www.nexusmods.com/morrowind/mods/47213) and [More Heads and Diversity MWSE](https://www.nexusmods.com/morrowind/mods/48429)
 
 ## How can I soul trap NPCs?
 Install [Seph's NPC Soul Trapping](https://www.nexusmods.com/morrowind/mods/50744)
