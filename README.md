@@ -51,6 +51,9 @@ Why make a copy? Backup (in case something goes wrong with the game), performanc
 ## Any modern tools for solving mod conflicts?
 [Conflict Viewer](https://www.nexusmods.com/morrowind/mods/54108), a successor of [TES3View/xEdit](https://www.nexusmods.com/morrowind/mods/54508)
 
+## How to remove records from esp plugin (to i.e. make it compatible with other plugin)?
+With [Tesame](https://www.nexusmods.com/morrowind/mods/50810)  
+
 ## Are there any tools for automated .esp plugin load ordering?
 mlox, included in Wrye Mash.  
 Alternative: [plox](https://www.nexusmods.com/morrowind/mods/54262) - a rust re-write of MLOX  
