@@ -476,6 +476,9 @@ Install [Soulgem Renamer](https://www.nexusmods.com/morrowind/mods/49861)
 Install [Rational Names Lite](https://www.nexusmods.com/morrowind/mods/51241).  
 Nice to have: [Inventory Sorter](https://www.nexusmods.com/morrowind/mods/54637?tab=posts) (not possible to save the sorting, though)
 
+## Every key looks the same
+Install [Key Replacer](https://www.nexusmods.com/morrowind/mods/1207)
+
 ## I've got rid of an important item
 Install [Keepers](https://www.nexusmods.com/morrowind/mods/51821) to prevent it in the future (suffixes quest items with "!")  
 
