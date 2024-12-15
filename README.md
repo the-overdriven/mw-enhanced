@@ -314,6 +314,7 @@ To close books and scrolls without closing the inventory, [Morrowind Code Patch]
 [Quick Character Creation](https://www.nexusmods.com/morrowind/mods/50381) - same as in vanilla but with tedious parts skipped  
 [Skip Tutorial (2009)](https://www.nexusmods.com/morrowind/mods/27266)  
 [Chargen Revamped - Expanded Lands Complete - 2024](https://www.nexusmods.com/morrowind/mods/54646)  
+[An Unexpected Start](https://www.nexusmods.com/morrowind/mods/53514)
 
 ## How do I use Quick Keys in Morrowind?
 Press F1. You can install [QuickKeys Hotbar](https://www.nexusmods.com/morrowind/mods/51192) to see all your hotkeys in the HUD.  
