@@ -537,6 +537,7 @@ For all NPCS: [Who's Where](https://www.nexusmods.com/morrowind/mods/48843)
 Install [Non-Homicidal Ecosystem](https://www.nexusmods.com/morrowind/mods/42327)  
 Could be even better if these attacks were based on player's level or health (weak monsters should be afraid to attack strong player), something like [Improved Cliff Racer AI](https://www.nexusmods.com/morrowind/mods/44712)  
 Alternative: [Less Aggressive Creatures](https://www.nexusmods.com/morrowind/mods/48292)  
+Or: [Passive Healthy Wildlife (2016)](https://www.nexusmods.com/morrowind/mods/44675)  
 Fun way to exterminate a selected type of creatures: [Animal Extinction - MWSE](https://www.nexusmods.com/morrowind/mods/51137)
 
 ## I'm lost in Vivec, every canton looks the same
