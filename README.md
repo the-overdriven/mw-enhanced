@@ -437,7 +437,8 @@ Alternative: [Pickpocket Minigame](https://www.nexusmods.com/morrowind/mods/5279
 
 ## Sneaking is useless
 Install [Stealth Improved aka stealth](https://www.nexusmods.com/morrowind/mods/49614)  
-Install [Sneaky Snatcher](https://www.nexusmods.com/morrowind/mods/55369)
+Install [Sneaky Snatcher](https://www.nexusmods.com/morrowind/mods/55369)  
+Also: [Skillful Sneaking](https://www.nexusmods.com/morrowind/mods/52410) - the more skilled you are, the faster you move when sneaking, can jump too
 
 ## Sneaky strike doesn't take weapon type into account
 Install [Sneaky Strike](https://www.nexusmods.com/morrowind/mods/48317)
