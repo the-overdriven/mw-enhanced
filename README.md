@@ -822,7 +822,7 @@ Install [Level Up Indicator - MWSE](https://www.nexusmods.com/morrowind/mods/513
 Install [Assetless No Glow aka NoGlow](https://www.nexusmods.com/morrowind/mods/47925)  
 To change glass weapons and armor: [Dim Glass - Less Irritating Glass Armor and Weapon](https://www.nexusmods.com/morrowind/mods/51544)
 
-## How to change the cheesy shiny background behind magical items in invetory?
+## How to change the cheesy shiny background behind magical items in inventory?
 Install [Seph's Inventory Decorators](https://www.nexusmods.com/morrowind/mods/50582)
 
 ## How to install animations (i.e. xbase_anim.1st.kf)?
