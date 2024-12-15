@@ -453,6 +453,9 @@ Install [Armor Training](https://www.nexusmods.com/morrowind/mods/51741)
 ## [Balance] Training magic is unbalanced, it should depend on amount of Magicka spent, rather than number of spells cast
 Install [Magicka Based Skill Progression -- MWSE-Lua Edition](https://www.nexusmods.com/morrowind/mods/48330)
 
+## [Balance] In general, shouldn't failed tries train the skills as well?
+With [OEA's Practice Makes Perfect](https://www.nexusmods.com/morrowind/mods/49142) it will
+
 ## How can I pick up books without reading them?
 Install [Book Pickup](https://www.nexusmods.com/morrowind/mods/46625)  
 Alternative: [activate key takes open books](https://www.nexusmods.com/morrowind/mods/54181)
