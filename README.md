@@ -316,6 +316,7 @@ To close books and scrolls without closing the inventory, [Morrowind Code Patch]
 [Chargen Revamped - Expanded Lands Complete - 2024](https://www.nexusmods.com/morrowind/mods/54646)  
 [An Unexpected Start](https://www.nexusmods.com/morrowind/mods/53514)  
 [Quick Char (Necro Edit)](https://www.nexusmods.com/morrowind/mods/47706)  
+[Morrowind - The Roleplaying Mod (New Starts. Play as a Non Nerevarine. and others)](https://www.nexusmods.com/morrowind/mods/49389)  
 
 ## During chargen when selecting the race it's unclear what will be my starting attributes
 Install [What Are My Attributes](https://www.nexusmods.com/morrowind/mods/49912)
@@ -594,6 +595,9 @@ Install
 * [Immersive Morrowind](https://www.nexusmods.com/morrowind/mods/54513)  
 * [NPC Schedule](https://www.nexusmods.com/morrowind/mods/45525) or [Lightweight Lua Scheduling](https://www.nexusmods.com/morrowind/mods/48584)  
 * [Lightweight Lua Scheduling](https://www.nexusmods.com/morrowind/mods/48584)  
+
+## I'm blocked by NPC standing in the way
+Install [Just Move](https://www.nexusmods.com/morrowind/mods/53340)  
 
 ## I want to have a stash for items but can't put much in containers
 Install [ContainerWeightMaxed](https://www.nexusmods.com/morrowind/mods/45698)  
