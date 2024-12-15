@@ -426,7 +426,8 @@ Install [Pluginless and Adjustable Lower First Person Sneak](https://www.nexusmo
 
 ## How do I know what are my chances of picking up lock or disarming a trap?
 Install [Security Adjuster (MWSE)](https://www.nexusmods.com/morrowind/mods/47914)
-Some QoL tweak for lockpicking: [Quick Security](https://www.nexusmods.com/morrowind/mods/52918) - allows you to select lockpicks or probes from a selection menu instead of having to search in your inventory to select it and equip it manually
+Some QoL tweak for lockpicking: [Quick Security](https://www.nexusmods.com/morrowind/mods/52918) - allows you to select lockpicks or probes from a selection menu instead of having to search in your inventory to select it and equip it manually  
+For greater immersion: [Visually Trapped](https://www.nexusmods.com/morrowind/mods/48936)
 
 ## Isn't it a bit cheaty that I know about all traps?
 Install [Locks and Traps Detection](https://www.nexusmods.com/morrowind/mods/48528) - detection will depend on your Security skill and some RNG
