@@ -420,7 +420,8 @@ Install [Pluginless and Adjustable Lower First Person Sneak](https://www.nexusmo
 Install [Security Adjuster (MWSE)](https://www.nexusmods.com/morrowind/mods/47914)
 
 ## Pickpocketing is useless
-Install [Pickpocket](https://www.nexusmods.com/morrowind/mods/47581)
+Install [Pickpocket](https://www.nexusmods.com/morrowind/mods/47581)  
+Alternative: [Pickpocket Minigame](https://www.nexusmods.com/morrowind/mods/52793)
 
 ## Sneaking is useless
 Install [Stealth Improved aka stealth](https://www.nexusmods.com/morrowind/mods/49614)  
