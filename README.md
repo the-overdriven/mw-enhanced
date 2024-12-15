@@ -419,6 +419,7 @@ Install [Pluginless and Adjustable Lower First Person Sneak](https://www.nexusmo
 
 ## How do I know what are my chances of picking up lock or disarming a trap?
 Install [Security Adjuster (MWSE)](https://www.nexusmods.com/morrowind/mods/47914)
+Some QoL tweak for lockpicking: [Quick Security](https://www.nexusmods.com/morrowind/mods/52918) - allows you to select lockpicks or probes from a selection menu instead of having to search in your inventory to select it and equip it manually
 
 ## Pickpocketing is useless
 Install [Pickpocket](https://www.nexusmods.com/morrowind/mods/47581)  
