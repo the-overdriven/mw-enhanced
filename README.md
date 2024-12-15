@@ -324,6 +324,7 @@ Install [What Are My Attributes](https://www.nexusmods.com/morrowind/mods/49912)
 Press F1. You can install [QuickKeys Hotbar](https://www.nexusmods.com/morrowind/mods/51192) to see all your hotkeys in the HUD.  
 For quicker hotkey assignment: [QuickKey Outlander - MWSE](https://www.nexusmods.com/morrowind/mods/50997)  
 If you need more hotkeys: [Hotkeys Extended](https://www.nexusmods.com/morrowind/mods/48055)  
+Many items on one hotkey: [Quick Loadouts](https://www.nexusmods.com/morrowind/mods/46708)
 
 ## Are there hotkeys to save and load?
 F5 to save, F9 to load
