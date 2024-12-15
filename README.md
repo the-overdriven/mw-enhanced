@@ -842,7 +842,7 @@ Install [New Game Confirmation](https://www.nexusmods.com/morrowind/mods/47693)
 
 ## How do I know what music track is currently playing?
 Install [Now Playing](https://www.nexusmods.com/morrowind/mods/53091)  
-[HeartStrings](https://www.nexusmods.com/morrowind/mods/52965) also has this feature.
+[HeartStrings](https://www.nexusmods.com/morrowind/mods/52965) also has this feature (but only when a track starts).
 
 ## How do I know where the Intervention spell would teleport me?
 Install [Smart Intervention](https://www.nexusmods.com/morrowind/mods/50752)
