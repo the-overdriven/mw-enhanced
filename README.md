@@ -610,7 +610,7 @@ Install [Permanent Calm - Pacifist Option Apologize Befriend Bandit and Beasts C
 Install [Just Move](https://www.nexusmods.com/morrowind/mods/53340)  
 
 ## I want to have a stash for items but can't put much in containers
-Install [ContainerWeightMaxed](https://www.nexusmods.com/morrowind/mods/45698)  
+Install [ContainerWeightMaxed](https://www.nexusmods.com/morrowind/mods/45698) (DELETED! TODO: add mirror)   
 ~~Even if using QuickLoot, [inom - Inventory mouse wheel](https://www.nexusmods.com/morrowind/mods/46847) might still be helpful here for moving items from/to container quicker.~~  
 Actually, UI Expansion has an option to move items from/to container on left click.  
 Portable alternatives: [Bag of Holding](https://www.nexusmods.com/morrowind/mods/47778), [MWSE Containers Extended](https://www.nexusmods.com/morrowind/mods/54120)  
