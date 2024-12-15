@@ -325,7 +325,7 @@ If you need more hotkeys: [Hotkeys Extended](https://www.nexusmods.com/morrowind
 F5 to save, F9 to load
 
 ## Will quick-saving save on multiple slots?
-No. You'd have to install [Sophisticated Save System](https://www.nexusmods.com/morrowind/mods/45608) for that. It adds autosave as well (including automatic save every x minutes).
+No. You'd have to install [Sophisticated Save System](https://www.nexusmods.com/morrowind/mods/45608) for that. It adds autosave as well (including automatic save every x minutes). Other auto save mod: [Simple Auto Save Modified](https://www.nexusmods.com/morrowind/mods/53794)
 
 ## The game doesn't show sheated weapons
 Install [Weapon Sheating](https://www.nexusmods.com/morrowind/mods/46069)
@@ -825,7 +825,8 @@ Install [Now Playing](https://www.nexusmods.com/morrowind/mods/53091)
 Install [Smart Intervention](https://www.nexusmods.com/morrowind/mods/50752)
 
 ## Is there a way to make the console (`) more usable?
-Install [Blue - Smart Console](https://www.nexusmods.com/morrowind/mods/53427)
+Install [Blue - Smart Console](https://www.nexusmods.com/morrowind/mods/53427)  
+Also: [More Console Commands](https://www.nexusmods.com/morrowind/mods/52500)
 
 ## I don't know what time it is
 Install [Clocks](https://www.nexusmods.com/morrowind/mods/50840)
