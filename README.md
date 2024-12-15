@@ -273,8 +273,9 @@ fFatigueJumpBase = 2 to 4
 These especially make sense to cost more fatigue when using hit-chance simplifying mods (such as Better Balanced Combat), which make the combat last shorter.
 </details>
 
-## Movement is weird, you move backwards as fast as forwards
-Install [Realistic Movement Speeds](https://www.nexusmods.com/morrowind/mods/46248)
+## Movement is weird: you move backwards as fast as forwards and diagonal movement increases your speed
+Install [Realistic Movement Speeds](https://www.nexusmods.com/morrowind/mods/46248) (for backwards movement)  
+For diagonal movement: [IMMERSIVE RUN FIX](https://www.nexusmods.com/morrowind/mods/45947)
 
 ## [Balance] All my hits are missing
 Dice-roll combat working as intended. But on a serious note, you can make the combat more dynamic by installing mods that make all swings have 100% chance to hit. I find [Better Balanced Combat](https://www.nexusmods.com/morrowind/mods/46596) to address this issue most tactfully, without breaking the balance too much, by taking side effects into consideration: i.e. fatigue is still important as the lower it is the higher is the chance to be knocked down, weapon skills also do not become meaningless but add a bonus to strength instead (which, rightfully, excludes the encumbrance bonus). Unfortunately, the mod also affects the regen rate, running speed and makes "You have failed casting the spell" popups disappear, which I'd personally prefer to leave as it is.
@@ -427,6 +428,9 @@ Install [Pluginless and Adjustable Lower First Person Sneak](https://www.nexusmo
 Install [Security Adjuster (MWSE)](https://www.nexusmods.com/morrowind/mods/47914)
 Some QoL tweak for lockpicking: [Quick Security](https://www.nexusmods.com/morrowind/mods/52918) - allows you to select lockpicks or probes from a selection menu instead of having to search in your inventory to select it and equip it manually
 
+## Isn't it a bit cheaty that I know about all traps?
+Install [Locks and Traps Detection](https://www.nexusmods.com/morrowind/mods/48528) - detection will depend on your Security skill and some RNG
+
 ## Pickpocketing is useless
 Install [Pickpocket](https://www.nexusmods.com/morrowind/mods/47581)  
 Alternative: [Pickpocket Minigame](https://www.nexusmods.com/morrowind/mods/52793)
@@ -467,7 +471,8 @@ With [OEA's Practice Makes Perfect](https://www.nexusmods.com/morrowind/mods/491
 
 ## How can I pick up books without reading them?
 Install [Book Pickup](https://www.nexusmods.com/morrowind/mods/46625)  
-Alternative: [activate key takes open books](https://www.nexusmods.com/morrowind/mods/54181)
+Alternative: [activate key takes open books](https://www.nexusmods.com/morrowind/mods/54181)  
+The book pickup mod lets you skip the reading part when taking books; the second mod makes it easier to take the book once you've started reading it.
 
 ## Is there a way to compare my current gear with new gear?
 Install [MWSE Compare Tooltips](https://www.nexusmods.com/morrowind/mods/51087), default hotkey: alt
@@ -678,6 +683,9 @@ Install [Shut Up](https://www.nexusmods.com/morrowind/mods/43310), NPCs will not
 
 ## NPC don't look at me when I talk to them
 Install [Small Quality of Life Improvements - MWSE](https://www.nexusmods.com/morrowind/mods/53905) (Face Me component)
+
+## It's unrealistic I can join two factions that don't like each other
+Install [More Exclusive Factions](https://www.nexusmods.com/morrowind/mods/49618)
 
 ## Companions, city guards and faction members are not helping me when I'm attacked
 Install [More Attentive Guards](https://www.nexusmods.com/morrowind/mods/48622). Caution, has a bug: "Every time I attack in self defense, I get reported and attacked"
