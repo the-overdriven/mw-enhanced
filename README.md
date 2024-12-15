@@ -709,6 +709,9 @@ Bigger Quest Log: [Quest Log Menu](https://www.nexusmods.com/morrowind/mods/5420
 ## Can I write in my journal or search through it?
 Yes, with [Journal Search and Edit aka journal](https://www.nexusmods.com/morrowind/mods/46756) or [Writing and Journal Enhanced](https://www.nexusmods.com/morrowind/mods/48002)
 
+## Information in Journal is too vague or not very helpful
+Install [Improved Journal Entries](https://www.nexusmods.com/morrowind/mods/48105)
+
 ## How to tell different potions in inventory apart?
 Install [Colored Potions](https://www.nexusmods.com/morrowind/mods/48999)
 
