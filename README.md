@@ -673,6 +673,7 @@ Install [Small Quality of Life Improvements - MWSE](https://www.nexusmods.com/mo
 Install [More Attentive Guards](https://www.nexusmods.com/morrowind/mods/48622). Caution, has a bug: "Every time I attack in self defense, I get reported and attacked"
 
 For companions: install [Diligent Defenders](https://www.nexusmods.com/morrowind/mods/45717)  
+Other companion mods: [article by Danae](https://danaeplays.thenet.sk/companion-modsi/)
 
 ## How to tell my followers (companions and summons) who to attack? 
 You can do on hotkey when you install [Kill Command](https://www.nexusmods.com/morrowind/mods/46723)
