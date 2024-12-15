@@ -589,9 +589,10 @@ Install [Outfit Greetings Tweaked](https://www.nexusmods.com/morrowind/mods/4606
 
 ## NPCs are too boring/static
 Install 
-* [Small Talk](https://www.nexusmods.com/morrowind/mods/54810)
-* [Immersive Morrowind](https://www.nexusmods.com/morrowind/mods/54513)
-* [NPC Schedule](https://www.nexusmods.com/morrowind/mods/45525) or [Lightweight Lua Scheduling](https://www.nexusmods.com/morrowind/mods/48584)
+* [Small Talk](https://www.nexusmods.com/morrowind/mods/54810)  
+* [Immersive Morrowind](https://www.nexusmods.com/morrowind/mods/54513)  
+* [NPC Schedule](https://www.nexusmods.com/morrowind/mods/45525) or [Lightweight Lua Scheduling](https://www.nexusmods.com/morrowind/mods/48584)  
+* [Lightweight Lua Scheduling](https://www.nexusmods.com/morrowind/mods/48584)  
 
 ## I want to have a stash for items but can't put much in containers
 Install [ContainerWeightMaxed](https://www.nexusmods.com/morrowind/mods/45698)  
