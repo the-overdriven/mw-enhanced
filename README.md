@@ -311,8 +311,9 @@ Install [Right Click Menu Exit](https://www.nexusmods.com/morrowind/mods/48458)
 To close books and scrolls without closing the inventory, [Morrowind Code Patch](https://www.nexusmods.com/morrowind/mods/19510) has a fix called "Shortcut key improvements", which allows using space bar to close them.
 
 ## Any chargen mods to speed up or diversify character creation process?
-[Quick Character Creation](https://www.nexusmods.com/morrowind/mods/50381)  
+[Quick Character Creation](https://www.nexusmods.com/morrowind/mods/50381) - same as in vanilla but with tedious parts skipped  
 [Skip Tutorial (2009)](https://www.nexusmods.com/morrowind/mods/27266)  
+[Chargen Revamped - Expanded Lands Complete - 2024](https://www.nexusmods.com/morrowind/mods/54646)  
 
 ## How do I use Quick Keys in Morrowind?
 Press F1. You can install [QuickKeys Hotbar](https://www.nexusmods.com/morrowind/mods/51192) to see all your hotkeys in the HUD.  
