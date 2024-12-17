@@ -521,7 +521,7 @@ Enemies
 * also [Fixed level multipliers](https://www.nexusmods.com/morrowind/mods/45064) - have your level multipliers be constant (only on attributes whose skills you leveled up)
 
 ## [Balance] It is too easy to get rich
-* [Commonly Used Containers Nerfed](https://www.nexusmods.com/morrowind/mods/47068?tab=files) - nerfs barrel, boxes, etc.
+* [Commonly Used Containers Nerfed](https://www.nexusmods.com/morrowind/mods/47068?tab=files) - nerfs barrel, boxes, etc. (included in [Morrowind Anti-Cheese](https://www.nexusmods.com/morrowind/mods/47305))
 * [Realistic Repair](https://www.nexusmods.com/morrowind/mods/46673) - you need a forge to repair gear, gear of killed NPC is damaged
 * [There Can Be Only One](https://www.nexusmods.com/morrowind/mods/47766) - makes daedric items unique
 * [Morrowind Anti-Cheese](https://www.nexusmods.com/morrowind/mods/47305) includes nerfed Containers mod, Container Ownership and Rarer Scrap Metal mods, makes stealing known expensive items harder or replaced with cheaper equivalents, buffs some NPCs and enemies, creeper and mudcrab have less gold, increased blind effect on Boots of Blinding Speed, nerfed items (Ebony Mail, Wraithguard, Kagrenac's Tools, Helm of Oreyn Bearclaw, Silver Staff, Water Spear, Ancient Silver Daggers, Black Hands Dagger, Ebony Arrows of Slaying, and many more), Gedna Relvel was nerfed, some items devalued (ingredients)
@@ -530,7 +530,7 @@ Enemies
 * [Economy Adjuster Adjustments](https://www.nexusmods.com/morrowind/mods/47130) - increase the mercantile and speechcraft skills of service providers
 
 ## [Balance] There are too many (low tier) items in game
-* [Commonly Used Containers Nerfed](https://www.nexusmods.com/morrowind/mods/47068?tab=files) - nerfs barrel, boxes, etc.
+* [Commonly Used Containers Nerfed](https://www.nexusmods.com/morrowind/mods/47068?tab=files) - nerfs barrel, boxes, etc. (included in [Morrowind Anti-Cheese](https://www.nexusmods.com/morrowind/mods/47305))
 * TODO
 
 ## [Balance] Trainers are broken
