@@ -691,7 +691,7 @@ Install [Shut Up](https://www.nexusmods.com/morrowind/mods/43310), NPCs will not
 ## NPC don't look at me when I talk to them
 Install [Small Quality of Life Improvements - MWSE](https://www.nexusmods.com/morrowind/mods/53905) (Face Me component)
 
-## It's unrealistic I can join two factions that don't like each other
+## It's unrealistic that I can join two factions that don't like each other
 Install [More Exclusive Factions](https://www.nexusmods.com/morrowind/mods/49618)
 
 ## Companions, city guards and faction members are not helping me when I'm attacked
