@@ -899,30 +899,30 @@ The first time you open the page, open the console with F12 and run the followin
 
 ```javascript
 function filterMods() {
-	document.querySelectorAll('.mod-tracking-table tbody tr').forEach(function(tr) {
-		const tdDownloaded = tr.querySelector('td.table-download');
-		const tdUpdated = tr.querySelector('td.table-update');
-		const updatedDateGreaterThanDownloadedDate = new Date(tdUpdated.innerHTML).getTime() > new Date(tdDownloaded.innerHTML).getTime();
+  document.querySelectorAll('.mod-tracking-table tbody tr').forEach(function(tr) {
+    const tdDownloaded = tr.querySelector('td.table-download');
+    const tdUpdated = tr.querySelector('td.table-update');
+    const updatedDateGreaterThanDownloadedDate = new Date(tdUpdated.innerHTML).getTime() > new Date(tdDownloaded.innerHTML).getTime();
 
-		if (tdDownloaded.innerHTML.includes('--') || !updatedDateGreaterThanDownloadedDate) {
-			tdDownloaded.innerHTML = '';
-			// tr.remove(); // uncomment this, if you don't want to use Stylus/CSS
-		}
-	})
+    if (tdDownloaded.innerHTML.includes('--') || !updatedDateGreaterThanDownloadedDate) {
+      tdDownloaded.innerHTML = '';
+      // tr.remove(); // uncomment this, if you don't want to use Stylus/CSS
+    }
+  })
 }
 
 
 (function() {
-    filterMods()
-    var origOpen = XMLHttpRequest.prototype.open;
-    XMLHttpRequest.prototype.open = function() {
-        console.log('request started!');
-        this.addEventListener('load', function() {
-            console.log('request completed!');
-            setTimeout(filterMods, 50)
-        });
-        origOpen.apply(this, arguments);
-    };
+  filterMods()
+  var origOpen = XMLHttpRequest.prototype.open;
+  XMLHttpRequest.prototype.open = function() {
+    console.log('request started!');
+    this.addEventListener('load', function() {
+      console.log('request completed!');
+      setTimeout(filterMods, 50)
+    });
+    origOpen.apply(this, arguments);
+  };
 })();
 ```
 
