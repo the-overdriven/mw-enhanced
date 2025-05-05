@@ -609,7 +609,7 @@ Install
 Install [Permanent Calm - Pacifist Option Apologize Befriend Bandit and Beasts Calm Down](https://www.nexusmods.com/morrowind/mods/51737)  
 
 ## I'm blocked by NPC standing in the way
-Install [Just Move](https://www.nexusmods.com/morrowind/mods/53340)  
+Install [Bumpity Bump](https://www.nexusmods.com/morrowind/mods/56458) (fixes also NPC getting stuck with each other)  
 
 ## I want to have a stash for items but can't put much in containers
 Install [ContainerWeightMaxed](https://www.nexusmods.com/morrowind/mods/45698) (DELETED! TODO: add mirror)   
