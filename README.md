@@ -936,6 +936,7 @@ When in game, press Home and look for the path in Settings
 
 ## How to view meshes with textures?
 Install [NifSkope 2.0 Dev 7](https://github.com/niftools/nifskope/releases). Set path to Morrowind Data Files in Options: Options > Settings > Resources > Add Folder.  
+Resources should point to Data Files folder. Check "Load alternate file extensions"  
 From my experience version Dev 9 doesn't load textures.
 
 ## Nice to have mods
