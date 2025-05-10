@@ -77,16 +77,16 @@ Warnings.txt, MWSE.log and mgeXE.log
 If your game's resolution doesn't match system screen resolution running the game in borderless window mode won't look like fullscreen.
 Unfortunately in this case system's screen resolution has to be adjusted to be the same as game's resolution, so it imitates fullscreen.
 But to not change the resolution manually every time you run the game you can create a simple .bat file that automates the following: 
-1. Decreases the resolution, i.e. to 720p
+1. Decreases the resolution, i.e. to 720p (with [SetResolution](https://github.com/RickStrahl/SetResolution))
 2. Runs the game.
 3. Increases the resolution (back to 1080p) after the game is closed.
 
 ```
-start /b FullscreenLock
-start /b /WAIT SetResolution 720 -noprompt
-start /d "<path to game folder>" /WAIT Morrowind.exe
-start /b /WAIT SetResolution 1080 -noprompt
-taskkill /IM FullscreenLock.exe /F
+@echo off
+pushd "c:\Users\dell\Dropbox\_GAMES\MORROWIND_\_tes3-3"
+start /b /WAIT SetResolution -w 1280 -h 720 -f 144 -noprompt
+start "" /high /WAIT Morrowind.exe
+start /b /WAIT SetResolution -w 1920 -h 1080 -f 144 -noprompt
 ```
 
 Save it as .bat file, i.e. res_720_MW.bat. Create a shortcut, open its properties and in the Target field enter:
