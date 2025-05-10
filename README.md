@@ -273,7 +273,7 @@ fFatigueBlockBase = 4 to 8
 fFatigueJumpBase = 2 to 4
 ```
 
-These especially make sense to cost more fatigue when using hit-chance simplifying mods (such as Better Balanced Combat), which make the combat last shorter.
+These especially make sense to cost more fatigue when using hit-chance simplifying mods (such as Next Generation Combat), which make the combat last shorter.
 </details>
 
 ## Movement is weird: you move backwards as fast as forwards and diagonal movement increases your speed
@@ -281,9 +281,9 @@ Install [Realistic Movement Speeds](https://www.nexusmods.com/morrowind/mods/462
 For diagonal movement: [IMMERSIVE RUN FIX](https://www.nexusmods.com/morrowind/mods/45947)
 
 ## [Balance] All my hits are missing
-Dice-roll combat working as intended. But on a serious note, you can make the combat more dynamic by installing mods that make all swings have 100% chance to hit. I find [Better Balanced Combat](https://www.nexusmods.com/morrowind/mods/46596) to address this issue most tactfully, without breaking the balance too much, by taking side effects into consideration: i.e. fatigue is still important as the lower it is the higher is the chance to be knocked down, weapon skills also do not become meaningless but add a bonus to strength instead (which, rightfully, excludes the encumbrance bonus). Unfortunately, the mod also affects the regen rate, running speed and makes "You have failed casting the spell" popups disappear, which I'd personally prefer to leave as it is.
+Dice-roll combat working as intended. But on a serious note, you can make the combat more dynamic by installing mods that make all swings have 100% chance to hit. ~~I find [Better Balanced Combat](https://www.nexusmods.com/morrowind/mods/46596) to address this issue most tactfully, without breaking the balance too much, by taking side effects into consideration: i.e. fatigue is still important as the lower it is the higher is the chance to be knocked down, weapon skills also do not become meaningless but add a bonus to strength instead (which, rightfully, excludes the encumbrance bonus).~~ Unfortunately, the mod also affects the regen rate, running speed and makes "You have failed casting the spell" popups disappear, which I'd personally prefer to leave as it is.
 
-Alternative: [Next Generation Combat](https://www.nexusmods.com/morrowind/mods/46993)
+Better alternative: [Next Generation Combat](https://www.nexusmods.com/morrowind/mods/46993)
 
 ## Fights are too quick and chaotic 
 
