@@ -805,12 +805,15 @@ Additionally, [Skill Name Skill Books](https://www.nexusmods.com/morrowind/mods/
 Install [Impact Sounds](https://www.nexusmods.com/morrowind/mods/52747)
 
 ## How to fix silent NPC groans?
-Some mods break it (Character Sound Overhaul and Impact Sounds - I'm looking at you). Install [Deathrattle Sounds](https://www.nexusmods.com/morrowind/mods/53938), it doesn't restore groans on hit, but it does restore groans on death. And adds some extra. It fixes NPCs blabbering after death as well.  
+Some mods break it (~~Character Sound Overhaul and Impact Sounds - I'm looking at you~~ apparently it was fixed in last versions). Install [Deathrattle Sounds](https://www.nexusmods.com/morrowind/mods/53938), it doesn't restore groans on hit, but it does restore groans on death. And adds some extra. It fixes NPCs blabbering after death as well.  
 Recommended together with [Small Quality of Life Improvements - MWSE](https://www.nexusmods.com/morrowind/mods/53905), which includes a component preventing repeating same combat voice-overs repeatedly (I Heard You The First Time!)
 
 ## How to silence your character's groans?
 No mod that mutes that at the moment, but [Hit Sound Overhaul](https://www.nexusmods.com/morrowind/mods/55049) can help with misplaced groans. Also: [Voice Overhaul](https://www.nexusmods.com/morrowind/mods/51215)  
 Related: [Mute High-Pitched Hit Sounds](https://www.nexusmods.com/morrowind/mods/53764)  
+
+## How to silence your character's taunts during battle? Where are they coming from?
+You probably have AURA installed. Go to MWSE config and change `PCtaunts` to `false`.
 
 ## How to disable vanity camera? (the one that turns on after 30 seconds) 
 Install [No Auto Vanity Camera aka NoAutoVanityCam](https://www.nexusmods.com/morrowind/mods/48933)
