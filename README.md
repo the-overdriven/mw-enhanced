@@ -33,6 +33,9 @@ Forget about Morrowind Launcher. Use a mod organizer, such as [Wrye Mash](https:
 [MO2](https://github.com/ModOrganizer2/modorganizer), Morrowind Mod Organizer  
 Not recommended: Vortex, Wabbajack
 
+## Where does Morrowind stores settings?  
+In Registry: `Computer\HKEY_CURRENT_USER\SOFTWARE\Classes\VirtualStore\MACHINE\SOFTWARE\WOW6432Node\Bethesda Softworks\Morrowind`
+
 ## How to make a copy of the game from MO2 and run that copy from MO2?
 To copy only the changed files (including files from MO's virtual file system) and run the copy of the game from MO2 (but detached from MO2):  
 <details>
@@ -333,6 +336,9 @@ F5 to save, F9 to load
 
 ## Will quick-saving save on multiple slots?
 No. You'd have to install [Sophisticated Save System](https://www.nexusmods.com/morrowind/mods/45608) for that. It adds autosave as well (including automatic save every x minutes). Other auto save mod: [Simple Auto Save Modified](https://www.nexusmods.com/morrowind/mods/53794)
+
+## Saving the game manually adds the location to save name
+Install [abot's Click Clears Input](https://www.nexusmods.com/morrowind/mods/52678) mod.
 
 ## The game doesn't show sheated weapons
 Install [Weapon Sheating](https://www.nexusmods.com/morrowind/mods/46069)
@@ -935,9 +941,8 @@ Thanks to this JS code every time we change the page the "Last download" cell of
 When in game, press Home and look for the path in Settings
 
 ## How to view meshes with textures?
-Install [NifSkope 2.0 Dev 7](https://github.com/niftools/nifskope/releases). Set path to Morrowind Data Files in Options: Options > Settings > Resources > Add Folder.  
-Resources should point to Data Files folder. Check "Load alternate file extensions"  
-From my experience version Dev 9 doesn't load textures.
+Install [NifSkope 2.0 Dev 7](https://github.com/niftools/nifskope/releases). Set path to Morrowind **Data Files** in Options: Options > Settings > Resources > Add Folder.  
+Check "Load alternate file extensions". From my experience version Dev 9 doesn't load textures.
 
 ## Nice to have mods
 Not necessarily essential and fixing any glaring issues, but can improve the gameplay.
