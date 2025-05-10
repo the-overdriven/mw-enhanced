@@ -76,10 +76,10 @@ Warnings.txt, MWSE.log and mgeXE.log
   <summary>(click to expand)</summary>
 If your game's resolution doesn't match system screen resolution running the game in borderless window mode won't look like fullscreen.
 Unfortunately in this case system's screen resolution has to be adjusted to be the same as game's resolution, so it imitates fullscreen.
-But to not change the resolution manually every time you run the game you can create a simple .bat file that automates the following: 
-1. Decreases the resolution, i.e. to 720p (with [SetResolution](https://github.com/RickStrahl/SetResolution))
-2. Runs the game.
-3. Increases the resolution (back to 1080p) after the game is closed.
+But to not change the resolution manually every time you run the game you can create a simple .bat file that automates the following:  
+1. Decreases the resolution, i.e. to 720p (with [SetResolution](https://github.com/RickStrahl/SetResolution))  
+2. Runs the game.  
+3. Increases the resolution (back to 1080p) after the game is closed.  
 
 ```
 @echo off
