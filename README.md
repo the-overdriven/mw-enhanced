@@ -74,6 +74,7 @@ Warnings.txt, MWSE.log and mgeXE.log
 ## But I want to play in lower resolution and fullscreen
 <details>
   <summary>(click to expand)</summary>
+
 If your game's resolution doesn't match system screen resolution running the game in borderless window mode won't look like fullscreen.
 Unfortunately in this case system's screen resolution has to be adjusted to be the same as game's resolution, so it imitates fullscreen.
 But to not change the resolution manually every time you run the game you can create a simple .bat file that automates the following:  
@@ -91,6 +92,7 @@ start /b /WAIT SetResolution -w 1920 -h 1080 -f 144 -noprompt
 
 Save it as .bat file, i.e. res_720_MW.bat. Create a shortcut, open its properties and in the Target field enter:
 `C:\Windows\System32\cmd.exe /C "<path to the script>\res_720_MW.bat"`
+
 </details>
 
 ## On multiple screens setup, moving mouse in game moves cursor on the second screen
