@@ -33,7 +33,7 @@ Forget about Morrowind Launcher. Use a mod organizer, such as [Wrye Mash](https:
 [MO2](https://github.com/ModOrganizer2/modorganizer), Morrowind Mod Organizer  
 Not recommended: Vortex, Wabbajack
 
-## Where does Morrowind stores settings?  
+## Where does Morrowind store settings?  
 In Registry: `Computer\HKEY_CURRENT_USER\SOFTWARE\Classes\VirtualStore\MACHINE\SOFTWARE\WOW6432Node\Bethesda Softworks\Morrowind`
 
 ## How to make a copy of the game from MO2 and run that copy from MO2?
