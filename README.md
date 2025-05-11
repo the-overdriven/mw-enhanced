@@ -732,7 +732,7 @@ After installing [Torch Hotkey](https://www.nexusmods.com/morrowind/mods/45747) 
 
 ## There is no hotkey for Quests
 After installing [Hot Quests](https://www.nexusmods.com/morrowind/mods/48976) the hotkey is "U"  
-In [Quest Log Menu](Quest Log Menu) it's "H"
+In [Quest Log Menu]([Quest Log Menu](https://www.nexusmods.com/morrowind/mods/54203)) it's "H"
 
 ## Is there a mod that allows mouse control?
 Yes, [Morrowind Mouse Control](https://www.nexusmods.com/morrowind/mods/48254)
