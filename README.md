@@ -731,7 +731,8 @@ After installing [Small Quality of Life Improvements - MWSE](https://www.nexusmo
 After installing [Torch Hotkey](https://www.nexusmods.com/morrowind/mods/45747) the hotkey is "C"
 
 ## There is no hotkey for Quests
-After installing [Hot Quests](https://www.nexusmods.com/morrowind/mods/48976) the hotkey is "U"
+After installing [Hot Quests](https://www.nexusmods.com/morrowind/mods/48976) the hotkey is "U"  
+In [Quest Log Menu](Quest Log Menu) it's "H"
 
 ## Is there a mod that allows mouse control?
 Yes, [Morrowind Mouse Control](https://www.nexusmods.com/morrowind/mods/48254)
