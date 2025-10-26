@@ -609,8 +609,7 @@ Install [Outfit Greetings Tweaked](https://www.nexusmods.com/morrowind/mods/4606
 Install 
 * [Small Talk](https://www.nexusmods.com/morrowind/mods/54810)  
 * [Immersive Morrowind](https://www.nexusmods.com/morrowind/mods/54513)  
-* [NPC Schedule](https://www.nexusmods.com/morrowind/mods/45525) or [Lightweight Lua Scheduling](https://www.nexusmods.com/morrowind/mods/48584)  
-* [Lightweight Lua Scheduling](https://www.nexusmods.com/morrowind/mods/48584)
+* [NPC Schedule](https://www.nexusmods.com/morrowind/mods/45525) or [Lightweight Lua Scheduling](https://www.nexusmods.com/morrowind/mods/48584)
 * [Living CIties of Vvardenfell (Reupload)](https://www.nexusmods.com/morrowind/mods/54662)
 
 ## Once NPC attacks it's impossible to calm them (permanently)
