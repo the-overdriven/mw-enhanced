@@ -107,8 +107,8 @@ Install [Expeditious Exit](https://www.nexusmods.com/morrowind/mods/45634)
 Open MGE XE settings and adjust the Menu UI scaling to your liking. Depending on game's resolution I find 1.20 - 1.50 values most optimal.
 
 ## Any way I can change the game's font?
-TODO  
-For now use [Beauty Font](https://www.nexusmods.com/morrowind/mods/49201)
+Use [Oblivion Font Editor](https://www.nexusmods.com/oblivion/mods/48029) to create fonts and [FontReader](https://www.nexusmods.com/morrowind/mods/52999) to fix font heights.  
+Good vanilla font: [Beauty Font](https://www.nexusmods.com/morrowind/mods/49201)
 
 ## I get low FPS (i.e. in cities, Vivec exteriors)
 <details>
