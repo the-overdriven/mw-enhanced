@@ -610,14 +610,15 @@ Alternative: [Weight of the World](https://www.nexusmods.com/morrowind/mods/5119
 Install [No NPC Shouting at 0 Alarm](https://www.nexusmods.com/morrowind/mods/53837)
 
 ## NPCs are commenting my outfit ALL THE TIME
-Install [Outfit Greetings Tweaked](https://www.nexusmods.com/morrowind/mods/46066)
+Install [Outfit Greetings Tweaked](https://www.nexusmods.com/morrowind/mods/46066) and [Unique NPC Greetings](https://www.nexusmods.com/morrowind/mods/58224)
 
 ## NPCs are too boring/static
 Install 
 * [Small Talk](https://www.nexusmods.com/morrowind/mods/54810)  
 * [Immersive Morrowind](https://www.nexusmods.com/morrowind/mods/54513)  
 * [NPC Schedule](https://www.nexusmods.com/morrowind/mods/45525) or [Lightweight Lua Scheduling](https://www.nexusmods.com/morrowind/mods/48584)
-* [Living CIties of Vvardenfell (Reupload)](https://www.nexusmods.com/morrowind/mods/54662)
+* [Living Cities of Vvardenfell (Reupload)](https://www.nexusmods.com/morrowind/mods/54662)
+* [Unique NPC Greetings](https://www.nexusmods.com/morrowind/mods/58224)
 
 ## Once NPC attacks it's impossible to calm them (permanently)
 Install [Permanent Calm - Pacifist Option Apologize Befriend Bandit and Beasts Calm Down](https://www.nexusmods.com/morrowind/mods/51737)  
