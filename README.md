@@ -444,19 +444,19 @@ Install [Security Adjuster (MWSE)](https://www.nexusmods.com/morrowind/mods/4791
 Some QoL tweak for lockpicking: [Quick Security](https://www.nexusmods.com/morrowind/mods/52918) - allows you to select lockpicks or probes from a selection menu instead of having to search in your inventory to select it and equip it manually  
 For greater immersion: [Visually Trapped](https://www.nexusmods.com/morrowind/mods/48936)
 
-## Isn't it a bit cheaty that I know about all traps?
-Install [Locks and Traps Detection](https://www.nexusmods.com/morrowind/mods/48528) - detection will depend on your Security skill and some RNG
+## [Balance] Isn't it a bit cheaty that I know about all traps?
+Install [Locks and Traps Detection (MWSE)](https://www.nexusmods.com/morrowind/mods/48528) - detection will depend on your Security skill and some RNG
 
-## Pickpocketing is useless
+## [Balance] Pickpocketing is useless
 Install [Pickpocket](https://www.nexusmods.com/morrowind/mods/47581)  
 Alternative: [Pickpocket Minigame](https://www.nexusmods.com/morrowind/mods/52793)
 
-## Sneaking is useless
+## [Balance] Sneaking is useless
 Install [Stealth Improved aka stealth](https://www.nexusmods.com/morrowind/mods/49614)  
 Install [Sneaky Snatcher](https://www.nexusmods.com/morrowind/mods/55369)  
 Also: [Skillful Sneaking](https://www.nexusmods.com/morrowind/mods/52410) - the more skilled you are, the faster you move when sneaking, can jump too
 
-## Sneaky strike doesn't take weapon type into account
+## [Balance] Sneaky strike doesn't take weapon type into account
 Install [Sneaky Strike](https://www.nexusmods.com/morrowind/mods/48317)
 
 ## The right column of the charsheet is too long compared to the left one
@@ -600,7 +600,7 @@ It comes with a catch: the hotkey should not type anything (i.e. F3), otherwise 
 ## I'm pestered by dark assassins from Tribunal content early game
 Install [Tribunal Delayed](https://www.nexusmods.com/morrowind/mods/33973/) or [Expansion Delay](https://www.nexusmods.com/morrowind/mods/47588)
 
-## I'm encumbered all the time
+## [Balanced] I'm encumbered all the time
 Install [Encumberance increaser](https://www.nexusmods.com/morrowind/mods/28213) and/or [Bag of Holding](https://www.nexusmods.com/morrowind/mods/47778).  
 Nice to have to monitor encumbrance: [HUD Encumbrance Bar](https://www.nexusmods.com/morrowind/mods/49608)  
 Other: [Units and Vagueness](https://www.nexusmods.com/morrowind/mods/49046)  
@@ -631,9 +631,6 @@ Install [ContainerWeightMaxed](https://www.nexusmods.com/morrowind/mods/45698) (
 ~~Even if using QuickLoot, [inom - Inventory mouse wheel](https://www.nexusmods.com/morrowind/mods/46847) might still be helpful here for moving items from/to container quicker.~~  
 Actually, UI Expansion has an option to move items from/to container on left click.  
 Portable alternatives: [Bag of Holding](https://www.nexusmods.com/morrowind/mods/47778), [MWSE Containers Extended](https://www.nexusmods.com/morrowind/mods/54120)  
-
-## Is there a quicker way for looting items?
-Install [More QuickLoot](https://www.nexusmods.com/morrowind/mods/53809)
 
 ## How do I know which item is owned or important?
 Install [Essential Indicators](https://www.nexusmods.com/morrowind/mods/48267)
@@ -768,10 +765,10 @@ Install [Colored Potions](https://www.nexusmods.com/morrowind/mods/48999)
 ## How to tell different scrolls in inventory apart?
 Install [MWSE Scroll Icons](https://www.nexusmods.com/morrowind/mods/54006)
 
-## All merchants are broke
+## [Balance] All merchants are broke
 Install [More Barter Gold](https://www.nexusmods.com/morrowind/mods/40053) and [Merchant Gold Resets Instantly](https://www.nexusmods.com/morrowind/mods/43764)
 
-## Race and birthsign spells are ~~cringe~~ useless and unbalanced
+## [Balance] Race and birthsign spells are ~~cringe~~ useless and unbalanced
 Install [Balanced Passive Races and Birthsigns](https://www.nexusmods.com/morrowind/mods/47782), it will replace spells (that no one uses anyway) with permanent bonuses. [BTB's Game Improvements (Necro Edit) Tweaked](https://www.nexusmods.com/morrowind/mods/50308) also rebalances races and birthsigns.
 
 ## Using shrines is clunky
@@ -803,7 +800,7 @@ With [Seph's Enemy Bars](https://www.nexusmods.com/morrowind/mods/50577). There 
 ## Is there a way to stop friendly-fire?
 Yes, install [No More Friendly Fire](https://www.nexusmods.com/morrowind/mods/48801)
 
-## How to tell if I've already read a given book? Also: books are increasing full skill points, which incentives postponing the bonus. And not sure which book actually gives the bonus.
+## [Balance] How to tell if I've already read a given book? Also: books are increasing full skill points, which incentives postponing the bonus. And not sure which book actually gives the bonus.
 If reading a book bumps a skill to next round integer value then it would pay off better to read them when our skills are high enough and expensive to train. And also ideally when have just advanced recently. A more fair solution would be to make books increase xp of skill, rather than bump the skill to the next round value. Then it wouldn't matter when we receive the bonus.  
 Luckily [Reading is Good](https://www.nexusmods.com/morrowind/mods/51705) and [Book Worm](https://www.nexusmods.com/morrowind/mods/46851) should fix that.  
 Additionally, [Skill Name Skill Books](https://www.nexusmods.com/morrowind/mods/51510) will show which skill does a given book increase.
@@ -840,7 +837,7 @@ There is none, Bethesda forgot to add it. Install [Cinia](https://www.nexusmods.
 ## I can sleep in owned beds, doesn't make much sense
 Arguably it does make sense (especially if the house is abandoned), but if you like to limit yourself: install [Bed Buddies](https://www.nexusmods.com/morrowind/mods/46632). 
 
-## Magicka (mana) doesn't regenerate
+## [Balance] Magicka (mana) doesn't regenerate
 Most advanced and configurable mod for this appears to be [Magicka Regeneration Suite](https://www.nexusmods.com/morrowind/mods/49153)  
 Alternative: [Puristy Friendly Magicka Regen](https://www.nexusmods.com/morrowind/mods/45636)
 
