@@ -115,7 +115,7 @@ Font 1=century_gothic_font_regular ; used for console
 Font 2=daedric_font ; used for ??
 ```
 Use [Oblivion Font Editor](https://www.nexusmods.com/oblivion/mods/48029) to create fonts and [FontReader](https://www.nexusmods.com/morrowind/mods/52999) to fix font heights. Personally, I find font size 18 and height 14 most optimal.  
-Good vanilla-style font: [Beauty Font](https://www.nexusmods.com/morrowind/mods/49201)
+Good vanilla-style font: [Beauty Font](https://www.nexusmods.com/morrowind/mods/49201) or [Balmora - A Modern Font Replacer](https://www.nexusmods.com/morrowind/mods/57343)
 
 ## I get low FPS (i.e. in cities, Vivec exteriors)
 <details>
