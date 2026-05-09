@@ -289,8 +289,6 @@ These especially make sense to cost more fatigue when using hit-chance simplifyi
 Install [Realistic Movement Speeds](https://www.nexusmods.com/morrowind/mods/46248) (for backwards movement)  
 For diagonal movement: [IMMERSIVE RUN FIX](https://www.nexusmods.com/morrowind/mods/45947)
 
-## [Balance] All my hits are missing
-Dice-roll combat working as intended. But on a serious note, you can make the combat more dynamic by installing mods that make all swings have 100% chance to hit. ~~I find [Better Balanced Combat](https://www.nexusmods.com/morrowind/mods/46596) to address this issue most tactfully, without breaking the balance too much, by taking side effects into consideration: i.e. fatigue is still important as the lower it is the higher is the chance to be knocked down, weapon skills also do not become meaningless but add a bonus to strength instead (which, rightfully, excludes the encumbrance bonus).~~ Unfortunately, the mod also affects the regen rate, running speed and makes "You have failed casting the spell" popups disappear, which I'd personally prefer to leave as it is.
 
 Better alternative: [Next Generation Combat](https://www.nexusmods.com/morrowind/mods/46993)
 
@@ -352,9 +350,6 @@ Install [abot's Click Clears Input](https://www.nexusmods.com/morrowind/mods/526
 ## The game doesn't show sheated weapons
 Install [Weapon Sheating](https://www.nexusmods.com/morrowind/mods/46069)
 
-## [Balance] Being able to chug multiple potions at the same time is too OP. Alchemy is too OP, in general.
-Install [Controlled Consumption](https://www.nexusmods.com/morrowind/mods/45624) or [Alchemical Hustle](https://www.nexusmods.com/morrowind/mods/51050). Also [Better Balanced Booze](https://www.nexusmods.com/morrowind/mods/45844)
-
 ## Good alchemy mod? To enable filtering by effect, rather than by ingredient
 ~~[mwse Alchemy Filter](https://www.nexusmods.com/morrowind/mods/44808). The hotkey is right ctrl. After applying filter click on ingredients as you would normally and it will show only those that can cause the desired effect.~~  
 
@@ -393,13 +388,6 @@ Install [No Respawns](https://www.nexusmods.com/morrowind/mods/53853)
 ## How can I adjust the respawn rate of plants
 In [GMST Menu](https://www.nexusmods.com/morrowind/mods/46428) set `iMonthsToRespawn`  
 
-## [Balance] Difficulty (some enemies) scale with level, I want more challenges early game
-[No Respawns](https://www.nexusmods.com/morrowind/mods/53853) provides this option as well.  
-[OperatorJack's Deleveler](https://www.nexusmods.com/morrowind/mods/47897) will also delevel item lists.
-
-## [Balance] Enemies react too late and they stand still when fighting
-Install [PvP](https://www.nexusmods.com/morrowind/mods/51034)
-
 ## How to tell blighted creatures from non-blighted?
 Install [Blighted Animals Retextured](https://www.nexusmods.com/morrowind/mods/42245)  
 If you want something opposite, that is remove "blighted" adjectives and "diseased" adjectives from their names, install [No Disease Labels](https://www.nexusmods.com/morrowind/mods/48295)
@@ -432,10 +420,6 @@ Yes, install [Instant Load](https://www.nexusmods.com/morrowind/mods/48907)
 ## Is there any way to mark visited locations?
 Install [Been There Done That](https://www.nexusmods.com/morrowind/mods/52807) and/or [Chalk](https://www.nexusmods.com/morrowind/mods/54043)
 
-## [Balance] Bounty on your head should be gone when you kill all witnesses
-Install [The Last Witness](https://www.nexusmods.com/morrowind/mods/46684)  
-Alternative: [No Witness - No Bounty aka NWNC](https://www.nexusmods.com/morrowind/mods/53384)
-
 ## When sneaking in first-person view it doesn't feel like crouching
 Install [Pluginless and Adjustable Lower First Person Sneak](https://www.nexusmods.com/morrowind/mods/48642)
 
@@ -444,28 +428,8 @@ Install [Security Adjuster (MWSE)](https://www.nexusmods.com/morrowind/mods/4791
 Some QoL tweak for lockpicking: [Quick Security](https://www.nexusmods.com/morrowind/mods/52918) - allows you to select lockpicks or probes from a selection menu instead of having to search in your inventory to select it and equip it manually  
 For greater immersion: [Visually Trapped](https://www.nexusmods.com/morrowind/mods/48936)
 
-## [Balance] Isn't it a bit cheaty that I know about all traps?
-Install [Locks and Traps Detection (MWSE)](https://www.nexusmods.com/morrowind/mods/48528) - detection will depend on your Security skill and some RNG
-
-## [Balance] Pickpocketing is useless
-Install [Pickpocket](https://www.nexusmods.com/morrowind/mods/47581)  
-Alternative: [Pickpocket Minigame](https://www.nexusmods.com/morrowind/mods/52793)
-
-## [Balance] Sneaking is useless
-Install [Stealth Improved aka stealth](https://www.nexusmods.com/morrowind/mods/49614)  
-Install [Sneaky Snatcher](https://www.nexusmods.com/morrowind/mods/55369)  
-Also: [Skillful Sneaking](https://www.nexusmods.com/morrowind/mods/52410) - the more skilled you are, the faster you move when sneaking, can jump too
-
-## [Balance] Sneaky strike doesn't take weapon type into account
-Install [Sneaky Strike](https://www.nexusmods.com/morrowind/mods/48317)
-
 ## The right column of the charsheet is too long compared to the left one
 Install [Tidy Charsheet](https://www.nexusmods.com/morrowind/mods/52776)
-
-## [Balance] When leveling, HP gain is not retroactive, which incentivizes focusing on Endurance early game. Excess progress and multiplier bonus are also sometimes wasted.
-Install [Improved Vanilla Leveling](https://www.nexusmods.com/morrowind/mods/48065) (fixes retroactive health, multipliers and how XP carry-over contributes to attributes)  
-XP carry-over fix (unrelated to attribute gain): [Experience Carryover](https://www.nexusmods.com/morrowind/mods/53972)  
-Also: [Quest Skill Reward Fix](https://www.nexusmods.com/morrowind/mods/48269) - applies skill rewards from quests more optimally.
 
 Alternative for Improved Vanilla Leveling: [Madd Leveler](https://www.nexusmods.com/morrowind/mods/45865)  
 Another alternative: [MULE - Mort's Ultimate Leveling Experience](https://www.nexusmods.com/morrowind/mods/47452)
@@ -476,15 +440,6 @@ Install [Loading Doors Lock Tune](https://www.nexusmods.com/morrowind/mods/46094
 ## Persuasion is kind of obscure, how do I know what are my chances? how to make it more fun?
 Install [Visible Persuasion Chance](https://www.nexusmods.com/morrowind/mods/48634)  
 Install [Silver Tongue](https://www.nexusmods.com/morrowind/mods/49086) (you can see NPC Fight and Alarm levels and lower Alarm, makes conversation with hostile NPC possible if they are not currently attacking, this makes Intimidation more useful)
-
-## [Balance] Training armor skill is tedious
-Install [Armor Training](https://www.nexusmods.com/morrowind/mods/51741)
-
-## [Balance] Training magic is unbalanced, it should depend on amount of Magicka spent, rather than number of spells cast
-Install [Magicka Based Skill Progression -- MWSE-Lua Edition](https://www.nexusmods.com/morrowind/mods/48330)
-
-## [Balance] In general, shouldn't failed tries train the skills as well?
-With [OEA's Practice Makes Perfect](https://www.nexusmods.com/morrowind/mods/49142) it will
 
 ## How can I pick up books without reading them?
 Install [Book Pickup](https://www.nexusmods.com/morrowind/mods/46625)  
@@ -512,44 +467,6 @@ Install [Key Replacer](https://www.nexusmods.com/morrowind/mods/1207)
 
 ## I've got rid of an important item
 Install [Keepers](https://www.nexusmods.com/morrowind/mods/51821) to prevent it in the future (suffixes quest items with "!")  
-
-## [Balance] The game is too easy, how to make it harder?
-* Controlled Consumption: [click](https://github.com/the-overdriven/morrowind-issues-and-fixes/tree/main#being-able-to-chug-multiple-potions-at-the-same-time-is-too-op-alchemy-is-too-op-in-general)
-* No enemy (and item) scaling: [click](https://github.com/the-overdriven/morrowind-issues-and-fixes/tree/main#difficulty-some-enemies-scale-with-level-i-want-more-challenges-early-game)
-* Adjust progress: [click](https://github.com/the-overdriven/morrowind-issues-and-fixes/tree/main?tab=readme-ov-file#progresion-is-too-quickeasy)
-* Better economy: [click](https://github.com/the-overdriven/morrowind-issues-and-fixes/tree/main?tab=readme-ov-file#it-is-too-easy-to-get-rich)
-* MXPS - Morrowind Experience Point System (MWSE): [click](https://www.nexusmods.com/morrowind/mods/53870), alternative: MULE, or CCCP
-* [BTB's Game Improvements (Necro Edit) Tweaked](https://www.nexusmods.com/morrowind/mods/50308) - BTB's Game Improvements with Necrolesian's and Sigourn's edits. A lot of tweaks: rebalances races, birthsigns, ingredients, magic (some effects disabled to prevent exploits), NPCs have new spells, lowered value of overpriced items, overhauled enchantments (i.e. it's no longer possible to self-enchant items, or to make custom constant effect enchantments), overhauled skill progression
-* Recommended with BTBGI: [Fortify MAX](https://www.nexusmods.com/morrowind/mods/49825), [Economy Adjuster: Crime](https://www.nexusmods.com/morrowind/mods/47130), [Enhanced Detection Lite](https://www.nexusmods.com/morrowind/mods/48471), [Nimble Armor](https://www.nexusmods.com/morrowind/mods/48251), [Lua Lockbashing](https://www.nexusmods.com/morrowind/mods/48544), [Hold Your Breath](https://www.nexusmods.com/morrowind/mods/48872)
-* Limited Resting, Waiting and Regen - [click](https://www.nexusmods.com/morrowind/mods/49191) or [No Rest Without Beds](https://www.nexusmods.com/morrowind/mods/46724), also: [Find Shelter MWSE](https://www.nexusmods.com/morrowind/mods/48583)  
-* Intruder - No Trespassing Mod - [click](https://www.nexusmods.com/morrowind/mods/55223)  
-
-Enemies  
-* Make enemy react quicker and fight better: [click](https://github.com/the-overdriven/mw-enhanced/tree/main?tab=readme-ov-file#balance-enemies-react-too-late-and-they-stand-still-when-fighting)
-* More Deadly Morrowind Denizens: [click](https://www.nexusmods.com/morrowind/mods/48745)
-* Vanilla friendly creatures and undeads expansion: [click](https://www.nexusmods.com/morrowind/mods/48818)
-* OAAB - Tombs and Towers: [click](https://www.nexusmods.com/morrowind/mods/49131)
-* Mines and Caverns: [click](https://www.nexusmods.com/morrowind/mods/44893)
-
-## [Balance] Progression is too quick/easy
-* Install [Proportional Progression](https://www.nexusmods.com/morrowind/mods/45697) or [Proportional Progression Expanded](https://www.nexusmods.com/morrowind/mods/53782)  
-* also [Fixed level multipliers](https://www.nexusmods.com/morrowind/mods/45064) - have your level multipliers be constant (only on attributes whose skills you leveled up)
-
-## [Balance] It is too easy to get rich
-* [Commonly Used Containers Nerfed](https://www.nexusmods.com/morrowind/mods/47068?tab=files) - nerfs barrel, boxes, etc. (included in [Morrowind Anti-Cheese](https://www.nexusmods.com/morrowind/mods/47305))
-* [Realistic Repair](https://www.nexusmods.com/morrowind/mods/46673) - you need a forge to repair gear, gear of killed NPC is damaged
-* [There Can Be Only One](https://www.nexusmods.com/morrowind/mods/47766) - makes daedric items unique
-* [Morrowind Anti-Cheese](https://www.nexusmods.com/morrowind/mods/47305) includes nerfed Containers mod, Container Ownership and Rarer Scrap Metal mods, makes stealing known expensive items harder or replaced with cheaper equivalents, buffs some NPCs and enemies, creeper and mudcrab have less gold, increased blind effect on Boots of Blinding Speed, nerfed items (Ebony Mail, Wraithguard, Kagrenac's Tools, Helm of Oreyn Bearclaw, Silver Staff, Water Spear, Ancient Silver Daggers, Black Hands Dagger, Ebony Arrows of Slaying, and many more), Gedna Relvel was nerfed, some items devalued (ingredients)
-* [Smarter Harder Barter](https://www.nexusmods.com/morrowind/mods/50883) - among many other things, removes randomness from haggling
-* [The Morrowind Randomizer](https://www.nexusmods.com/morrowind/mods/44989) - randomizes the locations of 49 legendary items
-* [Economy Adjuster Adjustments](https://www.nexusmods.com/morrowind/mods/47130) - increase the mercantile and speechcraft skills of service providers
-
-## [Balance] There are too many (low tier) items in game
-* [Commonly Used Containers Nerfed](https://www.nexusmods.com/morrowind/mods/47068?tab=files) - nerfs barrel, boxes, etc. (included in [Morrowind Anti-Cheese](https://www.nexusmods.com/morrowind/mods/47305))
-* TODO
-
-## [Balance] Trainers are broken
-(idea) One way to fix it, could be to make all trainers still able to teach skills but not more than 1-5 levels (per each trainer), so visiting them would still be worthwile.
 
 ## NPC are too repeatable
 Install [NPC Clothes Randomizer - MWSE](https://www.nexusmods.com/morrowind/mods/54064)  
@@ -599,12 +516,6 @@ It comes with a catch: the hotkey should not type anything (i.e. F3), otherwise 
 
 ## I'm pestered by dark assassins from Tribunal content early game
 Install [Tribunal Delayed](https://www.nexusmods.com/morrowind/mods/33973/) or [Expansion Delay](https://www.nexusmods.com/morrowind/mods/47588)
-
-## [Balanced] I'm encumbered all the time
-Install [Encumberance increaser](https://www.nexusmods.com/morrowind/mods/28213) and/or [Bag of Holding](https://www.nexusmods.com/morrowind/mods/47778).  
-Nice to have to monitor encumbrance: [HUD Encumbrance Bar](https://www.nexusmods.com/morrowind/mods/49608)  
-Other: [Units and Vagueness](https://www.nexusmods.com/morrowind/mods/49046)  
-Alternative: [Weight of the World](https://www.nexusmods.com/morrowind/mods/51195)  
 
 ## NPCs are shouting when I'm stealing but do nothing
 Install [No NPC Shouting at 0 Alarm](https://www.nexusmods.com/morrowind/mods/53837)
@@ -765,12 +676,6 @@ Install [Colored Potions](https://www.nexusmods.com/morrowind/mods/48999)
 ## How to tell different scrolls in inventory apart?
 Install [MWSE Scroll Icons](https://www.nexusmods.com/morrowind/mods/54006)
 
-## [Balance] All merchants are broke
-Install [More Barter Gold](https://www.nexusmods.com/morrowind/mods/40053) and [Merchant Gold Resets Instantly](https://www.nexusmods.com/morrowind/mods/43764)
-
-## [Balance] Race and birthsign spells are ~~cringe~~ useless and unbalanced
-Install [Balanced Passive Races and Birthsigns](https://www.nexusmods.com/morrowind/mods/47782), it will replace spells (that no one uses anyway) with permanent bonuses. [BTB's Game Improvements (Necro Edit) Tweaked](https://www.nexusmods.com/morrowind/mods/50308) also rebalances races and birthsigns.
-
 ## Using shrines is clunky
 [Shrine Tooltips](https://www.nexusmods.com/morrowind/mods/48275) adds tooltips that tells you what each option actually does. [No Thank You](https://www.nexusmods.com/morrowind/mods/49681) adds a cancel option.
 
@@ -799,11 +704,6 @@ With [Seph's Enemy Bars](https://www.nexusmods.com/morrowind/mods/50577). There 
 
 ## Is there a way to stop friendly-fire?
 Yes, install [No More Friendly Fire](https://www.nexusmods.com/morrowind/mods/48801)
-
-## [Balance] How to tell if I've already read a given book? Also: books are increasing full skill points, which incentives postponing the bonus. And not sure which book actually gives the bonus.
-If reading a book bumps a skill to next round integer value then it would pay off better to read them when our skills are high enough and expensive to train. And also ideally when have just advanced recently. A more fair solution would be to make books increase xp of skill, rather than bump the skill to the next round value. Then it wouldn't matter when we receive the bonus.  
-Luckily [Reading is Good](https://www.nexusmods.com/morrowind/mods/51705) and [Book Worm](https://www.nexusmods.com/morrowind/mods/46851) should fix that.  
-Additionally, [Skill Name Skill Books](https://www.nexusmods.com/morrowind/mods/51510) will show which skill does a given book increase.
 
 ## Is there an easier way to drop items?
 [Caps Click to Drop](https://www.nexusmods.com/morrowind/mods/52518) and [Just Drop It](https://www.nexusmods.com/morrowind/mods/49557) for better dropping experience (corpses fall according to the terrain!)
@@ -836,10 +736,6 @@ There is none, Bethesda forgot to add it. Install [Cinia](https://www.nexusmods.
 
 ## I can sleep in owned beds, doesn't make much sense
 Arguably it does make sense (especially if the house is abandoned), but if you like to limit yourself: install [Bed Buddies](https://www.nexusmods.com/morrowind/mods/46632). 
-
-## [Balance] Magicka (mana) doesn't regenerate
-Most advanced and configurable mod for this appears to be [Magicka Regeneration Suite](https://www.nexusmods.com/morrowind/mods/49153)  
-Alternative: [Puristy Friendly Magicka Regen](https://www.nexusmods.com/morrowind/mods/45636)
 
 ## How to rename a spell or enchanted item?
 Install [Player Made Magic Rename](https://www.nexusmods.com/morrowind/mods/51484)
@@ -954,7 +850,116 @@ When in game, press Home and look for the path in Settings
 Install [NifSkope 2.0 Dev 7](https://github.com/niftools/nifskope/releases). Set path to Morrowind **Data Files** in Options: Options > Settings > Resources > Add Folder.  
 Check "Load alternate file extensions". From my experience version Dev 9 doesn't load textures.
 
-## Nice to have mods
+# Balance
+
+## [Balance] All my hits are missing
+Dice-roll combat working as intended. But on a serious note, you can make the combat more dynamic by installing mods that make all swings have 100% chance to hit. ~~I find [Better Balanced Combat](https://www.nexusmods.com/morrowind/mods/46596) to address this issue most tactfully, without breaking the balance too much, by taking side effects into consideration: i.e. fatigue is still important as the lower it is the higher is the chance to be knocked down, weapon skills also do not become meaningless but add a bonus to strength instead (which, rightfully, excludes the encumbrance bonus).~~ Unfortunately, the mod also affects the regen rate, running speed and makes "You have failed casting the spell" popups disappear, which I'd personally prefer to leave as it is.
+
+## [Balance] Being able to chug multiple potions at the same time is too OP. Alchemy is too OP, in general.
+Install [Controlled Consumption](https://www.nexusmods.com/morrowind/mods/45624) or [Alchemical Hustle](https://www.nexusmods.com/morrowind/mods/51050). Also [Better Balanced Booze](https://www.nexusmods.com/morrowind/mods/45844)
+
+
+## [Balance] Difficulty (some enemies) scale with level, I want more challenges early game
+[No Respawns](https://www.nexusmods.com/morrowind/mods/53853) provides this option as well.  
+[OperatorJack's Deleveler](https://www.nexusmods.com/morrowind/mods/47897) will also delevel item lists.
+
+## [Balance] Enemies react too late and they stand still when fighting
+Install [PvP](https://www.nexusmods.com/morrowind/mods/51034)
+
+## [Balance] Bounty on your head should be gone when you kill all witnesses
+Install [The Last Witness](https://www.nexusmods.com/morrowind/mods/46684)  
+Alternative: [No Witness - No Bounty aka NWNC](https://www.nexusmods.com/morrowind/mods/53384)
+
+## [Balance] Isn't it a bit cheaty that I know about all traps?
+Install [Locks and Traps Detection (MWSE)](https://www.nexusmods.com/morrowind/mods/48528) - detection will depend on your Security skill and some RNG
+
+## [Balance] Pickpocketing is useless
+Install [Pickpocket](https://www.nexusmods.com/morrowind/mods/47581)  
+Alternative: [Pickpocket Minigame](https://www.nexusmods.com/morrowind/mods/52793)
+
+## [Balance] Sneaking is useless
+Install [Stealth Improved aka stealth](https://www.nexusmods.com/morrowind/mods/49614)  
+Install [Sneaky Snatcher](https://www.nexusmods.com/morrowind/mods/55369)  
+Also: [Skillful Sneaking](https://www.nexusmods.com/morrowind/mods/52410) - the more skilled you are, the faster you move when sneaking, can jump too
+
+## [Balance] Sneaky strike doesn't take weapon type into account
+Install [Sneaky Strike](https://www.nexusmods.com/morrowind/mods/48317)
+
+## [Balance] When leveling, HP gain is not retroactive, which incentivizes focusing on Endurance early game. Excess progress and multiplier bonus are also sometimes wasted.
+Install [Improved Vanilla Leveling](https://www.nexusmods.com/morrowind/mods/48065) (fixes retroactive health, multipliers and how XP carry-over contributes to attributes)  
+XP carry-over fix (unrelated to attribute gain): [Experience Carryover](https://www.nexusmods.com/morrowind/mods/53972)  
+Also: [Quest Skill Reward Fix](https://www.nexusmods.com/morrowind/mods/48269) - applies skill rewards from quests more optimally.
+
+## [Balance] Training armor skill is tedious
+Install [Armor Training](https://www.nexusmods.com/morrowind/mods/51741)
+
+## [Balance] Training magic is unbalanced, it should depend on amount of Magicka spent, rather than number of spells cast
+Install [Magicka Based Skill Progression -- MWSE-Lua Edition](https://www.nexusmods.com/morrowind/mods/48330)
+
+## [Balance] In general, shouldn't failed tries train the skills as well?
+With [OEA's Practice Makes Perfect](https://www.nexusmods.com/morrowind/mods/49142) it will
+
+
+## [Balance] The game is too easy, how to make it harder?
+* Controlled Consumption: [click](https://github.com/the-overdriven/morrowind-issues-and-fixes/tree/main#being-able-to-chug-multiple-potions-at-the-same-time-is-too-op-alchemy-is-too-op-in-general)
+* No enemy (and item) scaling: [click](https://github.com/the-overdriven/morrowind-issues-and-fixes/tree/main#difficulty-some-enemies-scale-with-level-i-want-more-challenges-early-game)
+* Adjust progress: [click](https://github.com/the-overdriven/morrowind-issues-and-fixes/tree/main?tab=readme-ov-file#progresion-is-too-quickeasy)
+* Better economy: [click](https://github.com/the-overdriven/morrowind-issues-and-fixes/tree/main?tab=readme-ov-file#it-is-too-easy-to-get-rich)
+* MXPS - Morrowind Experience Point System (MWSE): [click](https://www.nexusmods.com/morrowind/mods/53870), alternative: MULE, or CCCP
+* [BTB's Game Improvements (Necro Edit) Tweaked](https://www.nexusmods.com/morrowind/mods/50308) - BTB's Game Improvements with Necrolesian's and Sigourn's edits. A lot of tweaks: rebalances races, birthsigns, ingredients, magic (some effects disabled to prevent exploits), NPCs have new spells, lowered value of overpriced items, overhauled enchantments (i.e. it's no longer possible to self-enchant items, or to make custom constant effect enchantments), overhauled skill progression
+* Recommended with BTBGI: [Fortify MAX](https://www.nexusmods.com/morrowind/mods/49825), [Economy Adjuster: Crime](https://www.nexusmods.com/morrowind/mods/47130), [Enhanced Detection Lite](https://www.nexusmods.com/morrowind/mods/48471), [Nimble Armor](https://www.nexusmods.com/morrowind/mods/48251), [Lua Lockbashing](https://www.nexusmods.com/morrowind/mods/48544), [Hold Your Breath](https://www.nexusmods.com/morrowind/mods/48872)
+* Limited Resting, Waiting and Regen - [click](https://www.nexusmods.com/morrowind/mods/49191) or [No Rest Without Beds](https://www.nexusmods.com/morrowind/mods/46724), also: [Find Shelter MWSE](https://www.nexusmods.com/morrowind/mods/48583)  
+* Intruder - No Trespassing Mod - [click](https://www.nexusmods.com/morrowind/mods/55223)  
+
+Enemies  
+* Make enemy react quicker and fight better: [click](https://github.com/the-overdriven/mw-enhanced/tree/main?tab=readme-ov-file#balance-enemies-react-too-late-and-they-stand-still-when-fighting)
+* More Deadly Morrowind Denizens: [click](https://www.nexusmods.com/morrowind/mods/48745)
+* Vanilla friendly creatures and undeads expansion: [click](https://www.nexusmods.com/morrowind/mods/48818)
+* OAAB - Tombs and Towers: [click](https://www.nexusmods.com/morrowind/mods/49131)
+* Mines and Caverns: [click](https://www.nexusmods.com/morrowind/mods/44893)
+
+## [Balance] Progression is too linear or quick/easy
+* Install [Proportional Progression](https://www.nexusmods.com/morrowind/mods/45697) or [Proportional Progression Expanded](https://www.nexusmods.com/morrowind/mods/53782)  
+* also [Fixed level multipliers](https://www.nexusmods.com/morrowind/mods/45064) - have your level multipliers be constant (only on attributes whose skills you leveled up)
+
+## [Balance] It is too easy to get rich
+* [Commonly Used Containers Nerfed](https://www.nexusmods.com/morrowind/mods/47068?tab=files) - nerfs barrel, boxes, etc. (included in [Morrowind Anti-Cheese](https://www.nexusmods.com/morrowind/mods/47305))
+* [Realistic Repair](https://www.nexusmods.com/morrowind/mods/46673) - you need a forge to repair gear, gear of killed NPC is damaged
+* [There Can Be Only One](https://www.nexusmods.com/morrowind/mods/47766) - makes daedric items unique
+* [Morrowind Anti-Cheese](https://www.nexusmods.com/morrowind/mods/47305) includes nerfed Containers mod, Container Ownership and Rarer Scrap Metal mods, makes stealing known expensive items harder or replaced with cheaper equivalents, buffs some NPCs and enemies, creeper and mudcrab have less gold, increased blind effect on Boots of Blinding Speed, nerfed items (Ebony Mail, Wraithguard, Kagrenac's Tools, Helm of Oreyn Bearclaw, Silver Staff, Water Spear, Ancient Silver Daggers, Black Hands Dagger, Ebony Arrows of Slaying, and many more), Gedna Relvel was nerfed, some items devalued (ingredients)
+* [Smarter Harder Barter](https://www.nexusmods.com/morrowind/mods/50883) - among many other things, removes randomness from haggling
+* [The Morrowind Randomizer](https://www.nexusmods.com/morrowind/mods/44989) - randomizes the locations of 49 legendary items
+* [Economy Adjuster Adjustments](https://www.nexusmods.com/morrowind/mods/47130) - increase the mercantile and speechcraft skills of service providers
+
+## [Balance] There are too many (low tier) items in game
+* [Commonly Used Containers Nerfed](https://www.nexusmods.com/morrowind/mods/47068?tab=files) - nerfs barrel, boxes, etc. (included in [Morrowind Anti-Cheese](https://www.nexusmods.com/morrowind/mods/47305))
+* TODO
+
+## [Balance] Trainers are broken
+(idea) One way to fix it, could be to make all trainers still able to teach skills but not more than 1-5 levels (per each trainer), so visiting them would still be worthwile.
+
+## [Balanced] I'm encumbered all the time
+Install [Encumberance increaser](https://www.nexusmods.com/morrowind/mods/28213) and/or [Bag of Holding](https://www.nexusmods.com/morrowind/mods/47778).  
+Nice to have to monitor encumbrance: [HUD Encumbrance Bar](https://www.nexusmods.com/morrowind/mods/49608)  
+Other: [Units and Vagueness](https://www.nexusmods.com/morrowind/mods/49046)  
+Alternative: [Weight of the World](https://www.nexusmods.com/morrowind/mods/51195)  
+
+## [Balance] All merchants are broke
+Install [More Barter Gold](https://www.nexusmods.com/morrowind/mods/40053) and [Merchant Gold Resets Instantly](https://www.nexusmods.com/morrowind/mods/43764)
+
+## [Balance] Race and birthsign spells are ~~cringe~~ useless and unbalanced
+Install [Balanced Passive Races and Birthsigns](https://www.nexusmods.com/morrowind/mods/47782), it will replace spells (that no one uses anyway) with permanent bonuses. [BTB's Game Improvements (Necro Edit) Tweaked](https://www.nexusmods.com/morrowind/mods/50308) also rebalances races and birthsigns.
+
+## [Balance] How to tell if I've already read a given book? Also: books are increasing full skill points, which incentives postponing the bonus. And not sure which book actually gives the bonus.
+If reading a book bumps a skill to next round integer value then it would pay off better to read them when our skills are high enough and expensive to train. And also ideally when have just advanced recently. A more fair solution would be to make books increase xp of skill, rather than bump the skill to the next round value. Then it wouldn't matter when we receive the bonus.  
+Luckily [Reading is Good](https://www.nexusmods.com/morrowind/mods/51705) and [Book Worm](https://www.nexusmods.com/morrowind/mods/46851) should fix that.  
+Additionally, [Skill Name Skill Books](https://www.nexusmods.com/morrowind/mods/51510) will show which skill does a given book increase.
+
+## [Balance] Magicka (mana) doesn't regenerate
+Most advanced and configurable mod for this appears to be [Magicka Regeneration Suite](https://www.nexusmods.com/morrowind/mods/49153)  
+Alternative: [Puristy Friendly Magicka Regen](https://www.nexusmods.com/morrowind/mods/45636)
+
+# Nice to have mods
 Not necessarily essential and fixing any glaring issues, but can improve the gameplay.
 * [Animated Pickup](https://www.nexusmods.com/morrowind/mods/54532)
 * [Adventurer's Backpacks](https://www.nexusmods.com/morrowind/mods/43213)
